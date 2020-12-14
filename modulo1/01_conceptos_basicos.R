@@ -1,5 +1,5 @@
 ## Academia OpenSalud LAB Ciencia de Datos
-
+## Sesión inicial para revisar funcionalidades básicas de R y RStudio
 
 # Cargar librerias --------------------------------------------------------
 
@@ -10,7 +10,7 @@ library(knitr)
 
 data(iris)
 
-# Aproximacion inicial a los datos ----------------------------------------
+# Aproximación inicial a los datos ----------------------------------------
 
 dim(iris) # n filas y columnas
 str(iris)
@@ -95,4 +95,34 @@ legend("bottomright", legend = levels(iris$Species),
 
 boxplot(Petal.Length ~ Species, data = iris, notch = T,
         range = 1.25, width = c(1.0, 2.0, 2.0))
+
+# Ahora con ggplot
+ggplot(iris, aes(x = Species, y = Sepal.Width)) +
+  geom_boxplot(notch = T, aes(fill = Species)) +
+  scale_fill_manual(name = "Especie",values = c('#a6cee3','#1f78b4','#b2df8a'))
+
+ggplot(iris, aes(x = Species, y = Sepal.Width)) +
+  geom_boxplot(notch = T, aes(fill = Species)) +
+  scale_fill_viridis_d(name = "Especie")
+
+ggplot(iris, aes(x = Species, y = Sepal.Width)) + 
+  geom_jitter(aes(shape = Species))
+
+ggplot(iris, aes(x = Species, y = Sepal.Width)) + 
+  geom_violin(fill = '#a6cee3') + 
+  coord_flip()
+
+ggplot(iris, aes(x = Species, y = Sepal.Width)) + 
+  geom_boxplot() + 
+  geom_jitter(aes(color = Species)) # Cuidado con el orden de las capas
+
+
+
+
+
+
+
+
+
+
 
