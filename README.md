@@ -1,5 +1,4 @@
 # Ciencia de Datos para el sector público de salud
-## Academia OpenSalud LAB
 
 ![](images/academia.png)
 
