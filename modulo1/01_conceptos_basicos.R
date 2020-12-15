@@ -2,13 +2,14 @@
 ## Sesión inicial para revisar funcionalidades básicas de R y RStudio
 
 # Cargar librerias --------------------------------------------------------
-
+install.packages("tidyverse")
 library(tidyverse)
 library(knitr)
 
 # Cargar data -------------------------------------------------------------
 
 data(iris)
+View(iris)
 
 # Aproximación inicial a los datos ----------------------------------------
 
@@ -33,7 +34,7 @@ plot(iris)
 hist(iris$Sepal.Length, 
      main = "Histogram Sepal Length",
      xlab = "Length (cms)",
-     col = "red")
+     col = "red") # Se puede cambiar el color 
 
 hist(iris$Sepal.Width, 
      main = "Histogram Sepal Width",
@@ -51,7 +52,8 @@ iris %>%
   arrange(Species)
 
 # Ver tipo de variables
-data_frame(variable = names(iris)) %>% 
+
+tibble(variable = names(iris)) %>% # al usar data_frame() da un warning
   mutate(class = map(iris, typeof)) %>% 
   kable()
 
@@ -59,39 +61,57 @@ data_frame(variable = names(iris)) %>%
 # Formas de segmentar
 setosa <- iris %>% 
   filter(Species == "setosa")
-setosa2 <- iris[iris$Species == "setosa", ]
+setosa2 <- iris[iris$Species == "setosa", ] # Es lo mismo que lo anterior
 
 
 # Cambiar nombres de variables --------------------------------------------
+colnames(setosa)
 
 #FORMA 1
-colnames(setosa) <-  c("Largo.Sepalo", "Ancho.Sepalo", "Largo.Petalo", "Ancho.Petalo", "Especie")
+colnames(setosa) <-  c("largo_sepalo", "ancho_sepalo", "largo_petalo", "ancho_petalo", "especie")
 
 #FORMA 2
-colnames(setosa)[colnames(setosa)=="Largo.Sepalo"] <- "Largo2"
+colnames(setosa)[colnames(setosa) == "largo_sepalo"] <- "Largo2"
 
 #FORMA 3
 names(setosa)[3] <- "Petalo2"
 
 
-# Separar campos
+# Transformar a tidy data con pivot_longer()
 
 iris %>% 
-  tidyr::pivot_longer(cols = -Species, names_to = c("part", "dimension"),
-                      names_pattern = "(.*)\\.(.*)", values_to = "value")
+  tidyr::pivot_longer(cols = -Species, 
+                      names_to = "Type",
+                      values_to = "value")
+
+# Separar campos
+iris %>% 
+  tidyr::pivot_longer(cols = -Species, 
+                      names_to = c("part", "dimension"),
+                      names_pattern = "(.*)\\.(.*)", # Expresión regular
+                      values_to = "value")
 
 
-# Graficos
+# Gráficos con R base
 plot(iris$Sepal.Length)
 plot(iris$Sepal.Length, iris$Sepal.Width)
-plot(iris$Sepal.Length, iris$Sepal.Width,col = iris$Species, pch = 19)
+plot(iris$Sepal.Length, iris$Sepal.Width, col = iris$Species, pch = 19) # Ver otros plot character (pch)
+
 plot(iris$Petal.Length, iris$Petal.Width,
-     col = iris$Species, pch = 19,
-     xlab = 'Longitud del pétalo', ylab = 'Ancho del pétalo')
-title(main = 'IRIS', sub = 'Exploración de los pétalos según especie',
-      col.main = 'blue', col.sub = 'blue')
-legend("bottomright", legend = levels(iris$Species),
-       col = unique(iris$Species), ncol = 3, pch = 19, bty = "n")
+     col = iris$Species, 
+     pch = 17,
+     xlab = 'Longitud del pétalo', 
+     ylab = 'Ancho del pétalo')
+title(main = 'IRIS', 
+      sub = 'Exploración de los pétalos según especie',
+      col.main = 'blue', 
+      col.sub = 'blue')
+legend("bottomright", 
+       legend = levels(iris$Species),
+       col = unique(iris$Species), 
+       ncol = 3, 
+       pch = 19, 
+       bty = "n")
 
 boxplot(Petal.Length ~ Species, data = iris, notch = T,
         range = 1.25, width = c(1.0, 2.0, 2.0))
@@ -115,7 +135,6 @@ ggplot(iris, aes(x = Species, y = Sepal.Width)) +
 ggplot(iris, aes(x = Species, y = Sepal.Width)) + 
   geom_boxplot() + 
   geom_jitter(aes(color = Species)) # Cuidado con el orden de las capas
-
 
 
 
