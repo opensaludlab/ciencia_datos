@@ -1,7 +1,7 @@
 ## Academia OpenSalud LAB Ciencia de Datos
 ## Sesión inicial para revisar funcionalidades básicas de R y RStudio
 
-# Formas de escribir nombres de variables
+# Formas de escribir nombres de variables u objetos
 comunas.santiago
 comunasSantiago
 comunas_santiago
