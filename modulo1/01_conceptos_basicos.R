@@ -39,7 +39,17 @@ table(iris$Species) # conteo de variables
 dim(Iris) # cuidado con las mayúsculas
 
 
-# Visualizaciones basicas -------------------------------------------------
+
+# Buscar ayuda ------------------------------------------------------------
+
+?glimpse
+example(colnames)
+vignette(all = FALSE)
+vignette(all = TRUE)
+vignette("grid")
+
+
+# Visualizaciones básicas -------------------------------------------------
 
 # Ver algunas cosas de los datos
 
