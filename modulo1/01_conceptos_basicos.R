@@ -64,7 +64,7 @@ iris %>%
 
 # Ver tipo de variables
 
-tibble(variable = names(iris)) %>% # al usar data_frame() da un warning
+tibble(variable = names(iris)) %>% # Al usar data_frame() da un warning
   mutate(class = map(iris, typeof)) %>% 
   kable()
 
@@ -124,8 +124,10 @@ legend("bottomright",
        pch = 19, 
        bty = "n")
 
-boxplot(Petal.Length ~ Species, data = iris, notch = T,
-        range = 1.25, width = c(1.0, 2.0, 2.0))
+boxplot(Petal.Length ~ Species, 
+        data = iris, 
+        notch = T)
+
 
 # Ahora con ggplot
 ggplot(iris, aes(x = Species, y = Sepal.Width)) +
