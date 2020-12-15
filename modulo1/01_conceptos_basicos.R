@@ -1,6 +1,17 @@
 ## Academia OpenSalud LAB Ciencia de Datos
 ## Sesión inicial para revisar funcionalidades básicas de R y RStudio
 
+# Formas de escribir nombres de variables
+comunas.santiago
+comunasSantiago
+comunas_santiago
+
+# No iniciar con números o símbolos. Tampoco usar acentos ni espacios
+03 <- "casa"
+tipo casa <- "chilena"
+%casas <- c(10, 20, 44)
+
+
 # Cargar librerias --------------------------------------------------------
 install.packages("tidyverse")
 library(tidyverse)
@@ -119,7 +130,7 @@ boxplot(Petal.Length ~ Species, data = iris, notch = T,
 # Ahora con ggplot
 ggplot(iris, aes(x = Species, y = Sepal.Width)) +
   geom_boxplot(notch = T, aes(fill = Species)) +
-  scale_fill_manual(name = "Especie",values = c('#a6cee3','#1f78b4','#b2df8a'))
+  scale_fill_manual(name = "Especie", values = c('#a6cee3','#1f78b4','#b2df8a'))
 
 ggplot(iris, aes(x = Species, y = Sepal.Width)) +
   geom_boxplot(notch = T, aes(fill = Species)) +
@@ -135,13 +146,4 @@ ggplot(iris, aes(x = Species, y = Sepal.Width)) +
 ggplot(iris, aes(x = Species, y = Sepal.Width)) + 
   geom_boxplot() + 
   geom_jitter(aes(color = Species)) # Cuidado con el orden de las capas
-
-
-
-
-
-
-
-
-
 
