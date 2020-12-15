@@ -1,10 +1,10 @@
-## Academia OpenSalud LAB
-## Tipos de datos y operadores
+## Academia OpenSalud LAB Ciencia de Datos
+## Sesión Tipos de datos y operadores
 
 
 # Tipo de datos -----------------------------------------------------------
 
-# Vector
+# Vectores
 
 x = c(2,4,6,8)
 y <- x + 8
