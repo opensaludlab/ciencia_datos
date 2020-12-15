@@ -36,6 +36,8 @@ max(iris$Sepal.Length)
 unique(iris$Species) # listar valores unicos
 table(iris$Species) # conteo de variables
 
+dim(Iris) # cuidado con las mayúsculas
+
 
 # Visualizaciones basicas -------------------------------------------------
 
@@ -145,7 +147,26 @@ ggplot(iris, aes(x = Species, y = Sepal.Width)) +
   geom_violin(fill = '#a6cee3') + 
   coord_flip()
 
-ggplot(iris, aes(x = Species, y = Sepal.Width)) + 
+p <- ggplot(iris, aes(x = Species, y = Sepal.Width)) + 
   geom_boxplot() + 
   geom_jitter(aes(color = Species)) # Cuidado con el orden de las capas
+
+# Podríamos guardar algunas cosas
+
+# Plots
+# Una alternativa es usar la interfaz de RStudio "Export" o save image as
+# También podemos hacerlo con código
+
+ggsave(p, filename = "boxplot_especies.png",
+       width = 20,
+       height = 15,
+       units = "cm")
+
+# Dataframe
+
+edad <- c(2, 4, 67, 33, 2)
+ciudad <- c("Santiago", "Talca", "Puerto Montt", "Santiago", "Arica")
+
+df <- data.frame(edad, ciudad)
+write.csv(df, "ciudades.csv", row.names = FALSE) 
 
