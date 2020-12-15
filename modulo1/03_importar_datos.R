@@ -1,5 +1,7 @@
-## Academia OpenSalud LAB
+## Academia OpenSAlud LAB
+## Ciencia de Datos para el sectro público de salud
 
+## Encuesta nacional de salud 2017
 
 # Cargar librerías --------------------------------------------------------
 
