@@ -55,8 +55,14 @@ vignette(all = FALSE)
 vignette(all = TRUE)
 vignette("grid")
 
-## Lo siguiente es solo para que puedas ver las cosas que se pueden hacer
-## Las veremos en más detalles en los módulos posteriores
+
+# Que se puede hacer ------------------------------------------------------
+
+
+## Lo siguiente es solo para que puedas ver algunas cosas que se pueden hacer en R. No te asustes.
+## La idea es que veas cómo funciona R y RStudio al guardar objetos, hacer visualizaciones o mostrar datos en consola
+## Todo lo veremos en más detalle en los módulos posteriores y con calma.
+
 
 # Visualizaciones básicas -------------------------------------------------
 
