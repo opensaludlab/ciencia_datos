@@ -80,6 +80,8 @@ is.list(d)
 merged_list <- c(a, b, c, d)
 
 # Coerción ----------------------------------------------------------------
+# Esta sección la dejo para que puedas revisarla más tarde con la documentación que estara disponible.
+# Te será útil para los módulos de limpieza de datos y analisis exploratorio.
 
 # Asignar tipo de dato con función as()
 as.character(5)
