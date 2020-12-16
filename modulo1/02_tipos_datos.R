@@ -9,9 +9,12 @@
 x = c(2,4,6,8)
 y <- x + 8
 
-data(uspop)
+edades <- c(13, 34, 24, 87, 9, 55, 45)
+edades
+
+data(uspop) # Datos de población de USA
 # Hacer un subseting vector
-uspop[c(2, 5,7)]
+uspop[c(2, 5, 7)]
 
 x <- c(4,7,10, 13)
 uspop[x]
@@ -25,7 +28,7 @@ iris["Species"]
 iris$Species
 iris[,3]
 iris[, "Petal.Length"]
-iris[2:5,c(1,5)] # Solo la primera especia
+iris[2:5,c(1,5)] # Solo la primera especie
 iris$Petal.Length
 
 # Creemos un dataframe
@@ -135,7 +138,7 @@ strtoi(y)
 7 / 3
 5 %% 3 # Devuelve el residuo
 4 %% 2
-3 ^ 2
+3 ^ 2 # Potencia (elevado a...)
 4 + "tres"
 3 * NA
 7 + NA
@@ -158,3 +161,21 @@ as.factor("casa") > "auto"
 5 * 3 + (4 ^ 2) + (FALSE | TRUE)
 class(TRUE)
 as.numeric(TRUE)
+
+
+# Tidy data ---------------------------------------------------------------
+
+# Transformar a tidydata con pivot_longer()
+
+iris %>% 
+  tidyr::pivot_longer(cols = -Species, 
+                      names_to = "Type",
+                      values_to = "value")
+
+# Separar campos
+# Acá usaremos una expresión regular (regex), pero solo para que veas las posibilidades que ofrece
+iris %>% 
+  tidyr::pivot_longer(cols = -Species, 
+                      names_to = c("part", "dimension"),
+                      names_pattern = "(.*)\\.(.*)", # Expresión regular
+                      values_to = "value")

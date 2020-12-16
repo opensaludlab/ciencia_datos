@@ -1,5 +1,8 @@
 ## Academia OpenSAlud LAB
 ## Ciencia de Datos para el sectro público de salud
+## Sesión importar datos
+
+#### ARCHIVO AUN EN DESARRLLO ####
 
 
 # Cargar librerías --------------------------------------------------------
@@ -22,6 +25,7 @@ covid <- read.csv("https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/ma
 # Desde un CSV
 
 
+# Desde ...
 
 
   
