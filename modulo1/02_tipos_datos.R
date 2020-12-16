@@ -4,7 +4,7 @@
 
 # Tipo de datos -----------------------------------------------------------
 
-# Vectores
+## Vectores
 
 x <- c(2,4,6,8)
 y <- x + 8
@@ -13,13 +13,13 @@ edades <- c(13, 34, 24, 87, 9, 55, 45)
 edades
 
 data(uspop) # Datos de población de USA
-# Hacer un subseting vector
+# Hacer subseting de un vector
 uspop[c(2, 5, 7)]
-
 x <- c(4, 7, 10, 13)
 uspop[x]
 
-# Dataframes
+
+## Dataframes
 
 data("iris")
 
@@ -39,6 +39,7 @@ curso <- data.frame(nombres, edades)
 glimpse(curso)
 str(curso)
 
+
 ## Una tabla de contigencia (untidy data)
 
 data("HairEyeColor")
@@ -50,7 +51,8 @@ HairEyeColor[,,1]
 library(epitools)
 H <- expand.table(HairEyeColor)
 
-# Listas
+
+## Listas
 
 x <- list(rep('pepe', 3), 1:20)
 x[[1]]
@@ -65,7 +67,6 @@ length(x[[2]]) # 20
 list_data <- list("Red", "Green", c(21, 32, 11), TRUE, 51.23, 119.1)
 
 # is.list function 
-
 a <- list(1, 2, 3)
 b <- list(c("Jan", "Feb", "Mar")) 
 c <- list(matrix(c(1, 2, 3, 4, 5))) 
@@ -79,9 +80,11 @@ is.list(d)
 
 merged_list <- c(a, b, c, d)
 
+
 # Coerción ----------------------------------------------------------------
-# Esta sección la dejo para que puedas revisarla más tarde con la documentación que estara disponible.
-# Te será útil para los módulos de limpieza de datos y analisis exploratorio.
+
+# Esta sección la dejo para que puedas revisarla más tarde con la documentación que estará disponible.
+# Te será útil para los módulos de limpieza de datos, transformación y analisis exploratorio.
 
 # Asignar tipo de dato con función as()
 as.character(5)
@@ -162,18 +165,24 @@ as.numeric(TRUE)
 
 # Tidy data ---------------------------------------------------------------
 
+# Para revisión posterior
+
+library(tidyr)
+
 # Transformar a tidydata con pivot_longer() de la librería tidyr
 # Puedes ver info en https://tidyr.tidyverse.org/ 
 
 iris %>% 
-  tidyr::pivot_longer(cols = -Species, 
+  pivot_longer(cols = -Species, 
                       names_to = "Type",
                       values_to = "value")
 
-# Separar campos
+# Separar campos al pivotear
 # Acá usaremos una expresión regular (regex), pero solo para que veas las posibilidades que ofrece
+# Las expresiones regulares no son tan fáciles de etender, pero abren un espacio gigante de posibilidades
 iris %>% 
-  tidyr::pivot_longer(cols = -Species, 
+  pivot_longer(cols = -Species, 
                       names_to = c("part", "dimension"),
                       names_pattern = "(.*)\\.(.*)", # Expresión regular
                       values_to = "value")
+
