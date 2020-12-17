@@ -8,7 +8,6 @@ library(haven)
 ens <- read_sav("data/ENS_2017.sav") # SPSS
 View(ens)
 
-
 tabaquismo <- ens %>% 
   select(1:11, starts_with("ta"))
 inicio_tab <- tabaquismo %>% 
