@@ -171,10 +171,6 @@ as.numeric(TRUE)
 
 # Tidy data ---------------------------------------------------------------
 
-# Para revisión posterior
-
-library(tidyr)
-
 # Transformar a tidydata con pivot_longer() de la librería tidyr
 # Puedes ver info en https://tidyr.tidyverse.org/ 
 
@@ -192,3 +188,4 @@ iris %>%
                       names_pattern = "(.*)\\.(.*)", # Expresión regular
                       values_to = "value")
 
+# Cheat sheet regex https://rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf
