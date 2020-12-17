@@ -2,17 +2,22 @@
 ## Sesión Tipos de datos, estructura y operadores
 
 
+library(tidyverse)
+
 # Tipo de datos -----------------------------------------------------------
 
 ## Vectores
 
-x <- c(2,4,6,8)
+x <- c(2, 4, 6, 8)
 y <- x + 8
 
+# Con la función class() se puede averiguar el tipo de dato
+class(x)
 edades <- c(13, 34, 24, 87, 9, 55, 45)
 edades
 
 data(uspop) # Datos de población de USA
+
 # Hacer subseting de un vector
 uspop[c(2, 5, 7)]
 x <- c(4, 7, 10, 13)
@@ -28,7 +33,7 @@ iris["Species"]
 iris$Species
 iris[, 3] # Indicar posición
 iris[, "Petal.Length"] # Indicar explícitamente el nombre de la variable
-iris[2:5, c(1, 5)] # Solo la primera especie
+iris[2:5, c(1, 5)] 
 iris$Petal.Length
 
 # Creemos un dataframe
@@ -45,6 +50,7 @@ str(curso)
 data("HairEyeColor")
 HairEyeColor
 HairEyeColor[,,1]
+HairEyeColor[,, "Male"] # Lo mismo que lo anterior, pero especificando el nombre de la tabla
 
 # Tranformar la tabla de contingencia a tidydata
 # Librería epitools y su función expand.table() sirve para pasar de un array a un data frame
@@ -54,7 +60,7 @@ H <- expand.table(HairEyeColor)
 
 ## Listas
 
-x <- list(rep('pepe', 3), 1:20)
+x <- list(rep("pepe", 3), 1:20)
 x[[1]]
 class(x[[1]])  # "character"
 length(x[[1]]) # 3
@@ -78,7 +84,7 @@ is.list(b)
 is.list(c)
 is.list(d) 
 
-merged_list <- c(a, b, c, d)
+merged_list <- c(a, b, c, d) 
 
 
 # Coerción ----------------------------------------------------------------
