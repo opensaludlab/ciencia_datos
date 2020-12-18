@@ -1,5 +1,6 @@
 # Academia OpenSalud LAB Ciencia de Datos
 # Sesión inicial para revisar funcionalidades básicas de R y RStudio
+## Autor: Paulo Villarroel
 
 
 # Formas de escribir nombres de variables u objetos
