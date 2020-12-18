@@ -1,5 +1,7 @@
 ## Academia OpenSalud LAB Ciencia de Datos
 ## Sesión Tipos de datos, estructura y operadores
+## Autor: Paulo Villarroel
+
 
 install.packages("tidyverse") # Instala la librería si aún no lo has hecho
 library(tidyverse)
