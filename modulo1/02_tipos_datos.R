@@ -1,7 +1,7 @@
 ## Academia OpenSalud LAB Ciencia de Datos
 ## Sesión Tipos de datos, estructura y operadores
 
-
+install.packages("tidyverse") # Instala la librería si aún no lo has hecho
 library(tidyverse)
 
 # Tipo de datos -----------------------------------------------------------
@@ -10,6 +10,7 @@ library(tidyverse)
 
 x <- c(2, 4, 6, 8)
 y <- x + 8
+
 
 # Con la función class() se puede averiguar el tipo de dato
 class(x)
@@ -38,7 +39,7 @@ iris$Petal.Length
 
 # Creemos un dataframe
 nombres <- c("Paulo", "María", "Diego", "Marcela", "Soledad")
-edades <- c(30, 22, 45, 19, 34)
+edades <- c(30, 22, 45, 19, NA)
 
 curso <- data.frame(nombres, edades)
 glimpse(curso)
@@ -164,13 +165,14 @@ as.factor(x)
 !(FALSE | FALSE)
 
 # Orden de los operadores
-5 * 3 + (4 ^ 2) + (FALSE | TRUE) 
+5 * 3 + (4 ^ 2) + (FALSE | TRUE) # Prueba a hacer los tuyos!!
 class(TRUE)
 as.numeric(TRUE)
 
 
 # Tidy data ---------------------------------------------------------------
 
+# Tarea para la casa
 # Transformar a tidydata con pivot_longer() de la librería tidyr
 # Puedes ver info en https://tidyr.tidyverse.org/ 
 
@@ -181,7 +183,8 @@ iris %>%
 
 # Separar campos al pivotear
 # Acá usaremos una expresión regular (regex), pero solo para que veas las posibilidades que ofrece
-# Las expresiones regulares no son tan fáciles de etender, pero abren un espacio gigante de posibilidades
+# Las expresiones regulares no son tan fáciles de entender, pero abren un espacio gigante de posibilidades
+
 iris %>% 
   pivot_longer(cols = -Species, 
                       names_to = c("part", "dimension"),
