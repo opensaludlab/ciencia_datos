@@ -1,5 +1,5 @@
 ## Academia OpenSAlud LAB
-## Ciencia de Datos para el sectro público de salud
+## Ciencia de Datos para el sector público de salud
 ## Sesión importar datos
 ## Autor: Paulo Villarroel
 
@@ -20,7 +20,7 @@ library(tidyverse)
 
 casos <- read_csv("data/casos_totales.csv")
 read.table("data/casos_totales.csv", header = TRUE, sep = ",") # Fíjate en los acentos
-read_csv(file.choose())
+read_csv(file.choose()) # Solo para ejemplo
 
 casos2 <- read_csv("data/casos_totales.csv", col_types = cols( # Especificar el tipo de variable
   Comuna = col_factor(),
@@ -116,12 +116,12 @@ p <- ggplot(rm, aes(fecha, positividad, color = Comuna)) +
 ggplotly(p)
 
 
-
 # Desde datos espaciales
 # En http://www.ide.cl/ se pueden encontrar datos geográficos de Chile
 library(sf)
 library(chilemapas)
 
+# Revisa la documentación para que veas todo lo que incluye esta librería
 help(package = "chilemapas")
 
 comunas_rm <- mapa_comunas[mapa_comunas$codigo_region == 13, ]
