@@ -51,7 +51,8 @@ read_csv("data/casos_covid_sin_header.csv", col_names = c( # Agregar manualmente
 ## Desde Excel
 library(readxl)
 
-read.table(file = "clipboard", sep = "\t", header = TRUE) # Copiar desde Excel (solo en casos puntuales)
+# Truco poco estético. Copiar desde Excel (solo en casos muy puntuales)
+read.table(file = "clipboard", sep = "\t", header = TRUE)
 
 # Usando la ruta del archivo. Puedes ayudarte de getwd()
 read_csv("C:/Users/pvill/OneDrive/Proyectos R/ciencia_datos/data/casos_totales.csv")
