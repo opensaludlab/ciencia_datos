@@ -81,9 +81,9 @@ movilidad <- path %>%
   set_names() %>%
   map_df(read_excel, # map_dfc para unir por columnas
       path = path,
-      .id = "IM") # Esto agrega una columna con el nombre de las hojas
+      .id = "IM") # Esto agrega una nueva columna con el nombre de las hojas
 
-str(mad)
+str(movilidad)
 
 
 ## Desde un repositorio en internet
@@ -189,5 +189,3 @@ pob %>%
 
 # Hay varias formas de trabajar con los NA´s o de imputar valores, pero eso lo veremos en otros módulos con más detalle
 
-
-  
