@@ -28,12 +28,9 @@ casos2 <- read_csv("data/casos_totales.csv", col_types = cols( # Especificar el 
 )
 
 # A veces, el archivo csv puede que no tenga encabezados de las variables
-# Creemos un archivo de ejemplo
-casos3 <- read_csv("data/casos_totales.csv", skip = 1)
-write_csv(casos3, "data/casos_covid_sin_header.csv")
 # Observa como se ve si abrimos este archivo
-casos4 <- read_csv("data/casos_covid_sin_header.csv")
-View(casos4)
+casos3 <- read_csv("data/casos_covid_sin_header.csv")
+View(casos3)
 
 # Podemos arreglar eso de 2 formas
 read_csv("data/casos_covid_sin_header.csv", col_names = FALSE) # Poner nombres genéricos X1, X2, X3, ...
@@ -138,9 +135,6 @@ library(chilemapas)
 help(package = "chilemapas")
 
 comunas_rm <- mapa_comunas[mapa_comunas$codigo_region == 13, ]
-ss_rm <- divisiones_salud %>% 
-  filter(str_detect(nombre_servicio_salud, "Metropolitano"))
-
 rm <- st_as_sf(comunas_rm) # Con esta función se puede trabajar como si fuera un data frame
 ggplot() + 
   geom_sf(data = rm, aes(fill = codigo_comuna), show.legend = FALSE)
