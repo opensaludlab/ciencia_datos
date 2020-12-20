@@ -1,4 +1,4 @@
-## Academia OpenSAlud LAB
+## Academia OpenSalud LAB
 ## Ciencia de Datos para el sector público de salud
 ## Sesión importar datos
 ## Autor: Paulo Villarroel
@@ -83,7 +83,19 @@ movilidad <- path %>%
       path = path,
       .id = "IM") # Esto agrega una nueva columna con el nombre de las hojas
 
-str(movilidad)
+
+# Con la librería "datapasta" se pueden hacer cosas interesantes de forma rápida
+# Anda a https://cran.r-project.org/web/packages/datapasta/vignettes/how-to-datapasta.html y copia la tabla
+
+library(datapasta)
+# Para tablas en html
+tribble_paste()
+
+
+vector_paste()
+
+
+unique(casos$Region) %>% dpasta()
 
 
 ## Desde un repositorio en internet
@@ -175,8 +187,9 @@ pob %>%
   summarise(Pob_total = sum(Habitantes)) # Fíjate en la salida 
 
 # Algunas Formas de identificar si hay NA en el dataset
-summary(pob)
+is.na(pob)
 table(is.na(pob)) # Conteo total
+summary(pob)
 sapply(pob, function(x) sum(is.na(x))) # Ver por columna
 rowSums(is.na(pob)) # Por fila
 
