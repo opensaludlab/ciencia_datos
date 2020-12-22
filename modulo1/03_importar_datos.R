@@ -95,6 +95,7 @@ vector_paste()
 unique(casos$Region) %>% dpasta()
 
 
+
 ## Desde un repositorio en internet
 
 covid <- read_csv("https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto1/Covid-19_std.csv")
@@ -173,6 +174,7 @@ write_xlsx(iris, "data_clean/iris.xlsx")
 # Manejo de NA ------------------------------------------------------------
 
 # Los NA´s no permiten hacer operaciones matemáticas ni muchas otras cosas
+# Hay varias formas de trabajar con los NA o de imputar valores, pero eso lo veremos en otros módulos con más detalle
 
 pob <- read_excel("data/poblacion_comunas_NA.xlsx")
 
@@ -193,6 +195,4 @@ pob %>% na.omit()
 pob %>% 
   group_by(Region) %>% 
   summarise(Pob_total = sum(Habitantes, na.rm = TRUE)) # No considerar NA en la operación con na.rm
-
-# Hay varias formas de trabajar con los NA´s o de imputar valores, pero eso lo veremos en otros módulos con más detalle
 
