@@ -48,8 +48,8 @@ read_csv("data/casos_covid_sin_header.csv", col_names = c( # Agregar manualmente
 ## Desde Excel
 library(readxl)
 
-# Truco poco estético. Copiar desde Excel (solo en casos muy puntuales)
-read.table(file = "clipboard", sep = "\t", header = TRUE)
+# Truco poco estético, pero útil. Copiar desde Excel (solo en casos muy puntuales)
+df <- read.table(file = "clipboard", sep = "\t", header = TRUE)
 
 # Usando la ruta del archivo. Puedes ayudarte de getwd()
 read_csv("C:/Users/pvill/OneDrive/Proyectos R/ciencia_datos/data/casos_totales.csv")
@@ -70,7 +70,7 @@ read_excel(file.choose(), sheet = "pob") # Solo para casos puntuales
 read_excel(file.choose(), sheet = 1)
 
 # Para importar varias hojas de Excel de forma simultanea
-# Usaremos la función map() de la librería PURRR
+# Usaremos la función set_names() y map() de la librería PURRR (tidyverse)
 path <- "data/indice_movilidad.xlsx"
 path %>% excel_sheets()
 movilidad <- path %>%
