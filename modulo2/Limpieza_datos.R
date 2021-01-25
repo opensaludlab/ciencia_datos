@@ -1,112 +1,112 @@
-#'---
-#'title: "Introducci髇 Limpieza de datos OpenLab Salud"
-#'author: "Macarena Valenzuela Beltr醤-Rladies Concepci髇"
-#'date: "19 de enero 2021"
-#'output: github_document
-#'---
+#---
+#title: "Introducci贸n Limpieza de datos OpenLab Salud"
+#author: "Macarena Valenzuela Beltr谩n-Rladies Concepci贸nn"
+#date: "19 de enero 2021"
+#output: github_document
+#---
 
-#'Instalaci髇 de librer韆s ------------------------------------------------
+## Instalaci贸n de librer铆as ------------------------------------------------
 
 
-#'install.packages("tidyverse")# este es el comando para instalar paquetes
+#install.packages("tidyverse")# este es el comando para instalar paquetes
 library(tidyverse)
 
 
 
-#' Limpieza de datos ------------------------------------------------------
+## Limpieza de datos ------------------------------------------------------
 
 
 
 table1
 
 
-#' **Funci髇 gather** ----------------------------------------------------------
+## Funci贸n gather  ----------------------------------------------------------
 
 
 
-#' veamos la tabla 4a
+#veamos la tabla 4a
 
 table4a
 
-#'transformemos la tabla  en una tabla que contenga en forma limpia los casos
+#transformemos la tabla  en una tabla que contenga en forma limpia los casos
 
 tablacasos <- table4a %>% 
-  gather(`1999`, `2000`, key = "a駉", value = "casos")
+  gather(`1999`, `2000`, key = "a?o", value = "casos")
 
-#'imprimamos la tabla recien creada 
+#imprimamos la tabla recien creada 
 
 tablacasos
 
-#'veamos la tabla 4a
+#veamos la tabla 4a
 
 table4b
 
-#'transformemos la tablaa en una tabla que contenga en forma limpia los valores de la poblaci髇
+#transformemos la tablaa en una tabla que contenga en forma limpia los valores de la poblaci贸n
 
 tablapoblacion <- table4b %>% 
-  gather(`1999`, `2000`, key = "a駉", value = "poblacion")
+  gather(`1999`, `2000`, key = "a?o", value = "poblacion")
 
-#'imprimimos la tabla reci閚 creada
+#imprimimos la tabla reci茅n creada
 
 tablapoblacion
 
-#'unamoslas dos tablas reci閚 credas
+#unamoslas dos tablas reci茅n credas
 
 nuevatabla <- left_join(tablacasos,tablapoblacion)
 
-#'obtenci髇 de una tabla de datos limpios
+#obtenci贸n de una tabla de datos limpios
 
 nuevatabla
 
 
-#' **Funci髇 spread** ----------------------------------------------------------
+## Funci贸n spread ----------------------------------------------------------
 
 
-#'veamos la tabla 2
+#veamos la tabla 2
 
 table2
 
-#'separamos la dos variables de la columna type
+#separamos la dos variables de la columna type
 
 table2 %>% 
   spread(key = type, value = count) -> tablanueva2
 
-#'imprimimos la tabla reci閚 creada
+#imprimimos la tabla reci茅n creada
 
 tablanueva2
 
 
-#' **Funci髇 separate()** ------------------------------------------------------
+## Funci贸n separate() ------------------------------------------------------
 
 
-#'veamos la tabla 3
+#veamos la tabla 3
 
 table3
 
-#'separamos los valores de la columna rate
+#separamos los valores de la columna rate
 
 table3 %>% 
   separate(rate, into = c("cases", "population"))
 
-#'creamos una nueva tabla con la nueva transformaci髇 de datos
+#creamos una nueva tabla con la nueva transformaci贸n de datos
 
 tablanueva3 <- table3 %>% 
   separate(rate, into = c("cases", "population"))
 
 
-#'imprimimos la nueva tabla creada 
+#imprimimos la nueva tabla creada 
 
 tablanueva3
 
 
-#' **Funci髇 unite()** --------------------------------------------------
+## Funci贸n unite() --------------------------------------------------
 
 
-#'veamos la tabla 5
+#veamos la tabla 5
 
 table5
 
-#'juntamos las columnas century y year en una nueva columna llamada new_year y omitimos el s韒bolo (_) creados entre los valres
+#juntamos las columnas century y year en una nueva columna llamada new_year y omitimos el s铆mbolo (_) creados entre los valores
 
 table5 %>% 
   unite(new_year, century, year, sep = "") %>% 
@@ -114,12 +114,12 @@ table5 %>%
 
 ?unite
 
-#'creamos una nueva tabla 
+#creamos una nueva tabla 
 
 tabla5nueva <- table5 %>% 
   unite(new_year, century, year, sep = "") %>% 
   separate(rate, into = c("cases", "population"))
 
-#'imprimimos la nueva tabla creada 
+#imprimimos la nueva tabla creada 
 
 tabla5nueva
