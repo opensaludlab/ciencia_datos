@@ -10,15 +10,25 @@ library(plotly)
 
 casos <- read_csv("https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto1/Covid-19_std.csv")
 
+# Ajustemos los nombre de las variables por uno más manejables
 names_list_casos <- c("region", "cod_region", "comuna", "cod_comuna", "poblacion", "fecha", "casos")
 names(casos) <- names_list_casos
 
+# Usemos select, filter, group_by y mutate
+antofagasta <- casos %>% 
+  filter(region == "Antofagasta")
 
 casos_agrup <- casos %>% 
   group_by(region, fecha) %>%
-  mutate(total = sum(casos, na.rm = TRUE)) %>% 
+  mutate(total = sum(casos, na.rm = TRUE),
+         incidencia_100mil = casos / poblacion * 100000) %>% 
   ungroup()
 
+casos %>% 
+  mutate(incidencia_100mil = casos / poblacion * 100000) %>% 
+  head(20)
+
+# usemos juntas las funciones de manipulación con visualización
 casos_agrup %>% 
   filter(region == "Antofagasta") %>% 
   ggplot(aes(fecha, total)) +
@@ -31,13 +41,12 @@ plot <- casos_agrup %>%
   geom_path() +
   scale_y_continuous(labels = scales::comma)
 plot
+
+#Agregemosle un poco de ineteractividad al gráfico
 ggplotly(plot)
 
 
-antofagasta <- casos %>% 
-  filter(region == "Antofagasta")
-
-
+# Creemos dos tibbles para usar las funciones de dplyr
 ingresos <- tribble(~mes, ~ingresos,
                    "Enero", 200,
                    "Febrero", 344,
@@ -49,18 +58,36 @@ ingresos <- tribble(~mes, ~ingresos,
 ingresos <- ingresos %>% 
   mutate(dif = ingresos - lag(ingresos))
 
-
 ingresos %>% 
   mutate(ifelse(dif > 0, "Ehhh", "Buuu"))
 
+# Creemos otro tibble (ejemplo realizado en el taller)
+llegadas <- tribble(~inicio, ~fin,
+                    "2020-10-10 10:45", "2020-10-10 10:54",
+                    "2020-11-02 22:20", "2020-11-03 01:33",
+                    "2020-11-09 10:34", "2020-11-09 14:43"
+                    )
+llegadas$inicio <- ymd_hm(llegadas$inicio)
+llegadas$fin <- ymd_hm(llegadas$fin)
 
+llegadas <- llegadas %>% 
+  mutate(time = fin - inicio,
+         dif = time - lag(time))
+  
+
+# Veamos qué podemos hacer con el dataset Iris
+# Fíjate que las funciones se pueden concatenar 
 iris <- iris
 colnames(iris)
 
 sepal_iris <- iris %>% 
   select(Species, starts_with("Sepal"))
 
-iris %>% arrange(desc(Sepal.Length)) %>% head()
+iris %>% select(Species, Petal.Length, Petal.Width)
+iris %>% arrange(-Sepal.Length) %>% head(20)
+iris %>% select(1:3)
+iris %>% filter(Species %in% c("setosa", "virginica"))
+iris %>% select_if(is.numeric)
 
 iris %>% 
   group_by(Species) %>% 
@@ -71,11 +98,11 @@ iris %>%
             p80 = quantile(Petal.Length, prob = 0.8)
             )
 
-
 # Mutate con case_when ----------------------------------------------------
 
 casos_edad <- read_csv("https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto16/CasosGeneroEtario.csv")
 
+# transformamos a un formato tidy con pivot_longer()
 casos_edad_long <- pivot_longer(casos_edad, 
                                 cols = starts_with("20"),
                                 names_to = "Fecha",
@@ -84,6 +111,7 @@ casos_edad_long <- pivot_longer(casos_edad,
 
 casos_edad_long$`Grupo de edad` %>% unique()
 
+# Case_when() permite asignar un valor dada una condición que se puede especificar
 casos_edad_long <- casos_edad_long %>% 
   mutate(grupo = case_when(
     `Grupo de edad` == "00 - 04 años" ~ "< 10 años",
@@ -107,7 +135,7 @@ casos_edad_long <- casos_edad_long %>%
 
 casos_edad_long$grupo %>% unique()
 
-
+# Ahora podemos usar los datos anteriores para hacer un gráfico
 last_date <- max(casos_edad_long$Fecha)
 sex <- as_labeller(c(M = "Masculino", F = "Femenino"))
 
@@ -123,7 +151,6 @@ casos_edad_long %>%
        x = "",
        y = "N° de casos") +
   theme(plot.title = element_text(size = 18))
-
 
 
 # Tipos de Joint -------------------------------------------------------------------
