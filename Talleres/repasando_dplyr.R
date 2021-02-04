@@ -84,10 +84,13 @@ sepal_iris <- iris %>%
   select(Species, starts_with("Sepal"))
 
 iris %>% select(Species, Petal.Length, Petal.Width)
-iris %>% arrange(-Sepal.Length) %>% head(20)
-iris %>% select(1:3)
-iris %>% filter(Species %in% c("setosa", "virginica"))
 iris %>% select_if(is.numeric)
+iris %>% select(1:3)
+iris %>% arrange(-Sepal.Length) %>% 
+  head(20)
+iris %>% filter(Species %in% c("setosa", "virginica"))
+iris %>% filter(between(Petal.Length, 1.3, 5.5))
+
 
 iris %>% 
   group_by(Species) %>% 
