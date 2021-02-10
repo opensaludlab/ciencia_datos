@@ -1,0 +1,7 @@
+﻿Age,Cause,Country,ISOAlpha3,Measure,Metric,Sex,Subregion name,Unit of measurement,Year,Value
+All-ages,Breast cancer,Argentina,ARG,Deaths,Rate,Female,Southern Cone,"deaths per 100,000 population",2016,30.7324
+All-ages,Breast cancer,"Bolivia, Plurinational State of",BOL,Deaths,Rate,Female,Andean area,"deaths per 100,000 population",2016,6.1438
+All-ages,Breast cancer,Chile,CHL,Deaths,Rate,Female,Southern Cone,"deaths per 100,000 population",2016,18.7559
+All-ages,Breast cancer,Haiti,HTI,Deaths,Rate,Female,Latin caribbean,"deaths per 100,000 population",2016,8.9991
+All-ages,Breast cancer,Uruguay,URY,Deaths,Rate,Female,Southern Cone,"deaths per 100,000 population",2016,45.2016
+All-ages,Breast cancer,United States of America,USA,Deaths,Rate,Female,North America,"deaths per 100,000 population",2016,30.0108
