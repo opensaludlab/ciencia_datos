@@ -1,0 +1,15 @@
+clima,temperatura,humedad,ventoso,jugar_tenis
+soleado,caluroso,alta,no,no
+soleado,caluroso,alta,si,no
+nublado,caluroso,alta,no,si
+lluvioso,templado,alta,no,si
+lluvioso,frio,normal,no,si
+lluvioso,frio,normal,si,no
+nublado,frio,normal,si,si
+soleado,templado,alta,no,no
+soleado,frio,normal,no,si
+lluvioso,templado,normal,no,si
+soleado,templado,normal,si,si
+nublado,templado,alta,si,si
+nublado,caluroso,normal,no,si
+lluvioso,templado,alta,si,no
