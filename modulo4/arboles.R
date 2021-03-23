@@ -1,3 +1,8 @@
+#### Academia OpenSALud LAB
+#### Programa de formación en Ciencia de Datos para salud
+#### www.opensaludlab.org
+
+
 ## Correlaciones
 
 library(tidyverse)
@@ -31,39 +36,21 @@ cor_pares <- cor %>% stretch()
 cor_pares <- cor_pares %>% mutate(r2 = r * r)
 
 
+## Correlaciones en dataset heart
+
+# Metadatos base heart_disease https://archive.ics.uci.edu/ml/datasets/heart+disease
+
+heart_disease <- read.csv("https://raw.githubusercontent.com/opensaludlab/ciencia_datos/main/modulo4/heart.csv")
+heart_disease <- rename(heart_disease, "age" = "ï..age")
+heart_disease2 <- heart_disease %>%
+  mutate(target = ifelse(target == 0, "no", "yes"))
+
+heart_num <- heart_disease2 %>% select_if(is.numeric)
+
+heart_cor <- correlate(heart_num)
 
 
-
-# heart_disease <- read.csv("modulo4/heart.csv")
-# heart_disease <- rename(heart_disease, "age" = "ï..age")
-# dim(heart_disease)
-# str(heart_disease)
-# skimr::skim(heart_disease)
-# 
-# heart_disease2 <- heart_disease %>% 
-#   mutate(target = ifelse(target == 0, "no", "yes"))
-# 
-# heart_num <- heart_disease2 %>% select_if(is.numeric)
-# 
-# cor1 <- correlate(heart_num)
-# plot_correlation(cor1) # Se ve raro, no?
-# 
-# # Ajustemos el dataset con variables dummy
-# heart_dummy <- dummyVars(~., data = heart_train[, -1])
-# train_dummy <- predict(heart_dummy, heart_train[, -1])
-# 
-# heart_dummy <- dummyVars(~., data = heart_disease2[, -14])
-# cor2 <- correlate(heart_dummy)
-# cor2_pares <- correlate(heart_dummy) %>% stretch()
-# plot_correlation(heart_dummy)
-# 
-# cor2_pares <- correlate(heart_dummy) %>% 
-#   stretch() %>% 
-#   mutate(r2 = r * r)
-
-
-
-### Ok, ahora vamos a lo que vinimos. Veamos modelos de clasificación 
+### Ok, ahora vamos a lo que vinimos. Veamos los modelos de clasificación 
 ## Árboles de decisión
 
 tenis <- read.csv("https://raw.githubusercontent.com/opensaludlab/ciencia_datos/main/modulo4/tennis.csv")
@@ -98,9 +85,8 @@ fancyRpartPlot(salud_tree)
 
 
 
-####  Usemos la base de heart disease para clasificar
+####  Usemos nuevamente la base de heart disease para clasificar, pero esta vez entremos el modelo
 
-# Metadatos base heart disease https://archive.ics.uci.edu/ml/datasets/heart+disease
 
 heart_disease <- read.csv("https://raw.githubusercontent.com/opensaludlab/ciencia_datos/main/modulo4/heart.csv")
 
@@ -115,17 +101,11 @@ heart_disease <- heart_disease %>% mutate(across(.cols = c("sex", "cp", "fbs", "
                                 .fns = factor))
 
 
-# One hot encoding
-heart_dummy <- dummify(heart_disease)
-heart_cor <- correlate(heart_dummy)
-cor_heart_pares <- correlate(heart_dummy) %>% stretch()
-plot_correlation(heart_dummy)
-
-
 set.seed(1234)
 index <- createDataPartition(heart_disease$target, list = FALSE, p = 0.8)
 heart_train <- heart_disease[index, ]
 heart_test <- heart_disease[-index, ]
+
 
 
 # Veamos si los samples están balanceados
@@ -138,6 +118,7 @@ heart_test$target %>% table()
 # Este fit aplica para todos los próximos modelos
 fitControl <- trainControl(method = "repeatedcv", number = 10, repeats = 10)
 ?trainControl
+
 
 
 # Rpart Árboles de decisión
@@ -159,6 +140,7 @@ plot(varImp(class1))
 plot(class1)
 rpart.plot(class1$finalModel, yesno = 2, type = 5, extra = 106, fallen.leaves = TRUE)
 asRules(class1$finalModel)
+
 
 
 # Cómo controlar el CP (complexity parameter)?
@@ -209,6 +191,7 @@ plot(varImp(class2))
 plot(class2)
 
 
+
 # GBM Gradient Boosting 
 set.seed(1234)
 class3 <- train(target ~ ., data = heart_train, method = "gbm", trControl = fitControl)
@@ -222,7 +205,6 @@ postResample(pred = predict(class3, heart_test), obs = heart_test$target)
 
 confusionMatrix(data = predict(class3, heart_train), reference = heart_train$target)
 confusionMatrix(data = predict(class3, heart_test), reference = heart_test$target)
-
 
 
 
@@ -246,6 +228,8 @@ dotplot(diffs)
 
 
 # Podemos agregar la variable predicha al dataset
+# Modelo RF
+
 mod_rf <- heart_test %>% 
   mutate(predicted = predict(class2, heart_test))
 
