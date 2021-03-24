@@ -12,7 +12,7 @@ El objetivo es el desarrollo progresivo de tu nivel de conocimientos técnicos y
 Además, vemos como un elemento valioso el incorporar este tipo de metodologías y conocimientos al interior de las instituciones públicas de salud, no solo para mejorar sus procesos habituales, sino que fundamentalmente, para ayudar en la toma de las mejores decisiones basadas en evidencia.
 
 
-### Programa
+## Programa
 
 El curso de Ciencia de Datos lo hemos dividido en 2 grandes áreas temáticas. El primero, llamado "Gestión y estrategia". Comprendemos que este tipo de temáticas están poco desarrolladas dentro de las organizaciones y por tanto, el grado de conocimientos específicos puede no ser muy elevado. Es en ese sentido, que este bloque tiene la finalidad de acercar al público a este tipo de proyectos e ir introduciendo paulatinamente a los participantes en ámbitos más técnicos y "duros", como pueden ser la programación y la estadística inferencial. Del mismo modo, abordaremos aspectos relevantes de estrategia, gestión y gobernanza de este tipo de proyectos.
 
@@ -39,3 +39,57 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
 4. Aplicar técnicas avanzadas de análisis estadísticos, tanto descriptivos como inferenciales 
 5. Utilizar código para la transformación, limpieza, análisis, visualización y publicación de datos 
 6. Analizar críticamente distintos proyectos e iniciativas de ciencias de datos   
+
+
+## Módulos del curso
+
+### [MODULO 1: Nivelación y conceptos básicos](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo1)
+
+Aspectos generales curso
+Introducción a R y RStudio
+Estructura de datos y operadores
+Importación de datos
+Análisis prefactibilidad y valor público
+
+### [MODULO 2: Data wrangling y análisis exploratorio de datos](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo2)
+(En colaboración con R-Ladies Concepción)
+
+Definición de problemáticas y objetivos
+Transformación de datos
+Manipulación y limpieza de datos
+Análisis exploratorio de datos
+
+### [MODULO 3 : Visualización](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo3)
+(En colaboración con R-Ladies Concepción)
+
+Visualización de datos (parte 1)
+Visualización de datos (parte 2)
+
+### [MODULO 4: Modelos y estadística inferencial](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo4)
+(En colaboración con Data UC)
+
+Gestión ética de datos
+Modelos estadísticos 1
+Modelos estadísticos 2
+Introducción al Machine Learning
+Modelos de clasificación
+Modelos de regresión
+
+### MODULO 5: Gestión de procesos
+
+Conceptos generales de los procesos
+Modelamiento BPMN
+Modelamiento BPMN
+
+### MODULO 6: Comunicación y replicabilidad
+
+RMarkdown (parte 1)
+RMarkdown (parte 2)
+Shiny (parte 1)
+Shiny (parte 2)
+Manejo de versiones con Github
+Gobernanza de proyectos y agilidad
+
+### MODULO 7: Exposición de iniciativas
+Junio 2021
+
