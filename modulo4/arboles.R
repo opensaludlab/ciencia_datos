@@ -25,7 +25,7 @@ model
 iris %>% 
   ggplot(aes(Petal.Length, Petal.Width)) +
   geom_point() +
-  geom_smooth(method = "lm") #Acá utilizamos un modelo de regresión lineal 
+  geom_smooth(method = "lm", se = FALSE) #Acá utilizamos un modelo de regresión lineal 
 
 cor <- iris %>% 
   select_if(is.numeric) %>% 
@@ -101,11 +101,11 @@ heart_disease <- heart_disease %>% mutate(across(.cols = c("sex", "cp", "fbs", "
                                 .fns = factor))
 
 
+# Generar particiones para entrenamiento y testeo
 set.seed(1234)
 index <- createDataPartition(heart_disease$target, list = FALSE, p = 0.8)
 heart_train <- heart_disease[index, ]
 heart_test <- heart_disease[-index, ]
-
 
 
 # Veamos si los samples están balanceados
