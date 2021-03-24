@@ -45,51 +45,51 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
 
 [MODULO 1: Nivelación y conceptos básicos](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo1)
 
-*Aspectos generales curso
-*Introducción a R y RStudio
-*Estructura de datos y operadores
-*Importación de datos
-*Análisis prefactibilidad y valor público
+* Aspectos generales curso
+* Introducción a R y RStudio
+* Estructura de datos y operadores
+* Importación de datos
+* Análisis prefactibilidad y valor público
 
-[MODULO 2: Data wrangling y análisis exploratorio de datos](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo2)
+[MODULO 2: Data wrangling y análisis exploratorio de datos](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo2)  
 (En colaboración con R-Ladies Concepción)
 
-*Definición de problemáticas y objetivos
-*Transformación de datos
-*Manipulación y limpieza de datos
-*Análisis exploratorio de datos
+* Definición de problemáticas y objetivos
+* Transformación de datos
+* Manipulación y limpieza de datos
+* Análisis exploratorio de datos
 
-[MODULO 3 : Visualización](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo3)
+[MODULO 3 : Visualización](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo3)  
 (En colaboración con R-Ladies Concepción)
 
-*Visualización de datos (parte 1)
-*Visualización de datos (parte 2)
+* Visualización de datos (parte 1)
+* Visualización de datos (parte 2)
 
-[MODULO 4: Modelos y estadística inferencial](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo4)
+[MODULO 4: Modelos y estadística inferencial](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo4)  
 (En colaboración con Data UC)
 
-*Gestión ética de datos
-*Modelos estadísticos 1
-*Modelos estadísticos 2
-*Introducción al Machine Learning
-*Modelos de clasificación
-*Modelos de regresión
+* Gestión ética de datos
+* Modelos estadísticos 1
+* Modelos estadísticos 2
+* Introducción al Machine Learning
+* Modelos de clasificación
+* Modelos de regresión
 
 MODULO 5: Gestión de procesos
 
-*Conceptos generales de los procesos
-*Modelamiento BPMN
-*Modelamiento BPMN
+* Conceptos generales de los procesos
+* Modelamiento BPMN
+* Modelamiento BPMN
 
 MODULO 6: Comunicación y replicabilidad
 
-*RMarkdown (parte 1)
-*RMarkdown (parte 2)
-*Shiny (parte 1)
-*Shiny (parte 2)
-*Manejo de versiones con Github
-*Gobernanza de proyectos y agilidad
+* RMarkdown (parte 1)
+* RMarkdown (parte 2)
+* Shiny (parte 1)
+* Shiny (parte 2)
+* Manejo de versiones con Github
+* Gobernanza de proyectos y agilidad
 
-### MODULO 7: Exposición de iniciativas
+MODULO 7: Exposición de iniciativas
 Junio 2021
 
