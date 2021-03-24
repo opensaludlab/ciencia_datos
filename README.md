@@ -92,3 +92,4 @@ MODULO 6: Comunicación y replicabilidad
 
 MODULO 7: Exposición de iniciativas
 
+[TALLERES](https://github.com/opensaludlab/ciencia_datos/tree/main/Talleres)
