@@ -91,5 +91,4 @@ MODULO 6: Comunicación y replicabilidad
 * Gobernanza de proyectos y agilidad
 
 MODULO 7: Exposición de iniciativas
-Junio 2021
 
