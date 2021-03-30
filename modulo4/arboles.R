@@ -107,7 +107,7 @@ heart_dummy_cor <- correlate(heart_dummy) %>% stretch()
 plot_correlation(heart_dummy)
 
 # Estadístico MIC
-# Maximal Information-Based Nonparametric Exploration (MINE)
+# Maximal Information-Based Nonparametric Exploration (MINE) https://cran.r-project.org/web/packages/minerva/minerva.pdf
 library(minerva)
 heart_mic <- mine(heart_dummy)[[1]]
 
