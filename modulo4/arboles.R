@@ -54,7 +54,7 @@ heart_cor <- correlate(heart_num)
 ## Árboles de decisión
 
 tenis <- read.csv("https://raw.githubusercontent.com/opensaludlab/ciencia_datos/main/modulo4/tennis.csv")
-tenis_tree <- rpart(formula = jugar_tenis ~.,
+tenis_tree <- rpart(formula = jugar_tenis ~ .,
       data = tenis,
       method = "class",
       control = rpart.control(
@@ -99,6 +99,21 @@ heart_disease$target <- as.factor(heart_disease$target)
 
 heart_disease <- heart_disease %>% mutate(across(.cols = c("sex", "cp", "fbs", "restecg", "exang", "slope", "ca", "thal"),
                                 .fns = factor))
+
+
+# One hot encoding
+heart_dummy <- dummify(heart_disease)
+heart_dummy_cor <- correlate(heart_dummy) %>% stretch()
+plot_correlation(heart_dummy)
+
+# Estadístico MIC
+# Maximal Information-Based Nonparametric Exploration (MINE)
+library(minerva)
+heart_mic <- mine(heart_dummy)[[1]]
+
+heart_mic2 <- data.frame(heart_mic) %>% rownames_to_column("variable")
+heart_mic2 %>% select(variable, target_yes) %>% arrange(-target_yes)
+
 
 
 # Generar particiones para entrenamiento y testeo
@@ -168,7 +183,7 @@ heart_tree <- rpart(formula = target ~.,
                     )
 
 rpart.plot(x = heart_tree, yesno = 2, type = 5, extra = 106, fallen.leaves = TRUE)
-
+fancyRpartPlot(heart_tree)
 
 
 ## Random Forest
