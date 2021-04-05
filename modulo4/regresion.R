@@ -49,7 +49,7 @@ pred_mpg <- function(x){
   
 }
 
-pred_mpg(1.835)
+pred_mpg(2.620)
 
 
 ## Veamos algo más...
