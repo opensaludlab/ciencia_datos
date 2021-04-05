@@ -52,9 +52,9 @@ pred_mpg <- function(x){
 pred_mpg(2.620)
 
 
-## Veamos algo más...
+## Veamos algo más sobre aprendizaje supervisado (regresión)
 
-# https://github.com/allisonhorst/palmerpenguins 
+# Puedes ver mas del dataset en https://github.com/allisonhorst/palmerpenguins 
 
 library(palmerpenguins)
 penguins <- palmerpenguins::penguins
