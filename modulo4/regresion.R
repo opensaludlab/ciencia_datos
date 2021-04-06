@@ -55,6 +55,7 @@ pred_mpg(2.620)
 ## Veamos algo más sobre aprendizaje supervisado (regresión)
 
 # Puedes ver mas del dataset en https://github.com/allisonhorst/palmerpenguins 
+# Vamos a tratar de predecir el peso (body_mass_g) de los pinguinos
 
 library(palmerpenguins)
 penguins <- palmerpenguins::penguins
@@ -129,15 +130,15 @@ penguins_test <- penguins[-index, ]
 # Revisemos que las particiones estén balanceadas
 penguins %>% group_by(species) %>%
   summarise(n = n()) %>% 
-  mutate(prop = n / sum(n))
+  mutate(prop = n / sum(n) * 100)
 
 penguins_train %>% group_by(species) %>%
   summarise(n = n()) %>% 
-  mutate(prop = n / sum(n))
+  mutate(prop = n / sum(n) * 100)
 
 penguins_test %>% group_by(species) %>%
   summarise(n = n()) %>% 
-  mutate(prop = n / sum(n))
+  mutate(prop = n / sum(n) * 100)
 
 
 
@@ -150,7 +151,6 @@ fitControl <- trainControl(method = "repeatedcv", number = 10, repeats = 10)
 set.seed(2345)
 
 # Modelo lineal LM
-
 model_lm <- train(body_mass_g ~ ., data = penguins_train, method = "lm", trControl = fitControl)
 model_lm
 plot(varImp(model_lm))
@@ -179,40 +179,63 @@ penguins_train_rf <- penguins_train %>%
          error = body_mass_g - predicted)
 
 
-# Error
+# Revisemos algunos supuestos: normalidad de residuos y homocedastacidad de la varianza
 hist(penguins_train_rf$error)
 mean(penguins_train_rf$error)
-
-
-# Grafiquemos
-max_val_train <- max(penguins_train_rf$body_mass_g, penguins_train_rf$predicted)
-
-penguins_train_lm %>% ggplot(aes(body_mass_g, predicted)) +
-  geom_point() +
-  geom_abline() +
-  xlim(c(0, max_val_train)) + # Para ajustar el gráfico 
-  ylim(c(0, max_val_train))
-
+plot(penguins_train_rf$error)
+qqnorm(penguins_train_rf$error)
 
 
 # Apliquemos los modelos en test
-
 postResample(pred = predict(model_lm, penguins_test), obs = penguins_test$body_mass_g)
 postResample(pred = predict(model_rf, penguins_test), obs = penguins_test$body_mass_g)
 postResample(pred = predict(model_gbm, penguins_test), obs = penguins_test$body_mass_g)
 
 
-# Veamos en el dataset las predicciones
+
+# Veamos en un gráfico las predicciones y su linealidad
+
+# Modelo lm
 penguins_test_lm <- penguins_test %>% 
   select(body_mass_g) %>% 
   mutate(predicted = predict(model_lm, penguins_test),
          error = body_mass_g - predicted)
 
 
-max_val_test <- max(penguins_test_lm$body_mass_g, penguins_test_lm$predicted)
+max_val_lm <- max(penguins_test_lm$body_mass_g, penguins_test_lm$predicted)
 penguins_test_lm %>% ggplot(aes(body_mass_g, predicted)) +
   geom_point() +
   geom_abline() +
-  xlim(c(0, max_val_test)) + 
-  ylim(c(0, max_val_test))
+  xlim(c(0, max_val_lm)) + 
+  ylim(c(0, max_val_lm))
+
+
+# Modelo RF
+penguins_test_rf <- penguins_test %>% 
+  select(body_mass_g) %>% 
+  mutate(predicted = predict(model_rf, penguins_test),
+         error = body_mass_g - predicted)
+
+
+max_val_rf <- max(penguins_test_rf$body_mass_g, penguins_test_rf$predicted)
+penguins_test_rf %>% ggplot(aes(body_mass_g, predicted)) +
+  geom_point() +
+  geom_abline() +
+  xlim(c(0, max_val_rf)) + 
+  ylim(c(0, max_val_rf))
+
+
+# Modelo GBM
+penguins_test_gbm <- penguins_test %>% 
+  select(body_mass_g) %>% 
+  mutate(predicted = predict(model_gbm, penguins_test),
+         error = body_mass_g - predicted)
+
+
+max_val_gbm <- max(penguins_test_gbm$body_mass_g, penguins_test_gbm$predicted)
+penguins_test_gbm %>% ggplot(aes(body_mass_g, predicted)) +
+  geom_point() +
+  geom_abline() +
+  xlim(c(0, max_val_gbm)) + 
+  ylim(c(0, max_val_gbm))
 
