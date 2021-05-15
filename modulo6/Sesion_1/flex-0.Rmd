@@ -1,0 +1,73 @@
+---
+title: "Untitled"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message= FALSE, warning= FALSE)
+library(flexdashboard)
+```
+
+# Pagina 1
+## cajas
+###
+```{r}
+
+```
+
+###
+```{r}
+
+```
+
+###
+```{r}
+
+```
+
+###
+```{r}
+
+```
+
+
+##
+### col1 {data-width=8}
+```{r}
+
+```
+
+
+### col2 {data-width=4}
+```{r}
+
+```
+
+
+##
+
+### col3 {data-width=6}
+```{r}
+
+```
+
+
+### col4 {data-width=3}
+```{r}
+
+```
+
+
+### col5 {data-width=3}
+```{r}
+
+```
+
+# Pagina 2
+##
+###
+###
+###
