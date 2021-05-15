@@ -1,0 +1,208 @@
+---
+title: "Flexdashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    vertical_layout: fill
+    source_code: embed
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message= FALSE, warning= FALSE)
+library(flexdashboard)
+library(dplyr)
+library(lubridate)
+library(ggplot2)
+library(plotly)
+library(readr)
+library(formattable)
+library(DT)
+library(leaflet)
+library(crosstalk)
+```
+
+```{r dataset}
+videos <- read_csv("data/videos.csv")
+metadata <- read_csv("data/videos_metadata.csv")
+stats <-read_csv("data/video_stats.csv")
+```
+
+```{r kpis}
+metricas <- stats %>%
+  summarise(total_views = formattable::comma(sum(viewCount), digits=0),
+            total_like = formattable::comma(sum(likeCount), digits=0),
+            total_dislike = formattable::comma(sum(dislikeCount), digits=0),
+            total_favorite = formattable::comma(sum(favoriteCount), digits=0),
+            total_comments = formattable::comma(sum(commentCount), digits=0)
+  )
+```
+
+# Página 1
+
+##
+### Vistas 
+```{r}
+valueBox(metricas$total_views, 
+         icon = "fa-eye",
+         color = ifelse(metricas$total_views > 10, "success", "primary")
+)
+```
+
+### Me gusta 
+```{r}
+valueBox(metricas$total_like, 
+         icon = "fa-trash",
+         color = ifelse(metricas$total_like > 10, "info", "warning")
+)
+```
+
+### No me gusta 
+```{r}
+valueBox(metricas$total_dislike, 
+         icon = "fa-trash",
+         color = ifelse(metricas$total_dislike > 10, "primary", "warning")
+)
+```
+
+### Favoritos 
+```{r}
+valueBox(metricas$total_favorite, 
+         icon = "fa-user",
+         color = ifelse(metricas$total_favorite > 10, "success", "warning")
+)
+```
+
+##
+```{r}
+# espacio para indicadores en tacometros
+```
+### Proporción positiva
+```{r}
+# indicador me gusta
+likes <- metricas$total_like/(metricas$total_like + metricas$total_dislike)
+likes <- round(likes * 100, 0)
+gauge(likes, min= 0, max = 100, symbol = "%",
+      gaugeSectors(success = c(80, 100), warning = c(40, 79), danger = c(0, 39)))
+```
+
+> Alto indicador positivo
+
+### Proporción negativa
+```{r}
+# indicador no me gusta
+dislikes <- metricas$total_dislike/(metricas$total_like + metricas$total_dislike)
+dislikes <- round(dislikes * 100, 0)
+gauge(dislikes, min= 0, max = 100, symbol = "%",
+      gaugeSectors(success = c(80, 100), warning = c(40, 79), danger = c(0, 39)))
+```
+
+##
+### Columna 1.1 {data-width=8}
+```{r out.width="100%", fig.width=9}
+#
+videos %>%
+  mutate(year = year(ymd_hms(contentDetails.videoPublishedAt)),
+         month = month(ymd_hms(contentDetails.videoPublishedAt), label = TRUE),
+         year = as.factor(year)
+         ) %>%
+  group_by(year, month) %>%
+  summarise(uploaded_videos = n_distinct(id)) %>%
+  ggplot(aes(x = month,
+             y = uploaded_videos,
+             fill = year)) + 
+  geom_col(position = "dodge")
+```
+
+### Columna 1.2 {data-width=4}
+```{r}
+# 
+videos %>%
+  mutate(year = year(ymd_hms(contentDetails.videoPublishedAt)),
+         year = as.factor(year)
+         ) %>%
+  group_by(year) %>%
+  summarise(uploaded_videos = n_distinct(id)) %>%
+  ggplot(aes(x = year,
+             y = uploaded_videos,
+             fill = year)) + 
+  geom_col() +
+  theme(legend.position = "none")
+
+```
+
+##
+### Columna 2.1 {data-width=3}
+### Columna 2.2 {data-width=4}
+### Columna 2.3 {data-width=4}
+
+
+# Datos
+##
+```{r}
+# tabla de datos
+stats %>% 
+  mutate(hasLike = if_else(likeCount>0,"si","no" )) %>% 
+  filter(hasLike == 'no') %>% 
+  left_join(metadata, by = c("id"="video_id")) %>% 
+  select(title, link) %>% 
+  DT::datatable()
+```
+
+
+
+# Mapa
+##
+### Terremotos {data-width=5}
+```{r dataquake}
+# terremotos: fecha. latitud, longitud, profundidad, año y magnitud
+#terremotos <- read_csv("data/earthquakedata.csv")
+terremotos <- read_csv("https://patricioaraneda.cl/public/earthquakedata.csv")
+terremotos %>%
+  filter(yr ==1995) %>%
+  select(c(-yr,-dep)) %>%
+  DT::datatable()
+```
+
+### Mapa {data-width=7}
+```{r}
+terremotos %>%
+  filter(yr==1995) %>%
+  leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng =~lon, lat=~lat, label=~mag)
+```
+
+# Crosstalk
+```{r}
+# %>% filter(yr==1995)
+datacross <- SharedData$new(terremotos %>% 
+                              filter(yr > 1990) %>% 
+                              select(c(-dep)))
+```
+
+##
+### Datos {data-width=5}
+```{r}
+# slider
+filter_slider("mag", "Magnitud", datacross, step = 0.5, width = 350, column = ~mag)
+#selector
+filter_select("yr", "Seleccione el año", datacross, group = ~yr, multiple = FALSE)
+```
+
+```{r}
+# tabla de terremotos
+datacross %>%
+  DT::datatable()
+```
+
+### Mapa {data-width=7}
+```{r}
+#mapa
+datacross %>%
+  leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng =~lon, lat=~lat, label=~mag)
+```
+
+
+

@@ -1,0 +1,107 @@
+---
+title: "Caudal Río Nilo"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    vertical_layout: fill
+    source_code: embed
+    social: [ "twitter", "linkedin", "menu" ]
+    navbar:
+      - { title: "Acerca de", href: "https://example.com/about" }
+---
+
+```{r setup, include=FALSE}
+library(ggplot2)
+library(plotly)
+library(flexdashboard)
+
+# these computing functions are only toy examples
+computeArticles = function(...) return(45)
+computeComments = function(...) return(126)
+computeSpam = function(...) return(15)
+```
+
+# Graficos {data-icon="fa-signal"}
+
+## row 1
+
+### Articulos
+```{r}
+articles = computeArticles()
+valueBox(articles, icon = "fa-pencil")
+```
+
+### Comentarios
+```{r}
+comments = computeComments()
+valueBox(comments, icon = "fa-comments")
+```
+
+### Spam
+```{r}
+spam = computeSpam()
+valueBox(
+  spam, icon = "fa-trash",
+  color = ifelse(spam > 10, "warning", "primary")
+)
+```
+
+### Usuarios
+```{r}
+articles = computeArticles()
+valueBox(articles, icon = "fa-user")
+```
+
+## row 2
+
+### Caudales máximos anuales
+```{r}
+  plot.ts(Nile, col="blue",
+       main="Caudales max históricos en el Nilo",
+       xlab="Fecha",
+       ylab="Caudal m3/s")
+```
+
+> grafica de caudales maximos anuales en el río Nilo
+
+
+### Gráfica estadística
+
+```{r}
+  #histograma
+  hist(Nile, col="skyblue",
+       main="Caudales en el Nilo",
+       xlab="Caudal m3/s",
+       ylab="Frecuencia")
+  rug(Nile) # marcas
+```
+
+> grafica de frecuencias de caudales en el río Nilo
+
+### Boxplot
+
+```{r}
+  boxplot(Nile, col="red",
+          horizontal=TRUE,
+          xlab="caudales maximos del Nilo")
+  rug(Nile) # añado marcas
+```
+
+> Variable caudal max anual
+
+# Tabla {data-icon="fa-table"}
+
+## columna 1
+
+### Tabla de datos
+
+Estos son los datos de caudal del río *Nilo*:
+
+```{r}
+  # Resumen
+  summary(Nile)
+  # creo una data.frame para poner fecha y caudal
+  serieN<-data.frame(caudal=as.matrix(Nile), fecha=time(Nile))
+  #serieN
+  knitr::kable(serieN)
+```
