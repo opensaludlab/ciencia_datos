@@ -75,13 +75,13 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
 * Modelos de clasificación
 * Modelos de regresión
 
-MODULO 5: Gestión de procesos
+[MODULO 5: Gestión de procesos](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo5)
 
 * Conceptos generales de los procesos
 * Modelamiento BPMN
 * Modelamiento BPMN
 
-MODULO 6: Comunicación y replicabilidad
+[MODULO 6: Comunicación y replicabilidad](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo6/Sesion_1)
 
 * RMarkdown (parte 1)
 * RMarkdown (parte 2)
