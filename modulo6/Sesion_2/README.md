@@ -8,4 +8,4 @@ Lessons [https://rmarkdown.rstudio.com/lesson-1.html]
 
 CheatSheet [https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf]
 
-[https://aprender-uib.github.io/AprendeR2/extras-de-r-markdown.html]
+Extras [https://aprender-uib.github.io/AprendeR2/extras-de-r-markdown.html]
