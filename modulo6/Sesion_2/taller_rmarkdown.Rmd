@@ -20,6 +20,12 @@ knitr::opts_chunk$set(echo = TRUE)
 #  R Markdown
 
 Este es un archivo de tipo *R Markdown* (`.Rmd`), en este tipo de archivos podemos de manera simple intercalar texto con código.
+Ojo, que para insertar un párrafo es necesario saltarse 1 línea.
+
+Estes es otro párrafo.
+
+Para hacer un salto de línea, es necesario poner 2 espaciones al final.  
+Salto de línea.
 
 El código se define en los "pedazos de código" (*code chunks*):
 
