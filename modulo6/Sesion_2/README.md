@@ -1,4 +1,4 @@
-*Link de interés para estudiar sobre RMarkdown*
+**Link de interés para estudiar sobre RMarkdown**
 
 R para Ciencia de Datos [https://es.r4ds.hadley.nz/r-markdown.html]
 
