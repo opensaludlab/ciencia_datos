@@ -17,6 +17,13 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Este es un chunk:
+
+```{r}
+
+```
+
+
 #  R Markdown
 
 Este es un archivo de tipo *R Markdown* (`.Rmd`), en este tipo de archivos podemos de manera simple intercalar texto con código.
@@ -24,7 +31,7 @@ Ojo, que para insertar un párrafo es necesario saltarse 1 línea.
 
 Estes es otro párrafo.
 
-Para hacer un salto de línea, es necesario poner 2 espaciones al final.  
+Para hacer un salto de línea, es necesario poner 2 espacios al final.  
 Salto de línea.
 
 El código se define en los "pedazos de código" (*code chunks*):
@@ -60,7 +67,7 @@ Así como hay formas de manipular el código que trabajemos existe también una 
 - **negrita** 
 - __*cursiva y negrita*__ 
 - ~~tachado~~ 
-- [link](https://gobierno.uai.cl/centro-investigacion/goblab-uai/) 
+- [link](http://www.opensaludlab.org) 
 - `Objetos de código` 
 - entre otras..
 
@@ -84,8 +91,6 @@ $$\mathbf{X} = \left[\begin{array}
 4 & 5 & 6 \\
 7 & 8 & 9
 \end{array}\right] $$
-
-También se pueden incluir links: Web de [OpenSalud LAB](http://www.opensaludlab.org)
 
 
 
