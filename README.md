@@ -84,6 +84,8 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
 
 ## :left_speech_bubble: Módulos del curso
 
+### :warning: [Antes de partir, revisa esta información](https://github.com/opensaludlab/ciencia_datos/tree/main/inicio)
+
 ## [MODULO 1: Nivelación y conceptos básicos](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo1)
 
 -   Aspectos generales curso
