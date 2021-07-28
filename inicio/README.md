@@ -32,7 +32,7 @@ Este curso aborda el lenguaje de programación R.
 
 Para ello, necesitarán instalar las siguientes cosas:
 
-1.  El lenguaje R desde su [sitio oficia](https://cran.r-project.org/)l.
+1.  El lenguaje R desde su [sitio oficial](https://cran.r-project.org/).
 
 2.  [Desde acá](https://www.rstudio.com/products/rstudio/) puedes descargar RStudio.
 
