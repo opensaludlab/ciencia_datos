@@ -4,7 +4,7 @@
 
 En esta sesión estaremos revisando la librería `ggplot2` y cómo usar para visualizar los datos, en especial para agregar más elementos para el análisis exploratorio (EDA).
 
-### :tv:[ [Video](https://youtu.be/RN2rqZLpca0) ]
+### :tv: [ [Video](https://youtu.be/RN2rqZLpca0) ]
 
 ### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo3/Visualizacion.R) ] 
 
@@ -29,7 +29,7 @@ Y por último, [en esta página](https://www.r-graph-gallery.com/index.html) se 
 
 En esta sesión seguimos revisando cómo usar la visualización para sacar información de los datos. En particular, veremos la librería `highcharter,` que nos permite realizar gráficos de alta calidad y agregarle interactividad.
 
-### :tv:[ [Video](https://youtu.be/kYCp_piEnmU) ]
+### :tv: [ [Video](https://youtu.be/kYCp_piEnmU) ]
 
 ### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo3/visualizacion_highcharter) ]
 
