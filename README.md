@@ -7,9 +7,16 @@ Versión 1
 ## Este es el repositorio del programa de formación en ciencia de datos de la Academia de [OpenSalud LAB](http://www.opensaludlab.org).
 
 1.  [Bienvenida](https://github.com/opensaludlab/ciencia_datos#bienvenida)
+
 2.  [Objetivos](https://github.com/opensaludlab/ciencia_datos#objetivos)
-3.  [Programa del curso](https://github.com/opensaludlab/ciencia_datos#loudspeaker-programa)
-4.  [Módulos del curso](https://github.com/opensaludlab/ciencia_datos#left_speech_bubble-m%C3%B3dulos-del-curso)
+
+3.  Sobre el curso
+
+4.  [Programa del curso](https://github.com/opensaludlab/ciencia_datos#loudspeaker-programa)
+
+5.  [Módulos del curso](https://github.com/opensaludlab/ciencia_datos#left_speech_bubble-m%C3%B3dulos-del-curso)
+
+6.  [Agradecimientos](https://github.com/opensaludlab/ciencia_datos#hugs-agradecimientos)
 
 ## :heart: ¿Nos ayudas?
 
@@ -21,13 +28,27 @@ Si encuentras interesante este proyecto y el contenido, te agradecemos mucho que
 
 El presente curso de ciencia de datos (*Data Science*) busca entregar herramientas técnicas y metodológicas para que profesionales de las más diversas disciplinas puedan realizar procesos de análisis de datos, diseñar modelos matemáticos y estadísticos y generar aplicaciones que les permitan hacer inteligencia con los datos e información en diversos ámbitos del sector público de salud. La principal fortaleza de la ciencia de datos, es que no restringe su desarrollo sólo a matemáticos o informáticos, sus herramientas pueden ser de dominio de distintas áreas, favoreciendo el trabajo inter y multidisciplinario, pues aporta una visión sistémica para comprender el comportamiento de sistemas complejos. Del mismo modo, hemos diseñado este curso para el sector público, buscando suplir la brecha que existe a la hora de pensar en qué problemas de diseño y gestión de políticas públicas son adecuados de resolver con datos.
 
+------------------------------------------------------------------------
+
 ## :cup_with_straw: Objetivos
 
 El objetivo es el desarrollo progresivo de tu nivel de conocimientos técnicos y especializados en análisis avanzado de datos, programación y gestión de proyectos de ciencias de datos.
 
 Además, vemos como un elemento valioso el incorporar este tipo de metodologías y conocimientos al interior de las instituciones públicas de salud, no solo para mejorar sus procesos habituales, sino que fundamentalmente, para ayudar en la toma de las mejores decisiones basadas en evidencia.
 
-## ¿Por qué hemos liberado todo el curso?
+------------------------------------------------------------------------
+
+## :compass: Sobre el curso
+
+Este repo fue usado como base del programa de formación que realizamos entre Diciembre 2020 y Junio 2021. Acá encontrarás practicamente todo el material usado como los videos de las grabaciones de las sesiones en vivo, scripts, presentaciones y documentación complementaria.
+
+En su versión original, el curso incluyó talleres y el desarrollo de proyectos de los alumnos, los cuales no están disponibles en esta versión.
+
+Si no tienes conocimentos en programación, te suguerimos que sigas el orden de las sesiones, veas los videos 2 ó 3 veces, los vayas pausando para ir realizando las actividades por ti mism\@ y revises las lecturas complementarias con calma.
+
+No hemos querido ser demasiados exhaustivos en los temas. Usa este curso, más bien, como una guía de estudio (*roadmap*) y si necesitas profundizar en algo, tanto en la documentación complementaria como en otros recursos en internet seguramente podrás encontrar más información.
+
+### ¿Por qué hemos liberado todo el curso?
 
 Porque queremos democratizar el acceso al conocimiento avanzado y nos gustaría que más personas usen este tipo de metodologías para mejorar el sistema público en beneficio de la ciudadanía.
 
@@ -114,9 +135,11 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
 
 ## [TALLERES](https://github.com/opensaludlab/ciencia_datos/tree/main/Talleres)
 
+------------------------------------------------------------------------
+
 ## :hugs: Agradecimientos
 
-Este curso se hizo gracias a la ayuda y colaboración de muchas personas.
+Este curso se hizo gracias a la ayuda y colaboración de muchas personas :muscle:
 
 Queremos agradecer a:
 
@@ -126,4 +149,4 @@ La comunidad de [R-Ladies Concepción (Chile)](https://twitter.com/RLadiesConce)
 
 También agradecemos enormemente a [Patricio Araneda](https://www.linkedin.com/in/patricioaraneda/).
 
-Y por supuesto, a los **más de 100 inscritos en el curso**, a la comunidad de OpenSalud LAB y a todos que, con su apoyo y difusión, ayudaron a que este proyecto fuese posible.
+Y por supuesto, a los **más de 100 inscritos en el curso**, a la comunidad de OpenSalud LAB y a todos los que, con su apoyo, difusión y energía, ayudaron a que este proyecto fuese posible.
