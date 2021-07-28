@@ -29,8 +29,9 @@ Complementariamente a los documentos anteriores, te dejamos un par que nos parec
 
 4.  [Manual de planificación, seguimiento y evaluación de los resultados de desarrollo (PNUD)](https://www.undp.org/content/dam/undp/documents/evaluation/handbook/spanish/documents/manual_completo.pdf)
 
-# 
-:two: **Transformación de datos**
+------------------------------------------------------------------------
+
+# :two: **Transformación de datos**
 
 En esta sesión estuvimos revisando la importancia de transformar datos y cómo usar la librería `dplyr` (del megapaquete `Tidyverse`) para ello.
 
@@ -50,7 +51,9 @@ Para complementar lo visto en la sesión, te recomiendamos mucho que leas lo sig
 
 4.  [Programación en R](https://rsanchezs.gitbooks.io/rprogramming/content/chapter9/dplyr.html) (uso de librería `dplyr`)
 
-#  :three: **Manipulación de datos**
+------------------------------------------------------------------------
+
+# :three: **Manipulación de datos**
 
 En esta sesión estuvimos revisando la librería \`tidyr\`, que es parte del megapaquete `Tidyverse`. Esta librería nos permite manipular y ajustar los datos a formatos que nos facilitan su revisión y posterior análisis.
 
@@ -66,7 +69,9 @@ En esta sesión estuvimos revisando la librería \`tidyr\`, que es parte del meg
 
 Nota: La funciones `gather` y `spread` tienen otras homólogas en `tidyr` que se llaman `pivot_longer` y `pivot_wider` que es bueno que conozcas también. Puedes ver la documentación de ellas [acá](https://tidyr.tidyverse.org/reference/pivot_longer.html) y [acá](https://tidyr.tidyverse.org/reference/pivot_wider.html).
 
-#  :four: **Análisis exploratorio de datos**
+------------------------------------------------------------------------
+
+# :four: **Análisis exploratorio de datos**
 
 En esta sesión estuvimos revisando el análisis exploratorio de datos o EDA por sus siglas en ingles (*Exploratory Data Analysis*), que es una de las etapas más relevantes al inicio de los proyectos de datos para comprender de qué van éstos y empezar a "hacerle" preguntas a los datos. Más adelante profundizaremos en ello.
 
