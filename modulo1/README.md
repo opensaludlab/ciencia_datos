@@ -7,6 +7,8 @@
 Te recomiendo ver los videos al menos 2 ó 3 veces, pausarlo e ir lentamente estudiando los temas tratados. Además, baja el código (script), ejecútalo y analízalo con calma. Revisa la lectura complementaria en la medida que avanzas en el código.  
 No te estreses. Ya habrá tiempo para profundizar en todo a lo largo del curso.
 
+------------------------------------------------------------------------
+
 # :one: SESIÓN 1 - **Aspectos generales del curso**
 
 En esta sesión abordamos los aspectos generales del programa, los objetivos y la motivación de lanzarnos con este proyecto. Además, revisamos el calendario, las temáticas a tratar, la metodología y los distintos tipos de actividades.
@@ -16,6 +18,8 @@ En esta sesión abordamos los aspectos generales del programa, los objetivos y l
 ### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_1.pdf) ]
 
 *Nota: Esta sesión no tiene script.*
+
+------------------------------------------------------------------------
 
 # :two: SESIÓN 2 - **Introducción a R y RStudio**
 
@@ -37,6 +41,8 @@ Puedes leer los siguientes capítulos del libro \_R for Data Science\_ para comp
 2.  [Capítulo 6 - Flujo de trabajo: Scripts](https://es.r4ds.hadley.nz/flujo-de-trabajo-scripts.html)
 
 3.  [Capítulo 8 - Flujo de trabajo: Proyectos](https://es.r4ds.hadley.nz/flujo-de-trabajo-proyectos.html)
+
+------------------------------------------------------------------------
 
 # :three: SESIÓN 3 - **Estructura de datos y operadores**
 
@@ -60,6 +66,8 @@ Puedes leer los siguientes capítulos del libro \_R para Principiantes\_ para co
 
 4.  [Capítulo 7 - Subconjuntos (subsetting)](https://bookdown.org/jboscomendoza/r-principiantes4/subconjuntos.html)
 
+------------------------------------------------------------------------
+
 # :four: SESIÓN 4 - **Importación de datos**
 
 En esta sesión hablamos sobre cómo importar distintos tipos de datos a nuestro ambiente de RStudio, que es una de las tareas más importantes a la hora de analizar datos.
@@ -75,6 +83,8 @@ En esta sesión hablamos sobre cómo importar distintos tipos de datos a nuestro
 1.  [R para ciencia de datos, capítulo 11](https://es.r4ds.hadley.nz/importaci%C3%B3n-de-datos.html)
 
 2.  [R para principiantes, capítulo 11](https://bookdown.org/jboscomendoza/r-principiantes4/importar-y-exportar-datos.html)
+
+------------------------------------------------------------------------
 
 # :five: SESIÓN 5 - **Análisis de prefactibilidad y valor público**
 
