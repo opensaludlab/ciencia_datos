@@ -113,3 +113,17 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
 -   Manejo de versiones con Github
 
 ## [TALLERES](https://github.com/opensaludlab/ciencia_datos/tree/main/Talleres)
+
+## :hugs: Agradecimientos
+
+Este curso se hizo gracias a la ayuda y colaboración de muchas personas.
+
+Queremos agradecer a:
+
+La comunidad de [R-Ladies Concepción (Chile)](https://twitter.com/RLadiesConce), en especial a: Macarena Valenzuela, Camila Molina, Luisa Reyes y Natalia Riquelme.
+
+[Data UC](http://datascience.uc.cl/) y la Facultad de Matemáticas de la Pontificia Universidad Católica de Chile, en especial a: Sebastián Massa, Ricardo Aravena y Alexis Alvear.
+
+También agradecemos enormemente a [Patricio Araneda](https://www.linkedin.com/in/patricioaraneda/).
+
+Y por supuesto, a los **más de 100 inscritos en el curso**, a la comunidad de OpenSalud LAB y a todos que, con su apoyo y difusión, ayudaron a que este proyecto fuese posible.
