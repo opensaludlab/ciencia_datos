@@ -59,7 +59,9 @@ En esta sesión estuvimos revisando la librería \`tidyr\`, que es parte del meg
 
 ### :tv:[ [Video](https://youtu.be/hveAdbE92G0) ]
 
-### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo2/Limpieza_datos.R) ]  Lectura recomendada
+### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo2/Limpieza_datos.R) ]
+
+### Lectura recomendada
 
 1.  [Capítulo 12 - R para Ciencia de Datos](https://r4ds-en-espaniol.netlify.app/datos-ordenados.html)
 
