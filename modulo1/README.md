@@ -4,8 +4,12 @@
 
 **Bienvenidos a la primera sesión de nuestro programa de formación en Ciencia de Datos!**
 
-Te recomiendo ver los videos al menos 2 ó 3 veces, pausarlo e ir lentamente estudiando los temas tratados. Además, baja el código (script), ejecútalo y analízalo con calma. Revisa la lectura complementaria en la medida que avanzas en el código.  
-No te estreses. Ya habrá tiempo para profundizar en todo a lo largo del curso.
+Te recomiendo ver los videos al menos 2 ó 3 veces, pausarlo e ir lentamente estudiando los temas tratados. Además, baja el código (script), ejecútalo y analízalo con calma. Revisa la lectura complementaria en la medida que avanzas en el código.
+
+  
+No te estreses. Ya habrá tiempo para profundizar en todo a lo largo del curso :blush:
+
+Vamos!!
 
 ------------------------------------------------------------------------
 
@@ -23,7 +27,7 @@ En esta sesión abordamos los aspectos generales del programa, los objetivos y l
 
 # :two: **Introducción a R y RStudio**
 
-En esta sesión conversamos de la historia de R, sus ventajas y desventajas. Además, revisamos varias de las funcionalidades que tiene RStudio y de la importancia de las librerías (\_packages\_).  
+En esta sesión conversamos de la historia de R, sus ventajas y desventajas. Además, revisamos varias de las funcionalidades que tiene RStudio y de la importancia de las librerías (*packages*).  
 Revisamos, también, algunas recomendaciones y buenas prácticas al escribir código.
 
 ### :tv:[ [Video](https://youtu.be/Iy-qOxy6ep8) ]
@@ -42,6 +46,10 @@ Puedes leer los siguientes capítulos del libro \_R for Data Science\_ para comp
 
 3.  [Capítulo 8 - Flujo de trabajo: Proyectos](https://es.r4ds.hadley.nz/flujo-de-trabajo-proyectos.html)
 
+Puedes descargar el lenguaje R desde su [sitio oficia](https://cran.r-project.org/)l.
+
+[Desde acá](https://www.rstudio.com/products/rstudio/) puedes descargar RStudio.
+
 ------------------------------------------------------------------------
 
 # :three: **Estructura de datos y operadores**
@@ -56,7 +64,7 @@ En esta sesión conversamos sobre los tipos de datos en que se puede trabaja en 
 
 ### Lectura recomendada
 
-Puedes leer los siguientes capítulos del libro \_R para Principiantes\_ para complementar esta sesión:
+Puedes leer los siguientes capítulos del libro *R para Principiantes* para complementar esta sesión:
 
 1.  [Capítulo 4 - Tipos de datos](https://bookdown.org/jboscomendoza/r-principiantes4/tipos-de-datos.html)
 
