@@ -10,6 +10,10 @@ El objetivo es el desarrollo progresivo de tu nivel de conocimientos técnicos y
 
 Además, vemos como un elemento valioso el incorporar este tipo de metodologías y conocimientos al interior de las instituciones públicas de salud, no solo para mejorar sus procesos habituales, sino que fundamentalmente, para ayudar en la toma de las mejores decisiones basadas en evidencia.
 
+## ¿Por qué hemos liberado todo el curso?
+
+Porque queremos democratizar el acceso al conocimiento avanzado y nos gustaría que más personas usen este tipo de metodologías para mejorar el sistema público en beneficio de la ciudadanía.
+
 # :loudspeaker: Programa
 
 El curso de Ciencia de Datos lo hemos dividido en 2 grandes áreas temáticas. El primero, llamado "Gestión y estrategia". Comprendemos que este tipo de temáticas están poco desarrolladas dentro de las organizaciones y por tanto, el grado de conocimientos específicos puede no ser muy elevado. Es en ese sentido, que este bloque tiene la finalidad de acercar al público a este tipo de proyectos e ir introduciendo paulatinamente a los participantes en ámbitos más técnicos y "duros", como pueden ser la programación y la estadística inferencial. Del mismo modo, abordaremos aspectos relevantes de estrategia, gestión y gobernanza de este tipo de proyectos.
