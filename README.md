@@ -6,9 +6,10 @@ Versión 1
 
 ## Este es el repositorio del programa de formación en ciencia de datos de la Academia de [OpenSalud LAB](http://www.opensaludlab.org).
 
-1.  Bienvenida
-2.  Objetivos
-3.  Programa del curso
+1.  [Bienvenida](https://github.com/opensaludlab/ciencia_datos#bienvenida)
+2.  [Objetivos](https://github.com/opensaludlab/ciencia_datos#objetivos)
+3.  [Programa del curso](https://github.com/opensaludlab/ciencia_datos#loudspeaker-programa)
+4.  [Módulos del curso](https://github.com/opensaludlab/ciencia_datos#left_speech_bubble-m%C3%B3dulos-del-curso)
 
 ## Bienvenida
 
