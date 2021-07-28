@@ -31,7 +31,7 @@ En esta sesión seguimos revisando cómo usar la visualización para sacar infor
 
 ### :tv:[ [Video](https://youtu.be/kYCp_piEnmU) ]
 
-### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo3/visualizacion_highcharter)]
+### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo3/visualizacion_highcharter) ]
 
 El script usado también puedes revisarlo en el [siguiente proyecto de RStudio Cloud](https://rstudio.cloud/project/2171495).
 
