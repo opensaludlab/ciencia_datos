@@ -18,7 +18,7 @@ Tambien tiene una versión en español que la [puedes ver acá](https://es.r4ds.
 
 Para revisar aspectos de visualización, usaremos como base estos 2 libros: [ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/) y [R Graphics Cookbook](https://r-graphics.org/).
 
-Para revisar aspectos de comunicación, usaremos como base los libros [Mastering Shiny](https://mastering-shiny.org/index.html) y[R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) + su [repositorio en GitHub](https://github.com/rstudio/rmarkdown).
+Para revisar aspectos de comunicación, usaremos como base los libros [Mastering Shiny](https://mastering-shiny.org/index.html) y [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) + su [repositorio en GitHub](https://github.com/rstudio/rmarkdown).
 
 En cada sesión mencionaremos los capítulos a revisar de cada libro. Complementaremos con otros tipos de datos, referencias, ejemplos y ejercicios de los participantes.
 
@@ -41,5 +41,7 @@ Durante las primeras sesiones revisaremos cómo usarlos.
 
 ## ¿Eres principiante en todo ésto de la ciencia de datos?
 
+No te asustes!!
+Revisa este video:
 
 [![Alt text](https://img.youtube.com/vi/imNaCay0E2w/0.jpg)](https://www.youtube.com/watch?v=imNaCay0E2w)
