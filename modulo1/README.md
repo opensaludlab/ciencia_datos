@@ -9,7 +9,7 @@ No te estreses. Ya habrá tiempo para profundizar en todo a lo largo del curso.
 
 ------------------------------------------------------------------------
 
-# :one: SESIÓN 1 - **Aspectos generales del curso**
+# :one: **Aspectos generales del curso**
 
 En esta sesión abordamos los aspectos generales del programa, los objetivos y la motivación de lanzarnos con este proyecto. Además, revisamos el calendario, las temáticas a tratar, la metodología y los distintos tipos de actividades.
 
@@ -21,7 +21,7 @@ En esta sesión abordamos los aspectos generales del programa, los objetivos y l
 
 ------------------------------------------------------------------------
 
-# :two: SESIÓN 2 - **Introducción a R y RStudio**
+# :two: **Introducción a R y RStudio**
 
 En esta sesión conversamos de la historia de R, sus ventajas y desventajas. Además, revisamos varias de las funcionalidades que tiene RStudio y de la importancia de las librerías (\_packages\_).  
 Revisamos, también, algunas recomendaciones y buenas prácticas al escribir código.
@@ -44,7 +44,7 @@ Puedes leer los siguientes capítulos del libro \_R for Data Science\_ para comp
 
 ------------------------------------------------------------------------
 
-# :three: SESIÓN 3 - **Estructura de datos y operadores**
+# :three: **Estructura de datos y operadores**
 
 En esta sesión conversamos sobre los tipos de datos en que se puede trabaja en R y las estructuras de los mismos. Hablamos, también, de la importancia de comprender qué tipos de datos se tienen y de como coercionarlos de forma de que se adapten a lo que uno necesita. Revisamos el tidy data y su relevancia en el código.
 
@@ -68,7 +68,7 @@ Puedes leer los siguientes capítulos del libro \_R para Principiantes\_ para co
 
 ------------------------------------------------------------------------
 
-# :four: SESIÓN 4 - **Importación de datos**
+# :four: **Importación de datos**
 
 En esta sesión hablamos sobre cómo importar distintos tipos de datos a nuestro ambiente de RStudio, que es una de las tareas más importantes a la hora de analizar datos.
 
@@ -86,7 +86,7 @@ En esta sesión hablamos sobre cómo importar distintos tipos de datos a nuestro
 
 ------------------------------------------------------------------------
 
-# :five: SESIÓN 5 - **Análisis de prefactibilidad y valor público**
+# :five: **Análisis de prefactibilidad y valor público**
 
 En esta sesión revisamos los aspectos más destacadas a la hora de analizar la factibilidad de llevar a cabo un proyecto de ciencia de datos.
 
