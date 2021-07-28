@@ -46,6 +46,8 @@ Puedes leer los siguientes capítulos del libro \_R for Data Science\_ para comp
 
 3.  [Capítulo 8 - Flujo de trabajo: Proyectos](https://es.r4ds.hadley.nz/flujo-de-trabajo-proyectos.html)
 
+### Descargas
+
 Puedes descargar el lenguaje R desde su [sitio oficia](https://cran.r-project.org/)l.
 
 [Desde acá](https://www.rstudio.com/products/rstudio/) puedes descargar RStudio.
