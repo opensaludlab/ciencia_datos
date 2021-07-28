@@ -10,7 +10,7 @@ Versión 1
 
 2.  [Objetivos](https://github.com/opensaludlab/ciencia_datos#objetivos)
 
-3.  Sobre el curso
+3.  [Sobre el curso](https://github.com/opensaludlab/ciencia_datos#hugs-agradecimientos)
 
 4.  [Programa del curso](https://github.com/opensaludlab/ciencia_datos#loudspeaker-programa)
 
