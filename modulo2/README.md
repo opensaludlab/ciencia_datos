@@ -41,7 +41,7 @@ Nota: [El dataset usado es este](https://github.com/MinCiencia/Datos-COVID19/blo
 
 ### Lectura recomendada
 
-Para complementar lo visto en la sesión, te recomiendamos mucho que leas lo siguiente:
+Para complementar lo visto en la sesión, te recomendamos mucho que leas lo siguiente:
 
 1.  [Documentación oficial dplyr](https://dplyr.tidyverse.org/)
 
