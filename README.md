@@ -6,7 +6,15 @@ Versión 1
 
 ## Este es el repositorio del programa de formación en ciencia de datos de la Academia de [OpenSalud LAB](http://www.opensaludlab.org).
 
+1.  Bienvenida
+2.  Objetivos
+3.  Programa del curso
+
+## Bienvenida
+
 El presente curso de ciencia de datos (*Data Science*) busca entregar herramientas técnicas y metodológicas para que profesionales de las más diversas disciplinas puedan realizar procesos de análisis de datos, diseñar modelos matemáticos y estadísticos y generar aplicaciones que les permitan hacer inteligencia con los datos e información en diversos ámbitos del sector público de salud. La principal fortaleza de la ciencia de datos, es que no restringe su desarrollo sólo a matemáticos o informáticos, sus herramientas pueden ser de dominio de distintas áreas, favoreciendo el trabajo inter y multidisciplinario, pues aporta una visión sistémica para comprender el comportamiento de sistemas complejos. Del mismo modo, hemos diseñado este curso para el sector público, buscando suplir la brecha que existe a la hora de pensar en qué problemas de diseño y gestión de políticas públicas son adecuados de resolver con datos.
+
+## Objetivos
 
 El objetivo es el desarrollo progresivo de tu nivel de conocimientos técnicos y especializados en análisis avanzado de datos, programación y gestión de proyectos de ciencias de datos.
 
@@ -15,6 +23,8 @@ Además, vemos como un elemento valioso el incorporar este tipo de metodologías
 ## ¿Por qué hemos liberado todo el curso?
 
 Porque queremos democratizar el acceso al conocimiento avanzado y nos gustaría que más personas usen este tipo de metodologías para mejorar el sistema público en beneficio de la ciudadanía.
+
+------------------------------------------------------------------------
 
 # :loudspeaker: Programa
 
@@ -41,6 +51,8 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
 4.  Aplicar técnicas avanzadas de análisis estadísticos, tanto descriptivos como inferenciales
 5.  Utilizar código para la transformación, limpieza, análisis, visualización y publicación de datos
 6.  Analizar críticamente distintos proyectos e iniciativas de ciencias de datos
+
+------------------------------------------------------------------------
 
 # :left_speech_bubble: Módulos del curso
 
