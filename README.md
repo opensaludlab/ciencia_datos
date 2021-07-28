@@ -11,11 +11,15 @@ Versión 1
 3.  [Programa del curso](https://github.com/opensaludlab/ciencia_datos#loudspeaker-programa)
 4.  [Módulos del curso](https://github.com/opensaludlab/ciencia_datos#left_speech_bubble-m%C3%B3dulos-del-curso)
 
-## Bienvenida
+## :heart: ¿Nos ayudas?
+
+Si encuentras interesante este proyecto y el contenido, te agradecemos mucho que marques la estrella del repositorio (busca la :star: de arriba a la derecha y dale clic).
+
+## :wave: Bienvenida
 
 El presente curso de ciencia de datos (*Data Science*) busca entregar herramientas técnicas y metodológicas para que profesionales de las más diversas disciplinas puedan realizar procesos de análisis de datos, diseñar modelos matemáticos y estadísticos y generar aplicaciones que les permitan hacer inteligencia con los datos e información en diversos ámbitos del sector público de salud. La principal fortaleza de la ciencia de datos, es que no restringe su desarrollo sólo a matemáticos o informáticos, sus herramientas pueden ser de dominio de distintas áreas, favoreciendo el trabajo inter y multidisciplinario, pues aporta una visión sistémica para comprender el comportamiento de sistemas complejos. Del mismo modo, hemos diseñado este curso para el sector público, buscando suplir la brecha que existe a la hora de pensar en qué problemas de diseño y gestión de políticas públicas son adecuados de resolver con datos.
 
-## Objetivos
+## :cup_with_straw: Objetivos
 
 El objetivo es el desarrollo progresivo de tu nivel de conocimientos técnicos y especializados en análisis avanzado de datos, programación y gestión de proyectos de ciencias de datos.
 
@@ -27,7 +31,7 @@ Porque queremos democratizar el acceso al conocimiento avanzado y nos gustaría 
 
 ------------------------------------------------------------------------
 
-# :loudspeaker: Programa
+## :loudspeaker: Programa
 
 El curso de Ciencia de Datos lo hemos dividido en 2 grandes áreas temáticas. El primero, llamado "Gestión y estrategia". Comprendemos que este tipo de temáticas están poco desarrolladas dentro de las organizaciones y por tanto, el grado de conocimientos específicos puede no ser muy elevado. Es en ese sentido, que este bloque tiene la finalidad de acercar al público a este tipo de proyectos e ir introduciendo paulatinamente a los participantes en ámbitos más técnicos y "duros", como pueden ser la programación y la estadística inferencial. Del mismo modo, abordaremos aspectos relevantes de estrategia, gestión y gobernanza de este tipo de proyectos.
 
@@ -55,7 +59,7 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
 
 ------------------------------------------------------------------------
 
-# :left_speech_bubble: Módulos del curso
+## :left_speech_bubble: Módulos del curso
 
 ## [MODULO 1: Nivelación y conceptos básicos](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo1)
 
