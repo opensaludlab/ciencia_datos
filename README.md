@@ -22,6 +22,8 @@ Versión 1
 
 Si encuentras interesante este proyecto y el contenido, te agradecemos mucho que marques la estrella del repositorio (busca la :star: de arriba y dale clic. Es como un clásico "me gusta" :+1:).
 
+Además, sigue a OSL en nuestras cuentas de [Twitter](https://twitter.com/OpensaludLAB), [Instagram](https://www.instagram.com/opensaludlab/) y [LinkedIn](https://www.linkedin.com/company/opensaludlab).
+
 ------------------------------------------------------------------------
 
 ## :wave: Bienvenida
