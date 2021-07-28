@@ -44,7 +44,7 @@ En esta sesión conversamos sobre los tipos de datos en que se puede trabaja en 
 
 ### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_3.pdf) ]
 
-### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/02_tipos_datos.R) ] 
+### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/02_tipos_datos.R) ]
 
 ### Lectura recomendada
 
@@ -74,7 +74,7 @@ En esta sesión hablamos sobre cómo importar distintos tipos de datos a nuestro
 
 2.  [R para principiantes, capítulo 11](https://bookdown.org/jboscomendoza/r-principiantes4/importar-y-exportar-datos.html)
 
-#  :five: SESIÓN 5 - **Análisis de prefactibilidad**
+# :five: SESIÓN 5 - **Análisis de prefactibilidad y valor público**
 
 En esta sesión revisamos los aspectos más destacadas a la hora de analizar la factibilidad de llevar a cabo un proyecto de ciencia de datos.
 
