@@ -26,7 +26,7 @@ Es importante mencionar que este programa de formación no solo se centrará en 
 
 Estos elementos son de increíble relevancia y utilidad, pues no solo porque pueden determinar la viabilidad de un proyecto de datos, sino que determina el impacto que pudiera tener el llevar a cabo instancias como esas.
 
-# Lenguaje R
+## Lenguaje R
 
 Este curso aborda el lenguaje de programación R.
 
@@ -37,3 +37,9 @@ Para ello, necesitarán instalar las siguientes cosas:
 2.  [Desde acá](https://www.rstudio.com/products/rstudio/) puedes descargar RStudio.
 
 Durante las primeras sesiones revisaremos cómo usarlos.
+
+
+## ¿Eres principiante en todo ésto de la ciencia de datos?
+
+
+[![Alt text](https://img.youtube.com/vi/imNaCay0E2w/0.jpg)](https://www.youtube.com/watch?v=imNaCay0E2w)
