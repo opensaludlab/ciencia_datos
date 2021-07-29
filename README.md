@@ -1,6 +1,4 @@
-# Ciencia de Datos para el sector público de salud
-
-![](images/academia.png)
+![Curso Ciencia de Datos](images/Curso%20Ciencia%20datos.png)
 
 Versión 1
 
