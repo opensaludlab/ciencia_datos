@@ -6,7 +6,7 @@ Hay variadas y diversas formas de definir lo que es ciencia de datos. A pesar de
 
 El flujo de trabajo habitual de la ciencia de datos es el mostrado en la siguiente imagen:
 
-![](images/data-science%20(1).png)  
+![](images/data-science%20(1).png)
 
 Para tener un orden lógico de trabajo, en este programa usaremos - cosas más cosas menos - ese flujo de trabajo.
 
@@ -38,10 +38,8 @@ Para ello, necesitarán instalar las siguientes cosas:
 
 Durante las primeras sesiones revisaremos cómo usarlos.
 
-
 ## ¿Eres principiante en todo ésto de la ciencia de datos?
 
-No te asustes!!
-Revisa este video:
+No te asustes!! Revisa este video si tienes dudas si programar es para ti.
 
 [![Alt text](https://img.youtube.com/vi/imNaCay0E2w/0.jpg)](https://www.youtube.com/watch?v=imNaCay0E2w)
