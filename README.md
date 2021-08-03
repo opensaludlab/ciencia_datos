@@ -34,11 +34,13 @@ Además, vemos como un elemento valioso el incorporar este tipo de metodologías
 
 ## :compass: Sobre el curso
 
-Este repo fue usado como base del programa de formación que realizamos entre Diciembre 2020 y Junio 2021. Acá encontrarás practicamente todo el material usado como los videos de las grabaciones de las sesiones en vivo, scripts, presentaciones y documentación complementaria.
+Este repo fue usado como base del programa de formación que realizamos entre Diciembre 2020 y Junio 2021. Acá encontrarás practicamente todo el material (cerca del 85%) usado como los videos de las grabaciones de las sesiones en vivo, scripts, presentaciones y documentación complementaria.
 
 En su versión original, el curso incluyó talleres y el desarrollo de proyectos de los alumnos, los cuales no están disponibles en esta versión.
 
-Si no tienes conocimentos en programación, te suguerimos que sigas el orden de las sesiones, veas los videos 2 ó 3 veces, los vayas pausando para ir realizando las actividades por ti mism\@ y revises las lecturas complementarias con calma.
+De todas formas, tienes disponibles **más de 70 horas de videoclases**. A eso, debes sumarle los videos complementarios, todos los ejercicios y lecturas, dando como resultado un curso bastante extenso, quizás el más grande en español actualmente.
+
+Si no tienes conocimentos en programación, te sugerimos que sigas el orden de las sesiones, veas los videos 2 ó 3 veces, los vayas pausando para ir realizando las actividades por ti mism\@ y revises las lecturas complementarias con calma.
 
 No hemos querido ser demasiados exhaustivos en los temas. Usa este curso, más bien, como una guía de estudio (*roadmap*) y si necesitas profundizar en algo, tanto en la documentación complementaria como en otros recursos en internet seguramente podrás encontrar más información.
 
