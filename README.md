@@ -119,7 +119,7 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
 -   Modelamiento BPMN
 -   Modelamiento BPMN
 
-## [MODULO 6: Comunicación y replicabilidad](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo6/Sesion_1)
+## [MODULO 6: Comunicación y replicabilidad](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo6)
 
 -   RMarkdown (parte 1)
 -   RMarkdown (parte 2)
