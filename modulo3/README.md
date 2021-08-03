@@ -20,7 +20,7 @@ Hay un par de capítulos de otros libros que nos parece bueno que les eches un v
 
 1.  [Capítulo 3 - R para Ciencia de Datos](https://r4ds-en-espaniol.netlify.app/visualizaci%C3%B3n-de-datos.html)
 
-2.  [Data Visualization (autor: Kieran Healy](https://socviz.co/lookatdata.html)
+2.  [Data Visualization (autor: Kieran Healy)](https://socviz.co/lookatdata.html)
 
 Y por último, [en esta página](https://www.r-graph-gallery.com/index.html) se muestran muchos tipos de gráficos y cómo hacerlos con `ggplot2`. Es un recurso muy interesante, que te servirá no solo para este módulo, sino para más adelante. Muy recomendable!
 
