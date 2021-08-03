@@ -18,7 +18,6 @@ La CEPAL tiene un documento muy completo en donde explica la metodología del ma
 
 [Acá puedes revisar la tesis](http://cybertesis.uach.cl/tesis/uach/2017/bpmr457p/doc/bpmr457p.pdf) a la que se hace referencia en la charla y que se pone como ejemplo.
 
-  
 Complementariamente a los documentos anteriores, te dejamos un par que nos parecen interesantes:
 
 1.  [Elaboración de la matriz de marco lógico (DIPRES. Chile)](https://www.dipres.gob.cl/598/articles-140852_doc_pdf.pdf)
@@ -45,7 +44,7 @@ Para complementar lo visto en la sesión, te recomendamos mucho que leas lo sigu
 
 1.  [Documentación oficial dplyr](https://dplyr.tidyverse.org/)
 
-2.  [Capítulo 5  - R para Ciencia de Datos](https://es.r4ds.hadley.nz/transform.html)
+2.  [Capítulo 5 - R para Ciencia de Datos](https://es.r4ds.hadley.nz/transform.html)
 
 3.  [Manipulación de data frames con dplyr](https://swcarpentry.github.io/r-novice-gapminder-es/13-dplyr/)
 
