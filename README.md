@@ -38,7 +38,7 @@ Este repo fue usado como base del programa de formación que realizamos entre Di
 
 En su versión original, el curso incluyó talleres y el desarrollo de proyectos de los alumnos, los cuales no están disponibles en esta versión.
 
-De todas formas, tienes disponibles 24 clases con **más de 70 horas** en total. A eso, debes sumarle los videos complementarios, todos los ejercicios y lecturas, dando como resultado un curso bastante extenso, quizás el más grande en español actualmente y gratuito.
+De todas formas, tienes disponibles 24 clases con **más de 70 horas de video** en total. A eso, debes sumarle los videos complementarios, todos los ejercicios y lecturas, dando como resultado un curso bastante extenso, quizás el más grande en español actualmente y gratuito.
 
 Si no tienes conocimentos en programación, te sugerimos que sigas el orden de las sesiones, veas los videos 2 ó 3 veces, los vayas pausando para ir realizando las actividades por ti mism\@ y revises las lecturas complementarias con calma.
 
