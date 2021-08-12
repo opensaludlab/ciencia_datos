@@ -22,6 +22,8 @@ Si encuentras interesante este proyecto y el contenido, te agradecemos mucho que
 
 Además, sigue a OSL en nuestras cuentas de [Twitter](https://twitter.com/OpensaludLAB), [Instagram](https://www.instagram.com/opensaludlab/) y [LinkedIn](https://www.linkedin.com/company/opensaludlab).
 
+Puedes visitarnos en [opensaludlab.org](http://www.opensaludlab.org)
+
 ## :wave: Bienvenida
 
 El presente curso de ciencia de datos (*Data Science*) busca entregar herramientas técnicas y metodológicas para que profesionales de las más diversas disciplinas puedan realizar procesos de análisis de datos, diseñar modelos matemáticos y estadísticos y generar aplicaciones que les permitan hacer inteligencia con los datos e información en diversos ámbitos del sector público de salud. La principal fortaleza de la ciencia de datos, es que no restringe su desarrollo sólo a matemáticos o informáticos, sus herramientas pueden ser de dominio de distintas áreas, favoreciendo el trabajo inter y multidisciplinario, pues aporta una visión sistémica para comprender el comportamiento de sistemas complejos. Del mismo modo, hemos diseñado este curso para el sector público, buscando suplir la brecha que existe a la hora de pensar en qué problemas de diseño y gestión de políticas públicas son adecuados de resolver con datos.
