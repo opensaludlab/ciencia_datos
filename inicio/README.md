@@ -51,7 +51,7 @@ Estos consejos te los mencionanos al inicio para que le saques el máximo provec
 
 1. Ve los videos 2 ó 3 veces. No te quedes solo con la primera vista. Revísalos lentamente, pausalos y anda practicando en la medida que te sientas cómodo.
 2. Practica mucho!! Revisa los scripts, vuelve a hacerlos varias veces, hazle pequeños cambios e investiga un poco más. 
-3. El curso está pensado para que puedas realizar 1 ó 2 sesiones a la semana. Es posible que tengas que dedicar, al menos, 5 a 6 horas a la semana. Planifícate!
+3. El curso está pensado para que puedas realizar 1 sesión a la semana. Es posible que le tengas que dedicar, al menos, 5 a 6 horas a la semana. Planifícate!
 4. Toma apuntes y notas. 
 5. Una de las mejoras formas de aprender es enseñar. No es necesario que sea a otra persona, puede ser a ti mismo o a algún familiar o amigo. Intenta explicar las cosas con tus palabras. ¿Conoces la técnica del patito de goma?.
 6. Más allá de saber "escribir código" o programar, lo relevante es entender lo que haces, cómo y cuándo usar determinadas funciones. Al final, lo que se necesita es resolver un problema.
