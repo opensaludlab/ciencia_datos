@@ -91,7 +91,6 @@ iris %>% arrange(-Sepal.Length) %>%
 iris %>% filter(Species %in% c("setosa", "virginica"))
 iris %>% filter(between(Petal.Length, 1.3, 5.5))
 
-
 iris %>% 
   group_by(Species) %>% 
   summarise(media = mean(Petal.Length),
