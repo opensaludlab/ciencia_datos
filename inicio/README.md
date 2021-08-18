@@ -49,12 +49,13 @@ No te asustes!! Revisa este video si tienes dudas si programar es para ti.
 
 Estos consejos te los mencionanos al inicio para que le saques el máximo provecho al curso y las sesiones.
 
-1. Ve los videos 2 ó 3 veces. No te quedes solo con la primera vista. Revísalos lentamente, pausalos y anda practicando en la medida que te sientas cómodo.
-2. Practica mucho!! Revisa los scripts, vuelve a hacerlos varias veces, hazle pequeños cambios e investiga un poco más. 
-3. El curso está pensado para que puedas realizar 1 sesión a la semana. Es posible que le tengas que dedicar, al menos, 5 a 6 horas a la semana. Planifícate!
+1. Ve los videos 2 ó 3 veces. No te quedes solo con la primera vista. Revísalos lentamente, pausalos y anda practicando en la medida que te sientas cómoda o cómodo.
+2. Practica mucho!! Revisa los scripts, vuelve a hacerlos varias veces, hazle pequeños cambios e investiga un poco más. La práctica es lo principal.
+3. El bootcamp está pensado para que puedas realizar 1 sesión por semana. Es posible que le tengas que dedicar, al menos, unas 5 a 6 horas a la semana. Planifícate!
 4. Toma apuntes y notas. 
-5. Una de las mejoras formas de aprender es enseñar. No es necesario que sea a otra persona, puede ser a ti mismo o a algún familiar o amigo. Intenta explicar las cosas con tus palabras. ¿Conoces la técnica del patito de goma?.
-6. Más allá de saber "escribir código" o programar, lo relevante es entender lo que haces, cómo y cuándo usar determinadas funciones. Al final, lo que se necesita es resolver un problema.
-7. Es muy probable que te bloquees y sientas que no avanzas. No pasa nada!! A todos nos ha pasado. Toma aire, descansa, deja pasar unos días y retoma las sesiones y vuelve a practicar y estudiar.
-8. Para que las sesiones sean más provechosas, quizás te sea útil usar 2 monitores: uno para ver el video o la documentación y otro con el código. 
-9. No te veas todos los videos de una vez ni te leas todo de inmediato. Calma. Dedícale tiempo. Posiblemente es mejor dedicar 1 hora full, descansar unos 15 minutos y luego seguir full otra hora más. ¿Conoces la técnica pomodoro?
+5. Una de las mejoras formas de aprender es enseñar. No es necesario que sea a otra persona, puede ser a ti mismo o a algún familiar o amigo. Intenta explicar las cosas que vayas aprendiendo con tus propias palabras. ¿Conoces la técnica del patito de goma?.
+6. Más allá de saber "escribir código" o programar, lo relevante es entender lo que haces, cómo y cuándo usar determinadas funciones. Al final, lo que se necesita es resolver un problema. Para todo lo demás, está Google.
+7. Es muy probable que te bloquees y sientas que no avanzas, en especial al principio. No pasa nada!! A todos nos ha pasado. Es natural que ocurra eso. Toma aire, descansa, deja pasar unos días quizás y retoma las sesiones y vuelve a practicar y estudiar.
+8. Recuerda que siempre tendrás a la comunidad para pedir ayuda.
+9. Para que las sesiones sean más provechosas, quizás te sea útil usar 2 monitores: uno para ver el video o la documentación y otro para escribir el código. 
+10. No te veas todos los videos de una vez ni te leas todo de inmediato. Calma!! Dedícale tiempo. Posiblemente es mejor dedicar 1 hora full, descansar unos 15 minutos y luego seguir full otra hora más. ¿Conoces la técnica pomodoro?
