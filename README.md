@@ -1,8 +1,12 @@
 ![Curso Ciencia de Datos](images/Curso%20Ciencia%20datos.png)
 
-Versión 1
+Versión 2
 
-## Este es el repositorio del programa de formación en ciencia de datos de la Academia de [OpenSalud LAB](http://www.opensaludlab.org).
+http://datascience.opensaludlab.org
+  
+  
+## Este es el repositorio del programa de formación en ciencia de datos de la Academia de [OpenSalud LAB](http://www.opensaludlab.org).  
+
 
 1.  [Bienvenida](https://github.com/opensaludlab/ciencia_datos#bienvenida)
 
