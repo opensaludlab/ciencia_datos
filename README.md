@@ -2,26 +2,22 @@
 
 Versión 2
 
-http://datascience.opensaludlab.org
-  
-  
- 
+<http://datascience.opensaludlab.org>
 
-## 👉 [Ingresa acá](https://discord.gg/mpJadAbxYN) para unirte a la comunidad online del Bootcamp y comienza este viaje!!
+ 
 
+## :point_right: [Ingresa acá](https://discord.gg/mpJadAbxYN) para unirte a la comunidad online del Bootcamp y comienza este viaje!!
+
+ 
 
 1.  [Bienvenida](https://github.com/opensaludlab/ciencia_datos#bienvenida)
-
 2.  [Objetivos](https://github.com/opensaludlab/ciencia_datos#objetivos)
-
 3.  [Sobre el curso](https://github.com/opensaludlab/ciencia_datos#hugs-agradecimientos)
-
 4.  [Programa del curso](https://github.com/opensaludlab/ciencia_datos#loudspeaker-programa)
-
 5.  [Módulos del curso](https://github.com/opensaludlab/ciencia_datos#left_speech_bubble-m%C3%B3dulos-del-curso)
-
 6.  [Agradecimientos](https://github.com/opensaludlab/ciencia_datos#hugs-agradecimientos)
 
+ 
 
 ## :heart: ¿Nos ayudas?
 
@@ -31,18 +27,17 @@ Además, sigue a OSL en nuestras cuentas de [Twitter](https://twitter.com/Opensa
 
 Puedes visitarnos en [opensaludlab.org](http://www.opensaludlab.org)
 
+ 
 
 ## :wave: Bienvenida
 
 El presente curso de ciencia de datos (*Data Science*) busca entregar herramientas técnicas y metodológicas para que profesionales de las más diversas disciplinas puedan realizar procesos de análisis de datos, diseñar modelos matemáticos y estadísticos y generar aplicaciones que les permitan hacer inteligencia con los datos e información en diversos ámbitos del sector público de salud. La principal fortaleza de la ciencia de datos, es que no restringe su desarrollo sólo a matemáticos o informáticos, sus herramientas pueden ser de dominio de distintas áreas, favoreciendo el trabajo inter y multidisciplinario, pues aporta una visión sistémica para comprender el comportamiento de sistemas complejos. Del mismo modo, hemos diseñado este curso para el sector público, buscando suplir la brecha que existe a la hora de pensar en qué problemas de diseño y gestión de políticas públicas son adecuados de resolver con datos.
-
 
 ## :cup_with_straw: Objetivos
 
 El objetivo es el desarrollo progresivo de tu nivel de conocimientos técnicos y especializados en análisis avanzado de datos, programación y gestión de proyectos de ciencias de datos.
 
 Además, vemos como un elemento valioso el incorporar este tipo de metodologías y conocimientos al interior de las instituciones públicas de salud, no solo para mejorar sus procesos habituales, sino que fundamentalmente, para ayudar en la toma de las mejores decisiones basadas en evidencia.
-
 
 ## :compass: Sobre el curso
 
@@ -59,7 +54,6 @@ Pero debes saber algo desde ya!! Esto de la Ciencia de Datos (y la programación
 ### ¿Por qué hemos liberado todo el curso?
 
 Porque queremos democratizar el acceso al conocimiento avanzado y nos gustaría que más personas usen este tipo de metodologías para mejorar el sistema público de salud en beneficio de la ciudadanía.
-
 
 ## :loudspeaker: Programa
 
@@ -86,7 +80,6 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
 4.  Aplicar técnicas avanzadas de análisis estadísticos, tanto descriptivos como inferenciales
 5.  Utilizar código para la transformación, limpieza, análisis, visualización y publicación de datos
 6.  Analizar críticamente distintos proyectos e iniciativas de ciencias de datos
-
 
 ## :left_speech_bubble: Módulos del curso
 
@@ -141,10 +134,9 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
 -   Shiny (parte 2)
 -   Manejo de versiones con Github
 
-## [TALLERES](https://github.com/opensaludlab/ciencia_datos/tree/main/Talleres)  
+## [TALLERES](https://github.com/opensaludlab/ciencia_datos/tree/main/Talleres)
 
-_Nota: Es muy posible que a lo largo del Bootcamp se agreguen más contenidos y temáticas._  
-
+*Nota: Es muy posible que a lo largo del Bootcamp se agreguen más contenidos y temáticas.*
 
 ## :hugs: Agradecimientos
 
