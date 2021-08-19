@@ -133,7 +133,10 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
 -   Shiny (parte 2)
 -   Manejo de versiones con Github
 
-## [TALLERES](https://github.com/opensaludlab/ciencia_datos/tree/main/Talleres)
+## [TALLERES](https://github.com/opensaludlab/ciencia_datos/tree/main/Talleres)  
+
+_Nota: Es muy posible que a lo largo del Bootcamp se agreguen más contenidos y temáticas._  
+
 
 ## :hugs: Agradecimientos
 
