@@ -13,7 +13,7 @@ Versión 2
 1.  [Bienvenida](https://github.com/opensaludlab/ciencia_datos#bienvenida)
 2.  [Objetivos](https://github.com/opensaludlab/ciencia_datos#objetivos)
 3.  [Sobre el curso](https://github.com/opensaludlab/ciencia_datos#hugs-agradecimientos)
-4.  ¿A quién está dirigido?
+4.  [¿A quién está dirigido?](https://github.com/opensaludlab/ciencia_datos/blob/main/README.md#unicorn-a-qui%C3%A9n-est%C3%A1-dirigido)
 5.  [Programa del curso](https://github.com/opensaludlab/ciencia_datos#loudspeaker-programa)
 6.  [Módulos del curso](https://github.com/opensaludlab/ciencia_datos#left_speech_bubble-m%C3%B3dulos-del-curso)
 7.  [Agradecimientos](https://github.com/opensaludlab/ciencia_datos#hugs-agradecimientos)
