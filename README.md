@@ -5,7 +5,9 @@ Versión 2
 http://datascience.opensaludlab.org
   
   
-## Este es el repositorio del programa de formación en ciencia de datos de la Academia de [OpenSalud LAB](http://www.opensaludlab.org).  
+ 
+
+## 👉 [Ingresa acá](https://discord.gg/mpJadAbxYN) para unirte a la comunidad online del Bootcamp y comienza este viaje!!
 
 
 1.  [Bienvenida](https://github.com/opensaludlab/ciencia_datos#bienvenida)
@@ -20,6 +22,7 @@ http://datascience.opensaludlab.org
 
 6.  [Agradecimientos](https://github.com/opensaludlab/ciencia_datos#hugs-agradecimientos)
 
+
 ## :heart: ¿Nos ayudas?
 
 Si encuentras interesante este proyecto y el contenido, te agradecemos mucho que marques la estrella del repositorio (busca la :star: de arriba y dale clic. Es como un clásico "me gusta" :+1:).
@@ -28,9 +31,11 @@ Además, sigue a OSL en nuestras cuentas de [Twitter](https://twitter.com/Opensa
 
 Puedes visitarnos en [opensaludlab.org](http://www.opensaludlab.org)
 
+
 ## :wave: Bienvenida
 
 El presente curso de ciencia de datos (*Data Science*) busca entregar herramientas técnicas y metodológicas para que profesionales de las más diversas disciplinas puedan realizar procesos de análisis de datos, diseñar modelos matemáticos y estadísticos y generar aplicaciones que les permitan hacer inteligencia con los datos e información en diversos ámbitos del sector público de salud. La principal fortaleza de la ciencia de datos, es que no restringe su desarrollo sólo a matemáticos o informáticos, sus herramientas pueden ser de dominio de distintas áreas, favoreciendo el trabajo inter y multidisciplinario, pues aporta una visión sistémica para comprender el comportamiento de sistemas complejos. Del mismo modo, hemos diseñado este curso para el sector público, buscando suplir la brecha que existe a la hora de pensar en qué problemas de diseño y gestión de políticas públicas son adecuados de resolver con datos.
+
 
 ## :cup_with_straw: Objetivos
 
@@ -38,13 +43,14 @@ El objetivo es el desarrollo progresivo de tu nivel de conocimientos técnicos y
 
 Además, vemos como un elemento valioso el incorporar este tipo de metodologías y conocimientos al interior de las instituciones públicas de salud, no solo para mejorar sus procesos habituales, sino que fundamentalmente, para ayudar en la toma de las mejores decisiones basadas en evidencia.
 
+
 ## :compass: Sobre el curso
 
 Este repo fue usado como base del programa de formación que realizamos entre Diciembre 2020 y Junio 2021. Acá encontrarás practicamente todo el material (cerca del 85%) usado como los videos de las grabaciones de las sesiones en vivo, scripts, presentaciones y documentación complementaria.
 
 En su versión original, el curso incluyó talleres y el desarrollo de proyectos de los alumnos, los cuales no están disponibles en esta versión.
 
-De todas formas, tienes disponibles 24 clases con **más de 70 horas de video** en total. A eso, debes sumarle los videos complementarios, todos los ejercicios y lecturas, dando como resultado un curso bastante extenso, quizás el más grande en español actualmente y gratuito.
+De todas formas, tienes disponibles 24 clases con **más de 70 horas de video** en total. A eso, debes sumarle los videos complementarios, todos los ejercicios y lecturas, dando como resultado un curso bastante extenso, quizás el más grande en español actualmente, gratuito y de acceso libre.
 
 No hemos querido ser demasiados exhaustivos en los temas. Usa este curso, más bien, como una guía de estudio (*roadmap*) y si necesitas profundizar en algo, tanto en la documentación complementaria como en otros recursos en internet seguramente podrás encontrar más información.
 
@@ -53,6 +59,7 @@ Pero debes saber algo desde ya!! Esto de la Ciencia de Datos (y la programación
 ### ¿Por qué hemos liberado todo el curso?
 
 Porque queremos democratizar el acceso al conocimiento avanzado y nos gustaría que más personas usen este tipo de metodologías para mejorar el sistema público de salud en beneficio de la ciudadanía.
+
 
 ## :loudspeaker: Programa
 
@@ -79,6 +86,7 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
 4.  Aplicar técnicas avanzadas de análisis estadísticos, tanto descriptivos como inferenciales
 5.  Utilizar código para la transformación, limpieza, análisis, visualización y publicación de datos
 6.  Analizar críticamente distintos proyectos e iniciativas de ciencias de datos
+
 
 ## :left_speech_bubble: Módulos del curso
 
