@@ -52,6 +52,11 @@ No hemos querido ser demasiados exhaustivos en los temas. Usa este curso, más b
 
 Pero debes saber algo desde ya!! Esto de la Ciencia de Datos (y la programación) es un constante aprendizaje. Siempre hay algo nuevo o cosas que aprender. Así que no te quedes solo con éste curso, ni con ningún otro solamente. Estudia mucho y practica, practica y practica...
 
+### Novedades de esta versión
+
+En esta nueva versión del Bootcamp tendremos disponible una [comunidad online](https://discord.gg/mpJadAbxYN) (en Discord) para que puedas acceder a otros materiales, hacer consultas, resolver tus dudas y compartir con el resto de los miembros. Y por qué no, ayudar a otros.   
+Tendremos, también, nuevos talleres y sesiones en vivo para ir reforzando cada módulo.
+
 ### ¿Por qué hemos liberado todo el curso?
 
 Porque queremos democratizar el acceso al conocimiento avanzado y nos gustaría que más personas usen este tipo de metodologías para mejorar el sistema público de salud en beneficio de la ciudadanía.
@@ -85,6 +90,8 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
 4.  Aplicar técnicas avanzadas de análisis estadísticos, tanto descriptivos como inferenciales
 5.  Utilizar código para la transformación, limpieza, análisis, visualización y publicación de datos
 6.  Analizar críticamente distintos proyectos e iniciativas de ciencias de datos
+
+ 
 
 ## :left_speech_bubble: Módulos del curso
 
