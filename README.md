@@ -13,9 +13,10 @@ Versión 2
 1.  [Bienvenida](https://github.com/opensaludlab/ciencia_datos#bienvenida)
 2.  [Objetivos](https://github.com/opensaludlab/ciencia_datos#objetivos)
 3.  [Sobre el curso](https://github.com/opensaludlab/ciencia_datos#hugs-agradecimientos)
-4.  [Programa del curso](https://github.com/opensaludlab/ciencia_datos#loudspeaker-programa)
-5.  [Módulos del curso](https://github.com/opensaludlab/ciencia_datos#left_speech_bubble-m%C3%B3dulos-del-curso)
-6.  [Agradecimientos](https://github.com/opensaludlab/ciencia_datos#hugs-agradecimientos)
+4.  ¿A quién está dirigido?
+5.  [Programa del curso](https://github.com/opensaludlab/ciencia_datos#loudspeaker-programa)
+6.  [Módulos del curso](https://github.com/opensaludlab/ciencia_datos#left_speech_bubble-m%C3%B3dulos-del-curso)
+7.  [Agradecimientos](https://github.com/opensaludlab/ciencia_datos#hugs-agradecimientos)
 
  
 
@@ -54,6 +55,10 @@ Pero debes saber algo desde ya!! Esto de la Ciencia de Datos (y la programación
 ### ¿Por qué hemos liberado todo el curso?
 
 Porque queremos democratizar el acceso al conocimiento avanzado y nos gustaría que más personas usen este tipo de metodologías para mejorar el sistema público de salud en beneficio de la ciudadanía.
+
+## :unicorn: ¿A quién está dirigido?
+
+El Bootcamp está dirigido a todas las personas interesadas en introducirse en el área de la Ciencia de Datos y que quieren comenzar a aplicarla dentro de instituciones públicas de salud.
 
 ## :loudspeaker: Programa
 
