@@ -6,7 +6,7 @@ Versión 2
 
  
 
-## :point_right: [Ingresa acá](https://discord.gg/mpJadAbxYN) para unirte a la comunidad online del Bootcamp y comienza este viaje ahora!!
+# :point_right: [Ingresa acá](https://discord.gg/mpJadAbxYN) para unirte a la comunidad online del Bootcamp y comienza este viaje ahora!!
 
  
 
