@@ -176,3 +176,5 @@ La comunidad de [R-Ladies Concepción (Chile)](https://twitter.com/RLadiesConce)
 También agradecemos enormemente a [Patricio Araneda](https://www.linkedin.com/in/patricioaraneda/).
 
 Y por supuesto, a los **más de 100 inscritos en el curso** en su primera versión, a la comunidad de OpenSalud LAB y a todos los que, con su apoyo, difusión y energía, ayudaron a que este proyecto fuese posible.
+
+## Dudas
