@@ -11,8 +11,9 @@ Versión 2
  
 
 **Accede de forma libre y gratuita a:**  
-:white_check_mark: +70 horas de videoclases  
-:white_check_mark: +200 horas de recursos y documentación  
+:white_check_mark: +70 horas de clases pregrabadas  
+:white_check_mark: +200 horas de recursos  
+:white_check_mark: Documentación seleccionada  
 :white_check_mark: Talleres en vivo  
 :white_check_mark: Tutorías 1-1 y grupales  
 :white_check_mark: Formato 100% online
@@ -104,6 +105,8 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
  
 
 ## :left_speech_bubble: Módulos del curso
+
+Acá puedes acceder a las clases, documentación y scripts.
 
 #### :warning: [Antes de partir, revisa esta información](https://github.com/opensaludlab/ciencia_datos/tree/main/inicio)
 
