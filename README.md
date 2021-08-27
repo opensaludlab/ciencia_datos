@@ -178,6 +178,6 @@ También agradecemos enormemente a [Patricio Araneda](https://www.linkedin.com/i
 
 Y por supuesto, a los **más de 100 inscritos en el curso** en su primera versión, a la comunidad de OpenSalud LAB y a todos los que, con su apoyo, difusión y energía, ayudaron a que este proyecto fuese posible.
 
-## Dudas
+## :question: Dudas
 
 Si tienes dudas sobre el Bootcamp, escríbenos a contacto\@opensaludlab.org
