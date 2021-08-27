@@ -27,6 +27,7 @@ Versión 2
 5.  [Programa del curso](https://github.com/opensaludlab/ciencia_datos#loudspeaker-programa)
 6.  [Módulos del curso](https://github.com/opensaludlab/ciencia_datos#left_speech_bubble-m%C3%B3dulos-del-curso)
 7.  [Agradecimientos](https://github.com/opensaludlab/ciencia_datos#hugs-agradecimientos)
+8.  [Dudas](https://github.com/opensaludlab/ciencia_datos/blob/main/README.md#dudas)
 
  
 
@@ -178,3 +179,5 @@ También agradecemos enormemente a [Patricio Araneda](https://www.linkedin.com/i
 Y por supuesto, a los **más de 100 inscritos en el curso** en su primera versión, a la comunidad de OpenSalud LAB y a todos los que, con su apoyo, difusión y energía, ayudaron a que este proyecto fuese posible.
 
 ## Dudas
+
+Si tienes dudas sobre el Bootcamp, escríbenos a contacto\@opensaludlab.org
