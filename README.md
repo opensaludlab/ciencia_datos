@@ -10,6 +10,15 @@ Versión 2
 
  
 
+**Accede de forma libre y gratuita a:**  
+:white_check_mark: +70 horas de videoclases  
+:white_check_mark: +200 horas de recursos y documentación  
+:white_check_mark: Talleres en vivo  
+:white_check_mark: Tutorías 1-1 y grupales  
+:white_check_mark: Formato 100% online
+
+### Índice
+
 1.  [Bienvenida](https://github.com/opensaludlab/ciencia_datos#bienvenida)
 2.  [Objetivos](https://github.com/opensaludlab/ciencia_datos#objetivos)
 3.  [Sobre el curso](https://github.com/opensaludlab/ciencia_datos#hugs-agradecimientos)
@@ -54,8 +63,8 @@ Pero debes saber algo desde ya!! Esto de la Ciencia de Datos (y la programación
 
 ### Novedades de esta versión
 
-En esta nueva versión del Bootcamp tendremos disponible una [comunidad online](https://discord.gg/mpJadAbxYN) (en Discord) para que puedas acceder a otros materiales, hacer consultas, resolver tus dudas y compartir con el resto de los miembros. Y por qué no, ayudar a otros.   
-Tendremos, también, nuevos talleres y sesiones en vivo para ir reforzando cada módulo.   
+En esta nueva versión del Bootcamp tendremos disponible una [comunidad online](https://discord.gg/mpJadAbxYN) (en Discord) para que puedas acceder a otros materiales, hacer consultas, resolver tus dudas y compartir con el resto de los miembros. Y por qué no, ayudar a otros.  
+Tendremos, también, nuevos talleres y sesiones en vivo para ir reforzando cada módulo.  
 Además, se agregarán otros temas que vimos relevantes en la versión anterior como webscraping, control de versiones con GIT, series de tiempo y profundizar más en el manejo del paquete `Tidyverse` que permite transformar, manipular y limpiar datos.
 
 ### ¿Por qué hemos liberado todo el curso?
