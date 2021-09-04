@@ -6,7 +6,6 @@
 
 Te recomiendo ver los videos al menos 2 ó 3 veces, pausarlo e ir lentamente estudiando los temas tratados. Además, baja el código (script), ejecútalo y analízalo con calma. Revisa la lectura complementaria en la medida que avanzas en el código.
 
-  
 No te estreses. Ya habrá tiempo para profundizar en todo a lo largo del curso :blush:
 
 Vamos!!
@@ -30,9 +29,13 @@ En esta sesión abordamos los aspectos generales del programa, los objetivos y l
 En esta sesión conversamos de la historia de R, sus ventajas y desventajas. Además, revisamos varias de las funcionalidades que tiene RStudio y de la importancia de las librerías (*packages*).  
 Revisamos, también, algunas recomendaciones y buenas prácticas al escribir código.
 
-### :tv:[ [Video](https://youtu.be/Iy-qOxy6ep8) ]
+### :tv:[ [Video 1](https://youtu.be/Iy-qOxy6ep8) ]
 
-### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_2.pdf) ]
+### :tv:[ [Video 2](https://youtu.be/tSBLZjOmYA4) ]
+
+### :closed_book: [ [Slides 1](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_2.pdf) ]
+
+### :closed_book: [ [Slides 2](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_2-1.pdf) ]
 
 ### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/01_conceptos_basicos.R) ]
 
@@ -48,9 +51,19 @@ Puedes leer los siguientes capítulos del libro \_R for Data Science\_ para comp
 
 ### Descargas
 
-Puedes descargar el lenguaje R desde su [sitio oficia](https://cran.r-project.org/)l.
+Puedes descargar el lenguaje R desde su [sitio oficial](https://cran.r-project.org/).
 
 [Desde acá](https://www.rstudio.com/products/rstudio/) puedes descargar RStudio.
+
+### Tips
+
+Estos son algunos de los tips mencionados en el video 2:
+
+-   [Usa un tema oscuro en RStudio](https://r-coder.com/temas-rstudio/).
+
+-   Usa una fuente especial para programar como [Cascadia Code](https://github.com/microsoft/cascadia-code), [Fira Code](https://github.com/tonsky/FiraCode) o J[etbrains Mono](https://www.jetbrains.com/es-es/lp/mono/).
+
+-   Usa las recomendaciones de [estilo del Tidyverse](https://style.tidyverse.org/index.html) para que tu código sea más legible y ordenado.
 
 ------------------------------------------------------------------------
 
