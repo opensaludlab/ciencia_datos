@@ -29,13 +29,9 @@ En esta sesión abordamos los aspectos generales del programa, los objetivos y l
 En esta sesión conversamos de la historia de R, sus ventajas y desventajas. Además, revisamos varias de las funcionalidades que tiene RStudio y de la importancia de las librerías (*packages*).  
 Revisamos, también, algunas recomendaciones y buenas prácticas al escribir código.
 
-### :tv:[ [Video 1](https://youtu.be/Iy-qOxy6ep8) ]
+### :tv:[ [Video 1](https://youtu.be/Iy-qOxy6ep8) ]  - :closed_book: [ [Slides 1](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_2.pdf) ]
 
-### :tv:[ [Video 2](https://youtu.be/tSBLZjOmYA4) ]
-
-### :closed_book: [ [Slides 1](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_2.pdf) ]
-
-### :closed_book: [ [Slides 2](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_2-1.pdf) ]
+### :tv:[ [Video 2](https://youtu.be/tSBLZjOmYA4) ] - :closed_book: [ [Slides 2](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_2-1.pdf) ]
 
 ### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/01_conceptos_basicos.R) ]
 
@@ -57,7 +53,7 @@ Puedes descargar el lenguaje R desde su [sitio oficial](https://cran.r-project.o
 
 ### Tips
 
-Estos son algunos de los tips mencionados en el video 2:
+Estos son algunos de los tips mencionados en el video n°2:
 
 -   [Usa un tema oscuro en RStudio](https://r-coder.com/temas-rstudio/).
 
