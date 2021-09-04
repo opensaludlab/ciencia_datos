@@ -69,6 +69,9 @@ En esta nueva versión del Bootcamp tendremos disponible una [comunidad online](
 Tendremos, también, nuevos talleres y sesiones en vivo para ir reforzando cada módulo.  
 Además, se agregarán otros temas que vimos relevantes en la versión anterior como webscraping, control de versiones con GIT, series de tiempo y profundizar más en el manejo del paquete `Tidyverse` que permite transformar, manipular y limpiar datos.
 
+Esto hace que el Bootcamp sea un curso, principalmente, autoadminstrado, en donde se mezclan actividades sincrónicas (sesiones en vivo) con asincrónicas (videos grabados, comunidad online, documentación, prácticas y lecturas) para profundizar en ciertos temas, resolver dudas o realizar talleres.
+
+
 ### ¿Por qué hemos liberado todo el curso?
 
 Porque queremos democratizar el acceso al conocimiento avanzado y nos gustaría que más personas usen este tipo de metodologías para mejorar el sistema público de salud en beneficio de la ciudadanía.
