@@ -159,15 +159,12 @@ Acá puedes acceder a las clases, documentación y scripts.
 ## [MODULO 6: Comunicación y replicabilidad](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo6)
 
 -   RMarkdown (parte 1)
-
--   RMarkdown (parte 2)
-
+-   RMarkdown (parte 2)  
 -   Shiny (parte 1)
-
 -   Shiny (parte 2)
-
 -   Manejo de versiones con Github
-
+  
+  
 ## :hugs: Agradecimientos
 
 Este curso se hizo gracias a la ayuda y colaboración de muchas personas :muscle:
