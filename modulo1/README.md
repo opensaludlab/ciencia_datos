@@ -16,9 +16,9 @@ Vamos!!
 
 En esta sesión abordamos los aspectos generales del programa, los objetivos y la motivación de lanzarnos con este proyecto. Además, revisamos el calendario, las temáticas a tratar, la metodología y los distintos tipos de actividades.
 
-### :tv:[ [Video](https://youtu.be/YZgY0n7YKbI) ]
+### :tv: [ [Video](https://youtu.be/YZgY0n7YKbI) ]
 
-### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_1.pdf) ]
+### :closed_book:  [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_1.pdf) ]
 
 *Nota: Esta sesión no tiene script.*
 
@@ -29,11 +29,13 @@ En esta sesión abordamos los aspectos generales del programa, los objetivos y l
 En esta sesión conversamos de la historia de R, sus ventajas y desventajas. Además, revisamos varias de las funcionalidades que tiene RStudio y de la importancia de las librerías (*packages*).  
 Revisamos, también, algunas recomendaciones y buenas prácticas al escribir código.
 
-### :tv:[ [Video 1](https://youtu.be/Iy-qOxy6ep8) ]  - :closed_book: [ [Slides 1](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_2.pdf) ]
+### :tv: [ [Video](https://youtu.be/Iy-qOxy6ep8) ] 
 
-### :tv:[ [Video 2](https://youtu.be/tSBLZjOmYA4) ] - :closed_book: [ [Slides 2](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_2-1.pdf) ]
+### :closed_book:  [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_2.pdf) ]
 
 ### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/01_conceptos_basicos.R) ]
+
+### :tv: [ [Taller](https://youtu.be/tSBLZjOmYA4) ] 
 
 ### Lectura recomendada
 
@@ -67,9 +69,9 @@ Estos son algunos de los tips mencionados en el video n°2:
 
 En esta sesión conversamos sobre los tipos de datos en que se puede trabaja en R y las estructuras de los mismos. Hablamos, también, de la importancia de comprender qué tipos de datos se tienen y de como coercionarlos de forma de que se adapten a lo que uno necesita. Revisamos el tidy data y su relevancia en el código.
 
-### :tv:[ [Video](https://youtu.be/iyYUPmQi_Xs) ]
+### :tv: [ [Video](https://youtu.be/iyYUPmQi_Xs) ]
 
-### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_3.pdf) ]
+### :closed_book:  [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_3.pdf) ]
 
 ### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/02_tipos_datos.R) ]
 
@@ -91,9 +93,9 @@ Puedes leer los siguientes capítulos del libro *R para Principiantes* para comp
 
 En esta sesión hablamos sobre cómo importar distintos tipos de datos a nuestro ambiente de RStudio, que es una de las tareas más importantes a la hora de analizar datos.
 
-### :tv:[ [Video](https://youtu.be/4MqllJ1zoTo) ]
+### :tv: [ [Video](https://youtu.be/4MqllJ1zoTo) ]
 
-### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_4.pdf)]
+### :closed_book:  [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_4.pdf)]
 
 ### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/03_importar_datos.R) ]
 
@@ -109,9 +111,9 @@ En esta sesión hablamos sobre cómo importar distintos tipos de datos a nuestro
 
 En esta sesión revisamos los aspectos más destacadas a la hora de analizar la factibilidad de llevar a cabo un proyecto de ciencia de datos.
 
-### :tv:[ [Video](https://youtu.be/6IXbH_eBuXQ) ]
+### :tv: [ [Video](https://youtu.be/6IXbH_eBuXQ) ]
 
-### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_5.pdf) ]
+### :closed_book:  [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_5.pdf) ]
 
 *Nota: esta sesión no tiene script.*
 
