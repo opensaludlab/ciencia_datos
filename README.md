@@ -71,7 +71,6 @@ Además, se agregarán otros temas que vimos relevantes en la versión anterior 
 
 Esto hace que el Bootcamp sea un curso, principalmente, autoadminstrado, en donde se mezclan actividades sincrónicas (sesiones en vivo) con asincrónicas (videos grabados, comunidad online, documentación, prácticas y lecturas) para profundizar en ciertos temas, resolver dudas o realizar talleres.
 
-
 ### ¿Por qué hemos liberado todo el curso?
 
 Porque queremos democratizar el acceso al conocimiento avanzado y nos gustaría que más personas usen este tipo de metodologías para mejorar el sistema público de salud en beneficio de la ciudadanía.
@@ -112,7 +111,9 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
 
 Acá puedes acceder a las clases, documentación y scripts.
 
-#### :warning: [Antes de partir, revisa esta información](https://github.com/opensaludlab/ciencia_datos/tree/main/inicio)
+*Nota: A lo largo del Bootcamp se agregarán más contenidos, talleres y temas.*
+
+#### :warning: [Antes de partir, revisa esta información](https://github.com/opensaludlab/ciencia_datos/tree/main/inicio).
 
 ## [MODULO 1: Nivelación y conceptos básicos](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo1)
 
@@ -158,14 +159,14 @@ Acá puedes acceder a las clases, documentación y scripts.
 ## [MODULO 6: Comunicación y replicabilidad](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo6)
 
 -   RMarkdown (parte 1)
+
 -   RMarkdown (parte 2)
+
 -   Shiny (parte 1)
+
 -   Shiny (parte 2)
+
 -   Manejo de versiones con Github
-
-## [TALLERES](https://github.com/opensaludlab/ciencia_datos/tree/main/Talleres)
-
-*Nota: Es muy posible que a lo largo del Bootcamp se agreguen más contenidos y temáticas.*
 
 ## :hugs: Agradecimientos
 
