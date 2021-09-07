@@ -75,9 +75,21 @@ Esto hace que el Bootcamp sea un curso, principalmente, autoadminstrado, en dond
 
 Porque queremos democratizar el acceso al conocimiento avanzado y nos gustaría que más personas usen este tipo de metodologías para mejorar el sistema público de salud en beneficio de la ciudadanía.
 
+Por ahora, tenemos disponibles los 3 primeros módulos, que son la base de la Ciencia de Datos y es donde reforzaremos esos conocimientos.
+
 ## :unicorn: ¿A quién está dirigido?
 
 El Bootcamp está dirigido a todas las personas interesadas en introducirse en el área de la Ciencia de Datos y que quieren comenzar a aplicarla dentro de instituciones públicas de salud.
+
+## :date: Cronograma
+
+La idea es realizar 1 sesión a la semana, con un tiempo de dedicación de unas 5 horas aprox. Esto implica ver los videos de clases, revisar la documentación adicional, realizar los ejercicios y las prácticas recomendadas. Eso, al menos, pues si quieres desarrollar de mejor forma tus habilidades, es altamente relevante que busques más recursos y practiques mucho.
+
+Además, este calendario será la base para la programación de las fechas de talleres y sesiones en vivo. Si sigues ese ritmo, podrás sacarle más provecho al Bootcamp y participar activamente de ellas.
+
+La semana 1 corresponde a la primera de Septiembre 2021.
+
+![](images/calendar.png)
 
 ## :loudspeaker: Programa
 
@@ -163,8 +175,7 @@ Acá puedes acceder a las clases, documentación y scripts.
 -   Shiny (parte 1)
 -   Shiny (parte 2)
 -   Manejo de versiones con Github
-  
-  
+
 ## :hugs: Agradecimientos
 
 Este curso se hizo gracias a la ayuda y colaboración de muchas personas :muscle:
