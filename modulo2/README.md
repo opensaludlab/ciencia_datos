@@ -86,6 +86,6 @@ Para complementar lo visto en la sesión, te recomiendamos mucho que leas el [Ca
 
 # :white_check_mark: Certificado
 
-El Bootcamp no entrega certificado de finalización. Sin embargo, si llegaste hasta acá y realizaste los módulos 1 y 2 siguiendo los consejos, estás absolútamente capacitada/o para realizar el curso de **IBM Cognitive Class** sin mayores problemas.
+El Bootcamp no entrega certificado de finalización. Sin embargo, si llegaste hasta acá y realizaste los módulos 1 y 2 siguiendo todos los consejos y practicaste mucho, estás absolútamente capacitada/o para realizar el curso de **IBM Cognitive Class** sin mayores problemas.
 
-[Ir al curso](https://cognitiveclass.ai/courses/r-101)
+### [Ir al curso](https://cognitiveclass.ai/courses/r-101)
