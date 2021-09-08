@@ -41,3 +41,11 @@ El script usado también puedes revisarlo en el [siguiente proyecto de RStudio C
 [Repo oficial de la librería highcharter](https://github.com/jbkunst/highcharter)
 
 Personalizar las distintas partes de los gráficos realizado con ggplot2 es uno de los temas más fascinates, pero no siempre es tan fácil. Para ayudarte en eso, [acá puedes ver un configurador](https://ggplot2tor.com/theme/) que te entrega los códigos para ir personalizando las partes de los temas. Revisa las otras secciones de esa web, puedes ver todas las funciones de las `aesthetics` y las `scales`.
+
+# :white_check_mark: Certificado
+
+Si llegaste hasta acá y realizaste los módulos 1, 2 y 3 siguiendo todos los consejos y practicaste mucho, estás más que capacitada/o para realizar el curso de **IBM Cognitive Class de visualización con R** sin mayores problemas.
+
+### [Ir al curso](https://cognitiveclass.ai/courses/data-visualization-with-r)
+
+### 
