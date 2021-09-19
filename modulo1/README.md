@@ -55,7 +55,7 @@ Puedes descargar el lenguaje R desde su [sitio oficial](https://cran.r-project.o
 
 ### Tips
 
-Estos son algunos de los tips mencionados en el video n°2:
+Estos son algunos de los tips mencionados en el taller:
 
 -   [Usa un tema oscuro en RStudio](https://r-coder.com/temas-rstudio/).
 
