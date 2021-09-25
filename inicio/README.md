@@ -1,6 +1,6 @@
 # INICIO
 
-:warning: Lee ésto antes de empezar con el curso y con el resto de los módulos.
+**Lee ésto antes de empezar con el curso y con el resto de los módulos.**
 
 Hay variadas y diversas formas de definir lo que es ciencia de datos. A pesar de ello, a nos gusta decir que la ciencia de datos es la utilización de métodos y herramientas para pasar de los datos a información útil.
 
@@ -26,6 +26,8 @@ Es importante mencionar que este programa de formación no solo se centrará en 
 
 Estos elementos son de increíble relevancia y utilidad, pues no solo porque pueden determinar la viabilidad de un proyecto de datos, sino que determina el impacto que pudiera tener el llevar a cabo instancias como esas.
 
+Nota: En algunas sesiones pregrabadas se menciona a la plataforma Twist como el lugar donde van a quedar las actividades, foros y documetación. Esa plataforma la usamos en la versión anterior, pero la reemplazamos por Discord. Así que cada vez que se haga mención a Twist, piensa en Discord.
+
 ## Lenguaje R
 
 Este curso aborda el lenguaje de programación R.
@@ -44,18 +46,17 @@ No te asustes!! Revisa este video si tienes dudas si programar es para ti.
 
 [![Alt text](https://img.youtube.com/vi/imNaCay0E2w/0.jpg)](https://www.youtube.com/watch?v=imNaCay0E2w)
 
-
 ## Algunos consejos
 
 Estos consejos te los mencionanos al inicio para que le saques el máximo provecho al curso y las sesiones.
 
-1. Ve los videos 2 ó 3 veces. No te quedes solo con la primera vista. Revísalos lentamente, pausalos y anda practicando en la medida que te sientas cómoda o cómodo.
-2. Practica mucho!! Revisa los scripts, vuelve a hacerlos varias veces, hazle pequeños cambios e investiga un poco más. La práctica es lo principal.
-3. El bootcamp está pensado para que puedas realizar 1 sesión por semana. Es posible que le tengas que dedicar, al menos, unas 5 a 6 horas a la semana. Planifícate!
-4. Toma apuntes y notas. 
-5. Una de las mejoras formas de aprender es enseñar. No es necesario que sea a otra persona, puede ser a ti mismo o a algún familiar o amigo. Intenta explicar las cosas que vayas aprendiendo con tus propias palabras. ¿Conoces la técnica del patito de goma?.
-6. Más allá de saber "escribir código" o programar, lo relevante es entender lo que haces, cómo y cuándo usar determinadas funciones. Al final, lo que se necesita es resolver un problema. Para todo lo demás, está Google.
-7. Es muy probable que te bloquees y sientas que no avanzas, en especial al principio. No pasa nada!! A todos nos ha pasado. Es natural que ocurra eso. Toma aire, descansa, deja pasar unos días quizás y retoma las sesiones y vuelve a practicar y estudiar.
-8. Recuerda que siempre tendrás a la comunidad para pedir ayuda.
-9. Para que las sesiones sean más provechosas, quizás te sea útil usar 2 monitores: uno para ver el video o la documentación y otro para escribir el código. 
+1.  Ve los videos 2 ó 3 veces. No te quedes solo con la primera vista. Revísalos lentamente, pausalos y anda practicando en la medida que te sientas cómoda o cómodo.
+2.  Practica mucho!! Revisa los scripts, vuelve a hacerlos varias veces, hazle pequeños cambios e investiga un poco más. La práctica es lo principal.
+3.  El bootcamp está pensado para que puedas realizar 1 sesión por semana. Es posible que le tengas que dedicar, al menos, unas 5 a 6 horas a la semana. Planifícate!
+4.  Toma apuntes y notas.
+5.  Una de las mejoras formas de aprender es enseñar. No es necesario que sea a otra persona, puede ser a ti mismo o a algún familiar o amigo. Intenta explicar las cosas que vayas aprendiendo con tus propias palabras. ¿Conoces la técnica del patito de goma?.
+6.  Más allá de saber "escribir código" o programar, lo relevante es entender lo que haces, cómo y cuándo usar determinadas funciones. Al final, lo que se necesita es resolver un problema. Para todo lo demás, está Google.
+7.  Es muy probable que te bloquees y sientas que no avanzas, en especial al principio. No pasa nada!! A todos nos ha pasado. Es natural que ocurra eso. Toma aire, descansa, deja pasar unos días quizás y retoma las sesiones y vuelve a practicar y estudiar.
+8.  Recuerda que siempre tendrás a la comunidad para pedir ayuda.
+9.  Para que las sesiones sean más provechosas, quizás te sea útil usar 2 monitores: uno para ver el video o la documentación y otro para escribir el código.
 10. No te veas todos los videos de una vez ni te leas todo de inmediato. Calma!! Dedícale tiempo. Posiblemente es mejor dedicar 1 hora full, descansar unos 15 minutos y luego seguir full otra hora más. ¿Conoces la técnica pomodoro?
