@@ -122,6 +122,7 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
 ## :left_speech_bubble: Módulos del curso
 
 Acá puedes acceder a las clases, documentación y scripts.
+Haz clic en cada módulo para entrar a las clases.
 
 *Nota: A lo largo del Bootcamp se agregarán más contenidos, talleres y temas.*
 
