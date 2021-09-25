@@ -3,10 +3,10 @@
 
 ## Taller Estructura de datos
 
-
+# install.packages("tidyverse")
 library(tidyverse)
 
-# Vectores - Matrices - Listas - DataFrame
+# Vectores - Matrices y Arrays - Listas - DataFrames
 
 
 
@@ -22,8 +22,12 @@ int_var <- c(1L, 6L, 10L)
 log_var <- c(TRUE, FALSE, T, F)
 
 chr_var <- c("este es", "un mensaje")
+chr_var2 <- c("1", "2", "3")
 
-typeof()
+typeof(dbl_var)
+typeof(int_var)
+typeof(log_var)
+typeof(chr_var)
 
 # Vectores atómicos y coerción
 str(c("a", 1))
@@ -44,26 +48,32 @@ is.list(list_x)
 unlist(list_x)
 
 str(list_x[1])
-list_x[[1]]
+str(list_x[[1]])
 
-list_x2 <- list("a" = 1:3,"b" = "a","c" = c(TRUE, FALSE, TRUE), "d" = c(2.3, 5.9))
+# Formas de nombrar los elementos de las listas
+list_x2 <- list(a = 1:3, b = "a", c = c(TRUE, FALSE, TRUE), d = c(2.3, 5.9))
 names(list_x2)
 list_x2$a
 list_x2[["a"]]
 
+list_x3 <- purrr::set_names(list_x[1:4], c("a", "b", "c", "d"))
+
+# Listas recursivas
 recursive <- list(list(list(list())))
 str(recursive)
+is.recursive(recursive)
 
+# Ejemplo del uso de una lista
 mtcars
 model <- lm(mpg ~ wt, data = mtcars)
 is.list(model)
-model$coefficients
-
+model$residuals
+plot(model$residuals)
 
 
 ## Matrices y Arrays ----
 
-m <- matrix(c(1, 2, 3, 4, 5, 6), nrow = 2, byrow = TRUE)
+m <- matrix(c(1, 2, 3, 4, 5, 6), nrow = 2, byrow = FALSE)
 m
 
 a <- array(1:12, c(2, 3, 2))
@@ -74,8 +84,7 @@ dim(b) <- c(3, 2)
 dim(b) <- c(2, 3)
 
 
-
-# Otras matrices
+# Ejemplo de matrices
 population2018 <- c(123, 345, 300)
 
 population2019 <- c(100, 120, 30)
@@ -90,49 +99,50 @@ rownames(population) <- c("Italy", "France", "Germany")
 
 
 # Seleccionar por nombre
-m["Italy", ]
+population["Italy", ]
 
-m[, "Population2018"]
+population[, "Population2018"]
 
-m[c("Italy", "Germany"), ]
+population[c("Italy", "Germany"), ]
 
-m[, c("Population2018", "Population2019")]
+population[, c("Population2018", "Population2019")]
 
-m[1, ]
+# Seleccionar por índice
+population[1, ]
 
-m[, 2]
+population[, 2]
 
 
 # Expandiendo la matriz
-m <- cbind(m, Population2020 = c(123, 23, 125))
+population <- cbind(population, Population2020 = c(123, 23, 125))
 
-m <- rbind(m, Spain = c(123, 200, 12))
+population <- rbind(population, Spain = c(123, 200, 12))
 
 
-# Algunas estadísticas
-str(m)
+# Algunas estadísticas usando matrices
+str(population)
 
-rowSums(m)
+rowSums(population)
 
-enriched_m <- cbind(m, Total = rowSums(m))
+enriched_m <- cbind(population, Total = rowSums(population))
 
-colSums(m)
+colSums(population)
 
-enriched_m <- rbind(m, Total = colSums(m))
+enriched_m <- rbind(population, Total = colSums(population))
 
-mean(m)
+mean(population)
 
-mean(m[, 2])
+mean(population[, 2])
 
-max(m["Spain", ])
+max(population["Spain", ])
 
-m/2
-m*3
-m[, 2] <- m[, 2]*2
-
+population / 2
+population * 3
+population[, 2] <- population[, 2] * 2
+View(population)
 
 # Encontrar el índice
-which(m == max(m), arr.ind = TRUE)
+which(population == max(population), arr.ind = TRUE)
 
 
 
@@ -164,6 +174,7 @@ rbind(df, data.frame(x = 10, y = "z"))
 iris
 str(iris)
 
+# Subseting
 sepal_length <- iris$Sepal.Length
 class(sepal_length)
 typeof(sepal_length)
