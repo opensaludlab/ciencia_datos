@@ -178,6 +178,9 @@ Haz clic en cada módulo para entrar a las clases.
 -   Shiny (parte 2)
 -   Manejo de versiones con Github
 
+## [Curso GIT](https://github.com/opensaludlab/ciencia_datos/tree/main/curso_git)
+  
+  
 ## :hugs: Agradecimientos
 
 Este curso se hizo gracias a la ayuda y colaboración de muchas personas :muscle:
