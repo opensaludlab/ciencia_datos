@@ -8,14 +8,15 @@ GIT es un sistema de control de versiones de código abierto y es el estándar m
   
 Sin embargo, este tipo de conocimientos no está incluido en prácticamente ningún programa de formación "más formal" en Ciencia de Datos, a pesar de su importancia.  
   
-Por ello, es que agregamos en el BootcampBootcamp este mini curso sobre GIT, pues es un conocimiento clave a la hora de llevar adelante proyectos de datos y que facilita mucho la colaboración y el trabajo en equipo.
+Por ello, es que agregamos en el Bootcamp este curso sobre GIT, pues es un conocimiento clave a la hora de llevar adelante proyectos de datos y que facilita mucho la colaboración y el trabajo en equipo.
 
-Este es un curso complementario a las sesiones del Bootcamp y que si bien van a estar en paralelo, serán trabajados en conjunto y relacionados con el desarrollo de proyectos en RStudio.
+Este es un curso complementario a las sesiones del Bootcamp y que si bien van a estar en paralelo, serán trabajados en conjunto y relacionados con el desarrollo de proyectos con RStudio.
 
 ### :fast_forward: Sesiones
 
 [**Taller 1:**](https://youtu.be/7GvmRK_0TRU) ¿Qué es GitHub?
-
+  
+  
 ### Discusiones
 
 Usa el canal #git de la comunidad de Discord del Bootcamp para plantear tus dudas y comentarios.
