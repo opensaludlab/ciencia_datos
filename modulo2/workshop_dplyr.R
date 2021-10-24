@@ -1,7 +1,7 @@
 library(tidyverse)
 library(lubridate)
 
-# Carga de datos
+# Carga de datos repositorio remoto
 
 casos <- read_csv("https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto3/TotalesPorRegion_std.csv")
 
