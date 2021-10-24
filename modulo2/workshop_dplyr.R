@@ -110,7 +110,8 @@ plot <- casos_nuevos_rm |>
     curvature = .3, arrow = arrow(length = unit(3, "mm"))
     ) +
   annotate(geom = "text", x = as.Date("2021-06-20"), y = 270, label = "Fiestas patrias", hjust = "left", size = 5)
-
+ 
+plot
 
 # Loop para gráfico para cada región
 
