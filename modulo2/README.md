@@ -38,6 +38,8 @@ En esta sesión estuvimos revisando la importancia de transformar datos y cómo 
 
 Nota: [El dataset usado es este](https://github.com/MinCiencia/Datos-COVID19/blob/master/output/producto2/2020-12-28-CasosConfirmados.csv)
 
+### :raised_hand_with_fingers_splayed:[ [Taller](https://youtu.be/Y2dD3ie8PiQ) / [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo2/workshop_dplyr.R) ]
+
 ### Lectura recomendada
 
 Para complementar lo visto en la sesión, te recomendamos mucho que leas lo siguiente:
