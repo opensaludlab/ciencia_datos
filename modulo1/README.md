@@ -75,7 +75,7 @@ En esta sesión conversamos sobre los tipos de datos en que se puede trabaja en 
 
 ### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/02_tipos_datos.R) ]
 
-### :raised_hand_with_fingers_splayed: [ [Taller](https://youtu.be/Ym_RkjkZd3k)  / [Script taller](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/taller_estructura_datos.R) ]
+### :raised_hand_with_fingers_splayed: [ [Taller](https://youtu.be/Ym_RkjkZd3k) / [Script taller](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/taller_estructura_datos.R) ]
 
 ### Lectura recomendada
 
@@ -99,7 +99,7 @@ En esta sesión hablamos sobre cómo importar distintos tipos de datos a nuestro
 
 ### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/Sesion_4.pdf)]
 
-### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/03_importar_datos.R) ]
+### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/03_importacion.R) ]
 
 ### Lectura recomendada
 
