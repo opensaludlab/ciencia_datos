@@ -80,7 +80,9 @@ En esta sesión estuvimos revisando el análisis exploratorio de datos o EDA por
 
 ### :tv:[ [Video](https://youtu.be/ep_HvRxefck) ]
 
-### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo2/Analisis_exploratorio_datos_EDA.R)]
+### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo2/Analisis_exploratorio_datos_EDA.R) ]
+
+### :raised_hand_with_fingers_splayed: [ [Taller](https://youtu.be/iR-CYYSohnU) / [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo2/workshop_metricas.R) ]
 
 ### Lectura recomendada
 
