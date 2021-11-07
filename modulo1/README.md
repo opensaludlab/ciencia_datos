@@ -121,7 +121,7 @@ En esta sesión revisamos los aspectos más destacadas a la hora de analizar la 
 
 ### Lectura recomendada
 
-1.  [Una mirada a la cultura de datos en Chile](https://www.minciencia.gob.cl/sites/default/files/whitepaper_datos_covid19.pdf). Ministerio de Ciencias y Tecnología. Chile
+1.  [Una mirada a la cultura de datos en Chile](https://www.minciencia.gob.cl/legacy-files/whitepaper_datos_covid19.pdf). Ministerio de Ciencias y Tecnología. Chile
 
 2.  [Sistemas complejos y gestión pública](http://www.dii.uchile.cl/~ceges/publicaciones/99%20ceges%20MW.pdf). Mario Waissbluth. Universidad de Chile
 
