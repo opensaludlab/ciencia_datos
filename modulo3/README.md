@@ -12,10 +12,6 @@ En esta sesión estaremos revisando la librería `ggplot2` y cómo usar para vis
 
 Thomas Lin Pedersen es uno de los autores, junto con Hadley Wickham y Danielle Navarro, de uno de los libros de referencia del paquete `ggplot2`, que es parte del `Tidyverse` y una de las más interesantes librerías para generar visualizaciones de alto nivel y personalización. Puedes revisar el libro [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/).
 
-Además, Thomas tiene un **par de video en Youtube** (con cerca de 2 horas cada uno) en donde habla sobre esta librería, cómo entender la lógica que usa (de capas) y explica con varios ejemplos. Puedes ver la [parte 1](https://youtu.be/h29g21z0a68) y la [parte 2](https://youtu.be/0m4yywqNPVY). También puedes visitar [su GitHub](https://github.com/thomasp85/ggplot2_workshop) en donde tiene los scripts y ejercicios mostrados en los videos.
-
-Muy recomendado!
-
 Hay un par de capítulos de otros libros que nos parece bueno que les eches un vistazo son:
 
 1.  [Capítulo 3 - R para Ciencia de Datos](https://r4ds-en-espaniol.netlify.app/visualizaci%C3%B3n-de-datos.html)
@@ -41,6 +37,20 @@ El script usado también puedes revisarlo en el [siguiente proyecto de RStudio C
 [Repo oficial de la librería highcharter](https://github.com/jbkunst/highcharter)
 
 Personalizar las distintas partes de los gráficos realizado con ggplot2 es uno de los temas más fascinates, pero no siempre es tan fácil. Para ayudarte en eso, [acá puedes ver un configurador](https://ggplot2tor.com/theme/) que te entrega los códigos para ir personalizando las partes de los temas. Revisa las otras secciones de esa web, puedes ver todas las funciones de las `aesthetics` y las `scales`.
+
+# :three: Visualización de datos (parte 3)
+
+Thomas Lin Pedersen, además del libro digital que mencionamosm, tiene un **par de videos en Youtube** (con cerca de 2 horas cada uno) en donde habla sobre la librería `ggplot2`, cómo entender la lógica que usa (de capas) y explica con varios ejemplos.
+
+### :tv: Puedes ver la [parte 1](https://youtu.be/h29g21z0a68) y la [parte 2](https://youtu.be/0m4yywqNPVY)  
+
+También puedes visitar [su GitHub](https://github.com/thomasp85/ggplot2_workshop) en donde tiene todos los scripts y ejercicios mostrados en los videos.
+
+Muy recomendado!
+
+También te recomendamos [ver este video](https://youtu.be/jiuDr4aYgkY) de la NHSR Community.
+
+------------------------------------------------------------------------
 
 # :white_check_mark: Certificado
 
