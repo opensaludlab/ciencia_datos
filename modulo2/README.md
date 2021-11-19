@@ -88,6 +88,8 @@ En esta sesión estuvimos revisando el análisis exploratorio de datos o EDA por
 
 Para complementar lo visto en la sesión, te recomiendamos mucho que leas el [Capítulo 7 del libro R para Ciencia de Datos](https://r4ds-en-espaniol.netlify.app/an%C3%A1lisis-exploratorio-de-datos-eda.html). Te darás cuenta de que varios de los scripts revisados están allí.
 
+------------------------------------------------------------------------
+
 # :white_check_mark: Certificado
 
 El Bootcamp no entrega certificado de finalización. Sin embargo, si llegaste hasta acá y realizaste los módulos 1 y 2 siguiendo todos los consejos y practicaste mucho, estás absolútamente capacitada/o para realizar el curso de **IBM Cognitive Class** sin mayores problemas.
