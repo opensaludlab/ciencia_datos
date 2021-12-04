@@ -28,18 +28,18 @@ fallecidos <- fallecidos_raw |>
   ) |>
   dplyr::group_by(Grupo_etario, Fecha) |>
   dplyr::summarise(Fallecidos = sum(Total)) |>
-  dplyr::mutate(Media_movil = round(rollmean(Fallecidos, k = 7, fill = NA), 1))
+  dplyr::mutate(Media_movil = round(rollmean(Fallecidos, k = 7, fill = NA), 1)) |> 
+  dplyr::ungroup()
 
 
-# Gráficar con ggplot2
+# Graficar con ggplot2
 fallecidos_plot <- fallecidos |>
-  ggplot(aes(Fecha, Media_movil,
-    color = Grupo_etario
-  )) +
-  geom_line(size = 1) +
+  ggplot(aes(Fecha, Fallecidos)) +
+  geom_line(aes(color = Grupo_etario), size = 0.8, alpha = 0.3) +
+  geom_line(aes(Fecha, Media_movil, color = Grupo_etario), size = 1.5) +
   scale_color_manual(
     name = "Grupo etario",
-    values = c("red", "blue", "green"),
+    values = c("#7fc97f", "#beaed4", "#fdc086"),
     labels = c("Menores 39 años", "Entre 40 y 69 años", "Mayores 70 años")
   ) +
   theme_bw() +
