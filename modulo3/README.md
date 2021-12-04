@@ -42,13 +42,19 @@ Personalizar las distintas partes de los gráficos realizado con ggplot2 es uno 
 
 Thomas Lin Pedersen, además del libro digital que mencionamosm, tiene un **par de videos en Youtube** (con cerca de 2 horas cada uno) en donde habla sobre la librería `ggplot2`, cómo entender la lógica que usa (de capas) y explica con varios ejemplos.
 
-### :tv: Puedes ver la [parte 1](https://youtu.be/h29g21z0a68) y la [parte 2](https://youtu.be/0m4yywqNPVY)  
+### :tv: Puedes ver la [parte 1](https://youtu.be/h29g21z0a68) y la [parte 2](https://youtu.be/0m4yywqNPVY)
 
 También puedes visitar [su GitHub](https://github.com/thomasp85/ggplot2_workshop) en donde tiene todos los scripts y ejercicios mostrados en los videos.
 
 Muy recomendado!
 
 También te recomendamos [ver este video](https://youtu.be/jiuDr4aYgkY) de la NHSR Community.
+
+### :raised_hand_with_fingers_splayed: [ [Taller](https://youtu.be/DTAO4LD-njM) ] 
+
+### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo3/ggplot2_workshop.R)]
+
+Uso de librería `ggplot2`
 
 ------------------------------------------------------------------------
 
