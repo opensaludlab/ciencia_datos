@@ -28,7 +28,7 @@ fallecidos <- fallecidos_raw |>
   ) |>
   dplyr::group_by(Grupo_etario, Fecha) |>
   dplyr::summarise(Fallecidos = sum(Total)) |>
-  dplyr::mutate(Media_movil = round(rollmean(Fallecidos, k = 7, fill = NA), 1)) |> 
+  dplyr::mutate(Media_movil = round(rollmean(Fallecidos, k = 7, fill = NA), 1)) |>
   dplyr::ungroup()
 
 
@@ -44,13 +44,16 @@ fallecidos_plot <- fallecidos |>
   ) +
   theme_bw() +
   scale_x_date(date_breaks = "1 month", date_labels = "%b %Y") +
-  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1)) +
   labs(
     x = "",
-    y = "N° Fallecidos (Media móvil)",
-    title = "Fallecimientos por COVID-19 durante 2021. Región Metropolitana, Chile",
-    subtitle = "Media móvil semanal",
+    y = "N° Fallecidos",
+    title = "Fallecimientos por COVID-19 por grupo etario. Región Metropolitana, Chile. 2021",
+    subtitle = "Se incluyen tanto casos confirmados como sospechosos.\nSe usó la media móvil semanal para suavizar la curva.",
     caption = "\nFuente: Ministerio de Ciencias y Tecnología"
+  ) +
+  theme(
+    axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
+    plot.title = element_text(size = 17)
   )
 
 fallecidos_plot
