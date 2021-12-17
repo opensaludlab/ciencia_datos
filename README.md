@@ -120,10 +120,21 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
 
  
 
+## :spiral_notepad:Certificado
+
+Tener un certificado no certifica nada muchas veces. Las empresas más valoradas no los solicitan y es mucho más relevante tener un portafolio interesante y documentar adecuadamente tus proyectos.
+
+El Bootcamp no incluye certificado de finalización, pero de todas formas te ayudamos a aprobar los siguientes cursos y certificados de IBM Cognitive Class:
+
+-   [R 101](https://cognitiveclass.ai/courses/r-101)
+
+-   [Machine Learning](https://cognitiveclass.ai/courses/machine-learning-r)
+
+-   [Data Visualization](https://cognitiveclass.ai/courses/course-v1:CognitiveClass+DV0151EN+v1)
+
 ## :left_speech_bubble: Módulos del curso
 
-Acá puedes acceder a las clases, documentación y scripts.
-Haz clic en cada módulo para entrar a las clases.
+Acá puedes acceder a las clases, documentación y scripts. Haz clic en cada módulo para entrar a las clases.
 
 *Nota: A lo largo del Bootcamp se agregarán más contenidos, talleres y temas.*
 
@@ -179,8 +190,7 @@ Haz clic en cada módulo para entrar a las clases.
 -   Manejo de versiones con Github
 
 ## [Curso GIT](https://github.com/opensaludlab/ciencia_datos/tree/main/curso_git)
-  
-  
+
 ## :hugs: Agradecimientos
 
 Este curso se hizo gracias a la ayuda y colaboración de muchas personas :muscle:
