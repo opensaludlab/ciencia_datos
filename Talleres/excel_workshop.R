@@ -1,6 +1,7 @@
 library(readxl)
 library(writexl)
 library(tidyverse)
+library(janitor)
 
 indicators <- read_excel("Talleres/data/Popular_Indicators.xlsx", sheet = "Data")
 
@@ -12,6 +13,17 @@ tail(indicators)
 indicators <- read_excel("Talleres/data/Popular_Indicators.xlsx", 
                          sheet = "Data",
                          range = "A1:Y11068")
+
+
+listado <- read_excel("Talleres/data/listado_pacientes.xlsx") #skip
+head(listado)
+tail(listado)
+
+
+listado <- read_excel("Talleres/data/listado_pacientes.xlsx",
+                      range = cell_rows(c(9:2081))) |> 
+  select(-c(2:3)) |> 
+  clean_names()
 
 
 # Leer multiples archivos
@@ -54,6 +66,9 @@ df_list <- lapply(files_path, function(x) {
 })
 
 names(df_list) <- names_files
+
+walk(df_list, .f = print)
+
 
 # Pasar de una lista a dataframe
 data <- rbindlist(lapply(df_list, rbindlist, id = "mes"))
