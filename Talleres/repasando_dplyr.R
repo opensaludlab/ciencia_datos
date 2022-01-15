@@ -11,21 +11,30 @@ library(plotly)
 casos <- read_csv("https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto1/Covid-19_std.csv")
 
 # Ajustemos los nombre de las variables por uno más manejables
+
+# Opción 1
+library(janitor)
+casos |> clean_names()
+
+# Opción 2
 names_list_casos <- c("region", "cod_region", "comuna", "cod_comuna", "poblacion", "fecha", "casos")
 names(casos) <- names_list_casos
 
+
+
 # Usemos select, filter, group_by y mutate
-antofagasta <- casos %>% 
+
+antofagasta <- casos |> 
   filter(region == "Antofagasta")
 
-casos_agrup <- casos %>% 
-  group_by(region, fecha) %>%
+casos_agrup <- casos |>  
+  group_by(region, fecha) |> 
   mutate(total = sum(casos, na.rm = TRUE),
-         incidencia_100mil = casos / poblacion * 100000) %>% 
+         incidencia_100mil = casos / poblacion * 100000) |> 
   ungroup()
 
-casos %>% 
-  mutate(incidencia_100mil = casos / poblacion * 100000) %>% 
+casos |> 
+  mutate(incidencia_100mil = casos / poblacion * 100000) |>  
   head(20)
 
 # usemos juntas las funciones de manipulación con visualización
@@ -181,4 +190,5 @@ inner_join <- inner_join(personas, compras)
 full_join <- full_join(personas, compras)
 semi_join <- semi_join(personas, compras)
 anti_join <- anti_join(personas, compras)
+
 
