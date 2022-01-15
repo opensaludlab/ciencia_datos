@@ -38,7 +38,9 @@ En esta sesión estuvimos revisando la importancia de transformar datos y cómo 
 
 Nota: [El dataset usado es este](https://github.com/MinCiencia/Datos-COVID19/blob/master/output/producto2/2020-12-28-CasosConfirmados.csv)
 
-### :raised_hand_with_fingers_splayed:[ [Taller](https://youtu.be/Y2dD3ie8PiQ) / [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo2/workshop_dplyr.R) ]
+### :raised_hand_with_fingers_splayed:[ [Taller 1](https://youtu.be/Y2dD3ie8PiQ) / [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo2/workshop_dplyr.R) ] 
+
+### :raised_hand_with_fingers_splayed:[ [Taller 2](https://youtu.be/Ew2o-PtT3l8) / [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/Talleres/excel_workshop.R) ]
 
 ### Lectura recomendada
 
@@ -51,6 +53,14 @@ Para complementar lo visto en la sesión, te recomendamos mucho que leas lo sigu
 3.  [Manipulación de data frames con dplyr](https://swcarpentry.github.io/r-novice-gapminder-es/13-dplyr/)
 
 4.  [Programación en R](https://rsanchezs.gitbooks.io/rprogramming/content/chapter9/dplyr.html) (uso de librería `dplyr`)
+
+Para el taller 2:
+
+1.  [Documentación oficial librería `readxl`](https://readxl.tidyverse.org/reference/read_excel.html)
+
+2.  [Alcances sobre aspectos geométricos de archivos Excel](https://readxl.tidyverse.org/articles/sheet-geometry.html)
+
+3.  [Ayuda con librería purrr](http://enrdados.net/post/chuleta-de-purrr/)
 
 ------------------------------------------------------------------------
 
