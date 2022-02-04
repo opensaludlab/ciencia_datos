@@ -131,3 +131,13 @@ En esta sesión revisamos los aspectos más destacadas a la hora de analizar la 
 2.  [Sistemas complejos y gestión pública](http://www.dii.uchile.cl/~ceges/publicaciones/99%20ceges%20MW.pdf). Mario Waissbluth. Universidad de Chile
 
 Además, revisa los links complementarios de la presentación.
+
+------------------------------------------------------------------------
+
+# Charla
+
+### [¿Cómo usar la Ciencia de Datos para mejorar los servicios en las instituciones públicas de salud?](https://youtu.be/gzb_bprZtu8)
+
+Charla realizada para el Laboratorio de Gobierno de Chile.
+Red de innovadores públicos y su ciclo de charlas de aprendizaje.
+<https://innovadorespublicos.cl/>
