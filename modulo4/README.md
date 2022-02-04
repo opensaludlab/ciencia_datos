@@ -26,14 +26,16 @@ Un *must have* en todo proyecto de ciencia de datos.
 
 El libro que estuvimos comentando en la clase es "La gestión ética de los datos" del BID que puedes encontrar [en este enlace.](https://publications.iadb.org/es/la-gestion-etica-de-los-datos)
 
-Siempre es necesario conocer el marco normativo, acá te dejo la [Ley 19.628](https://www.bcn.cl/leychile/navegar?idNorma=141599) sobre protección de la vida privada y la [Ley 20.584](https://www.bcn.cl/leychile/navegar?idNorma=1039348) que regula los derechos y deberes que tienen las personas en relación con acciones vinculadas a su atención en salud (Chile).
+Siempre es necesario conocer el marco normativo, acá te dejo la [Ley 19.628](https://www.bcn.cl/leychile/navegar?idNorma=141599) sobre protección de la vida privada y la [Ley 20.584](https://www.bcn.cl/leychile/navegar?idNorma=1039348) que regula los derechos y deberes que tienen las personas en relación con acciones vinculadas a su atención en salud (Chile).  
+  
+Acá puede revisar la [política chilena sobre inteligencia artificial.](https://minciencia.gob.cl/areas-de-trabajo/inteligencia-artificial/politica-nacional-de-inteligencia-artificial/)
 
 Para complementar lo visto en la sesión puedes revisar los links que están en la presentación.  
 Algunos relevantes son:
 
 -   [Data fallacies](https://www.geckoboard.com/best-practice/statistical-fallacies/)
 
--   [Texto completo RGDP](https://www.geckoboard.com/best-practice/statistical-fallacies/) (en español)
+-   [Texto completo RGDP](https://rgpd.es/) (en español)
 
 -   [Estudio del uso intensivo de datos en políticas públicas](https://modernizacion.hacienda.cl/documento-single?documento=gc_4), Programa de modernización del Ministerio de Hacienda. Chile
 
@@ -45,9 +47,13 @@ Además, ve estos videos que son muy recomendables. Varias de las cosas que habl
 
 -   [How humans judge machines](https://youtu.be/H10-t5hnnw0), Cesar Hidalgo
 
-Sobre la anonimización de datos les dejamos algunos recursos interesantes:  
-1. [Guía para la anonimización de bases de datos en el Sistema Estadístico Nacional (Colombia)](https://www.dane.gov.co/files/sen/registros-administrativos/guia-metadatos.pdf)  
-2. [Anonymisation: managing data protection risk code of practice](https://ico.org.uk/media/1061/anonymisation-code.pdf)
+-   [Ética y Transparencia algorítmica: ¿Qué se le debe comunicar a la ciudadanía?](https://youtu.be/nN55OVOuk-c), Gob LAB UAI
+
+Sobre la anonimización de datos les dejamos algunos recursos interesantes:
+
+-   [Guía para la anonimización de bases de datos en el Sistema Estadístico Nacional (Colombia)](https://www.archivogeneral.gov.co/sites/default/files/Estructura_Web/5_Consulte/Recursos/Publicacionees/Guia_de_Anonimizacion-min.pdf)
+
+-   [Anonymisation: managing data protection risk code of practice](https://ico.org.uk/media/1061/anonymisation-code.pdf)
 
 Bonus:
 
