@@ -22,6 +22,17 @@ Y por último, [en esta página](https://www.r-graph-gallery.com/index.html) se 
 
 ------------------------------------------------------------------------
 
+# Charla 
+
+### [Hacia una análisis automatizado del texto clínico chileno](https://youtu.be/3N9MuFry2qs)
+
+En esta charla abordamos diversos aspectos sobre cómo la inteligencia artificial y el NPL (*natural processing language*) apoyan el análisis de textos clínicos.
+Expone Jocelyn Dunstan, Doctora en Matemática Aplicada Universidad de Cambridge, Académica de la Facultad de Medicina Universidad de Chile y Científica en el Centro de Modelamiento Matemático.  
+
+Conoce más sobre Jocelyn Dustan [en su web personal.](https://sites.google.com/view/jdunstan/home)
+
+------------------------------------------------------------------------
+
 # :two: **Visualización de datos (parte 2)**
 
 En esta sesión seguimos revisando cómo usar la visualización para sacar información de los datos. En particular, veremos la librería `highcharter,` que nos permite realizar gráficos de alta calidad y agregarle interactividad.
@@ -38,6 +49,8 @@ El script usado también puedes revisarlo en el [siguiente proyecto de RStudio C
 
 Personalizar las distintas partes de los gráficos realizado con ggplot2 es uno de los temas más fascinates, pero no siempre es tan fácil. Para ayudarte en eso, [acá puedes ver un configurador](https://ggplot2tor.com/theme/) que te entrega los códigos para ir personalizando las partes de los temas. Revisa las otras secciones de esa web, puedes ver todas las funciones de las `aesthetics` y las `scales`.
 
+------------------------------------------------------------------------
+
 # :three: Visualización de datos (parte 3)
 
 Thomas Lin Pedersen, además del libro digital que mencionamosm, tiene un **par de videos en Youtube** (con cerca de 2 horas cada uno) en donde habla sobre la librería `ggplot2`, cómo entender la lógica que usa (de capas) y explica con varios ejemplos.
@@ -50,7 +63,7 @@ Muy recomendado!
 
 También te recomendamos [ver este video](https://youtu.be/jiuDr4aYgkY) de la NHSR Community.
 
-### :raised_hand_with_fingers_splayed: [ [Taller](https://youtu.be/DTAO4LD-njM) ] 
+### :raised_hand_with_fingers_splayed: [ [Taller](https://youtu.be/DTAO4LD-njM) ]
 
 ### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo3/ggplot2_workshop.R)]
 
@@ -60,8 +73,8 @@ Uso de librería `ggplot2`
 
 # :white_check_mark: Certificado
 
-Si llegaste hasta acá y realizaste los módulos 1, 2 y 3 siguiendo todos los consejos y practicaste mucho, estás más que capacitada/o para realizar el curso de **IBM Cognitive Class de visualización con R** sin mayores problemas.
+Si llegaste hasta acá y realizaste los módulos 1, 2 y 3 siguiendo todos los consejos y practicaste mucho, estás más que capacitada/o para realizar el curso de **IBM Cognitive Class de visualización con R** sin mayores problemas.  
 
-### [Ir al curso](https://cognitiveclass.ai/courses/data-visualization-with-r)
+👉 [**Ir al curso**](https://cognitiveclass.ai/courses/data-visualization-with-r) **y obtener el certificado.**
 
 ### 
