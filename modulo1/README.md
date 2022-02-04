@@ -2,9 +2,9 @@
 
 ## Hola a todos y todas!! :wave:
 
-**Bienvenidos a la primera sesión de nuestro programa de formación en Ciencia de Datos!  
+**Bienvenidos a la primera sesión de nuestro programa de formación en Ciencia de Datos!**
   
-**Te recomiendamos ver los videos al menos 2 ó 3 veces, pausarlo e ir lentamente estudiando los temas tratados. Además, baja el código (script), ejecútalo y analízalo con calma. Revisa la lectura complementaria en la medida que avanzas en el código.  
+Te recomiendamos ver los videos al menos 2 ó 3 veces, pausarlo e ir lentamente estudiando los temas tratados. Además, baja el código (script), ejecútalo y analízalo con calma. Revisa la lectura complementaria en la medida que avanzas en el código.  
   
 No te estreses. Ya habrá tiempo para profundizar en todo a lo largo del curso :blush:
 
