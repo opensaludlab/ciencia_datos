@@ -68,7 +68,9 @@ Para el taller 2:
 
 ### [¿Por qué los funcionarios públicos de salud deberías saber R para analizar sus datos?](https://youtu.be/y77nz9XBlXc)
 
-Charla realizada en la conferencia latinoamericana LatinR 2021
+Charla realizada en la conferencia latinoamericana LatinR 2021.  
+  
+Puedes ver todo el contenido de la conferencia en [su repositorio de GitHub.](https://github.com/LatinR/presentaciones-LatinR2021)
 
 ------------------------------------------------------------------------
 
