@@ -38,7 +38,7 @@ En esta sesión estuvimos revisando la importancia de transformar datos y cómo 
 
 Nota: [El dataset usado es este](https://github.com/MinCiencia/Datos-COVID19/blob/master/output/producto2/2020-12-28-CasosConfirmados.csv)
 
-### :raised_hand_with_fingers_splayed:[ [Taller 1](https://youtu.be/Y2dD3ie8PiQ) / [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo2/workshop_dplyr.R) ] 
+### :raised_hand_with_fingers_splayed:[ [Taller 1](https://youtu.be/Y2dD3ie8PiQ) / [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo2/workshop_dplyr.R) ]
 
 ### :raised_hand_with_fingers_splayed:[ [Taller 2](https://youtu.be/Ew2o-PtT3l8) / [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/Talleres/excel_workshop.R) ]
 
@@ -61,6 +61,14 @@ Para el taller 2:
 2.  [Alcances sobre aspectos geométricos de archivos Excel](https://readxl.tidyverse.org/articles/sheet-geometry.html)
 
 3.  [Ayuda con librería purrr](http://enrdados.net/post/chuleta-de-purrr/)
+
+------------------------------------------------------------------------
+
+# Charla
+
+### [¿Por qué los funcionarios públicos de salud deberías saber R para analizar sus datos?](https://youtu.be/y77nz9XBlXc)
+
+Charla realizada en la conferencia latinoamericana LatinR 2021
 
 ------------------------------------------------------------------------
 
@@ -104,4 +112,5 @@ Para complementar lo visto en la sesión, te recomiendamos mucho que leas el [Ca
 
 El Bootcamp no entrega certificado de finalización. Sin embargo, si llegaste hasta acá y realizaste los módulos 1 y 2 siguiendo todos los consejos y practicaste mucho, estás absolútamente capacitada/o para realizar el curso de **IBM Cognitive Class** sin mayores problemas.
 
-### [Ir al curso](https://cognitiveclass.ai/courses/r-101)
+  
+:point_right: [**Ir al curso**](https://cognitiveclass.ai/courses/r-101) **y obtén el certificado**
