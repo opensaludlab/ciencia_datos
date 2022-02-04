@@ -4,16 +4,15 @@ Antes de inciar este módulo, si es que no tienes mucho acercamiento a temas de 
 
 <https://www.coursera.org/learn/estadistica-aplicada-negocios>
 
-  
-Para acceder a todas las clases sobre estadística inferencial y modelos de machine learning, tienes que haber visto el módulo 1 y módulo 2, pues es relevante que ya tengas conocimientos sobre programación basada en objetos, tipos de datos, sepas importar, manipular y transformar datos de forma relativamente fluída, así como usar las librerías del `tidyverse`.   
+Para acceder a todas las clases sobre estadística inferencial y modelos de machine learning, tienes que haber visto el módulo 1 y módulo 2, pues es relevante que ya tengas conocimientos sobre programación basada en objetos, tipos de datos, sepas importar, manipular y transformar datos de forma relativamente fluída, así como usar las librerías del `tidyverse`.
 
-Para asegurarnos de ello, tendrás acceso al resto de las clases de este módulo si realizas la certificación gratuita de IBM Cognitive Class mencionada [al final del módulo 2](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo2#white_check_mark-certificado).   
-  
+Para asegurarnos de ello, tendrás acceso al resto de las clases de este módulo si realizas la certificación gratuita de IBM Cognitive Class mencionada [al final del módulo 2](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo2#white_check_mark-certificado).
+
 [Regístrate en el Discord](https://github.com/opensaludlab/ciencia_datos#point_right-ingresa-ac%C3%A1-para-unirte-a-la-comunidad-online-del-bootcamp-y-comienza-este-viaje-ahora) de nuestro Bootcamp y comenta en el canal del curso dedicado a este tema.
 
 ------------------------------------------------------------------------
 
-# :one: Gestión ética de datos 
+# :one: Gestión ética de datos
 
 En esta sesión abordamos unos de los temas más relevantes del curso: la gestión responsable y ética de datos.  
 Un *must have* en todo proyecto de ciencia de datos.
@@ -26,8 +25,8 @@ Un *must have* en todo proyecto de ciencia de datos.
 
 El libro que estuvimos comentando en la clase es "La gestión ética de los datos" del BID que puedes encontrar [en este enlace.](https://publications.iadb.org/es/la-gestion-etica-de-los-datos)
 
-Siempre es necesario conocer el marco normativo, acá te dejo la [Ley 19.628](https://www.bcn.cl/leychile/navegar?idNorma=141599) sobre protección de la vida privada y la [Ley 20.584](https://www.bcn.cl/leychile/navegar?idNorma=1039348) que regula los derechos y deberes que tienen las personas en relación con acciones vinculadas a su atención en salud (Chile).  
-  
+Siempre es necesario conocer el marco normativo, acá te dejo la [Ley 19.628](https://www.bcn.cl/leychile/navegar?idNorma=141599) sobre protección de la vida privada y la [Ley 20.584](https://www.bcn.cl/leychile/navegar?idNorma=1039348) que regula los derechos y deberes que tienen las personas en relación con acciones vinculadas a su atención en salud (Chile).
+
 Acá puede revisar la [política chilena sobre inteligencia artificial.](https://minciencia.gob.cl/areas-de-trabajo/inteligencia-artificial/politica-nacional-de-inteligencia-artificial/)
 
 Para complementar lo visto en la sesión puedes revisar los links que están en la presentación.  
