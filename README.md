@@ -134,11 +134,13 @@ El Bootcamp no incluye certificado de finalización, pero de todas formas te ayu
 
 ## :left_speech_bubble: Módulos del curso
 
+![](images/Parrilla%20Bootcamp%20DS%20OSL.png)
+
 Acá puedes acceder a las clases, documentación y scripts. Haz clic en cada módulo para entrar a las clases.
 
-*Nota: A lo largo del Bootcamp se agregarán más contenidos, talleres y temas.*
+Nota: A lo largo del Bootcamp se agregarán más contenidos, talleres y temas. Varios de ellos son sugeridos por la comunidad online de Discord.
 
-#### :warning: [Antes de partir, revisa esta información](https://github.com/opensaludlab/ciencia_datos/tree/main/inicio).
+#### :point_right:[Antes de partir, revisa esta información](https://github.com/opensaludlab/ciencia_datos/tree/main/inicio)
 
 ## [MODULO 1: Nivelación y conceptos básicos](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo1)
 
@@ -184,12 +186,12 @@ Acá puedes acceder a las clases, documentación y scripts. Haz clic en cada mó
 ## [MODULO 6: Comunicación y replicabilidad](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo6)
 
 -   RMarkdown (parte 1)
--   RMarkdown (parte 2)  
+-   RMarkdown (parte 2)
 -   Shiny (parte 1)
 -   Shiny (parte 2)
--   Manejo de versiones con Github
+-   Reportes replicables
 
-## [Curso GIT](https://github.com/opensaludlab/ciencia_datos/tree/main/curso_git)
+## [Curso GIT](https://github.com/opensaludlab/ciencia_datos/tree/main/curso_git) (control de versiones)  
 
 ## :hugs: Agradecimientos
 
