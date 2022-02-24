@@ -76,21 +76,13 @@ Esto hace que el Bootcamp sea un curso, principalmente, autoadminstrado, en dond
 
 Porque queremos democratizar el acceso al conocimiento avanzado y nos gustaría que más personas usen este tipo de metodologías para mejorar el sistema público de salud en beneficio de la ciudadanía.
 
-Por ahora, tenemos disponibles los 3 primeros módulos, que son la base de la Ciencia de Datos y es donde reforzaremos esos conocimientos.
-
 ## :unicorn: ¿A quién está dirigido?
 
 El Bootcamp está dirigido a todas las personas interesadas en introducirse en el área de la Ciencia de Datos y que quieren comenzar a aplicarla dentro de instituciones públicas de salud.
 
 ## :date: Cronograma
 
-La idea es realizar 1 sesión a la semana, con un tiempo de dedicación de unas 5 horas aprox. Esto implica ver los videos de clases, revisar la documentación adicional, realizar los ejercicios y las prácticas recomendadas. Eso, al menos, pues si quieres desarrollar de mejor forma tus habilidades, es altamente relevante que busques más recursos y practiques mucho.
-
-Además, este calendario será la base para la programación de las fechas de talleres y sesiones en vivo. Si sigues ese ritmo, podrás sacarle más provecho al Bootcamp y participar activamente de ellas.
-
-La semana 1 corresponde a la primera de Septiembre 2021.
-
-![](images/calendar.png)
+La idea es realizar 1 sesión a la semana, con un tiempo de dedicación de unas 5 horas aprox. Esto implica ver los videos de clases, revisar la documentación adicional, realizar los ejercicios y las prácticas recomendadas. Eso, al menos, pues si quieres desarrollar de mejor forma tus habilidades, es altamente relevante que busques más recursos y practiques mucho. Es posible que necesites más tiempo al principio.
 
 ## :loudspeaker: Programa
 
@@ -134,7 +126,7 @@ El Bootcamp no incluye certificado de finalización, pero de todas formas te ayu
 
 ## :left_speech_bubble: Módulos del curso
 
-![](images/Parrilla%20Bootcamp%20DS%20OSL.png)
+![](images/Parrilla%20Bootcamp%20DS%20OSL-01.png)
 
 Acá puedes acceder a las clases, documentación y scripts. Haz clic en cada módulo para entrar a las clases.
 
@@ -142,7 +134,7 @@ Nota: A lo largo del Bootcamp se agregarán más contenidos, talleres y temas. V
 
 #### :point_right:[Antes de partir, revisa esta información](https://github.com/opensaludlab/ciencia_datos/tree/main/inicio)
 
-## [MODULO 1: Nivelación y conceptos básicos](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo1)
+## [MODULO 1: Nivelación y fundamentos](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo1)
 
 -   Aspectos generales curso
 -   Introducción a R y RStudio
@@ -191,7 +183,7 @@ Nota: A lo largo del Bootcamp se agregarán más contenidos, talleres y temas. V
 -   Shiny (parte 2)
 -   Reportes replicables
 
-## [Curso GIT](https://github.com/opensaludlab/ciencia_datos/tree/main/curso_git) (control de versiones)  
+## [Curso GIT](https://github.com/opensaludlab/ciencia_datos/tree/main/curso_git) (control de versiones)
 
 ## :hugs: Agradecimientos
 
