@@ -1,7 +1,7 @@
-## palindrome
+## Desafío de programación 00 Palindrome
 
 # Crea un programa que permita identificar si una palabra es un palíndromo.
-# Un palíndormo es una palabra que se lee igual de izquierda a derecha que de derecha a izquierda.
+# Un palíndromo es una palabra que se lee igual de izquierda a derecha que de derecha a izquierda.
 
 
 library(tidyverse)
@@ -24,16 +24,11 @@ palindrome <- function(x) {
   }
 }
 
+
+# Ejemplos de uso
+
 palindrome("paulo")
 palindrome("radar ")
 palindrome("ana")
 palindrome("auto")
 palindrome(44444)
-
-
-
-
-
-
-
-
