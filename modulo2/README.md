@@ -68,8 +68,8 @@ Para el taller 2:
 
 ### [¿Por qué los funcionarios públicos de salud deberías saber R para analizar sus datos?](https://youtu.be/y77nz9XBlXc)
 
-Charla realizada en la conferencia latinoamericana LatinR 2021.  
-  
+Charla realizada en la conferencia latinoamericana LatinR 2021.
+
 Puedes ver todo el contenido de la conferencia en [su repositorio de GitHub.](https://github.com/LatinR/presentaciones-LatinR2021)
 
 ------------------------------------------------------------------------
@@ -110,9 +110,16 @@ Para complementar lo visto en la sesión, te recomiendamos mucho que leas el [Ca
 
 ------------------------------------------------------------------------
 
+# **Charla**
+
+### [¿Cómo resolver un problema usando programación?](https://youtu.be/eDpibmA2TeI)
+
+En esta charla está invitada Valentina Fernández. Ella es nutricionista y nos habla sobre su experiencia de usar programación para resolver un problema en su unidad en el hospital donde trabaja y que era evitar muchas acciones manuales y muchas horas de trabajo para generar algunos informes, por lo cual diseñó un script que le permite automatizar esas tareas de limpieza y recolección de datos.
+
+------------------------------------------------------------------------
+
 # :white_check_mark: Certificado
 
 El Bootcamp no entrega certificado de finalización. Sin embargo, si llegaste hasta acá y realizaste los módulos 1 y 2 siguiendo todos los consejos y practicaste mucho, estás absolútamente capacitada/o para realizar el curso de **IBM Cognitive Class** sin mayores problemas.
 
-  
 :point_right: [**Ir al curso**](https://cognitiveclass.ai/courses/r-101) **y obtén el certificado**
