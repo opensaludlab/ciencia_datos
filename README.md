@@ -134,9 +134,9 @@ Nota: A lo largo del Bootcamp se agregarán más contenidos, talleres y temas. V
 
 #### [Antes de partir, revisa esta información](https://github.com/opensaludlab/ciencia_datos/tree/main/inicio)  
 
-## [MODULO 1: Nivelación y fundamentos](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo1)
+## MODULO 1: Nivelación y fundamentos
 
-### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS-lf6e9Pejehcgif-xK7qg_)
+### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS-lf6e9Pejehcgif-xK7qg_) / :orange_book: [Todo el material](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo1)
 
 -   Aspectos generales curso
 
@@ -148,9 +148,9 @@ Nota: A lo largo del Bootcamp se agregarán más contenidos, talleres y temas. V
 
 -   Análisis prefactibilidad y valor público
 
-## [MODULO 2: Data wrangling y análisis exploratorio de datos](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo2)
+## MODULO 2: Data wrangling y análisis exploratorio de datos
 
-### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS8TilR2kI1PD-5EQxX6eYst)
+### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS8TilR2kI1PD-5EQxX6eYst) / :orange_book: [Todo el material](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo2)
 
 En colaboración con R-Ladies Concepción
 
@@ -162,9 +162,9 @@ En colaboración con R-Ladies Concepción
 
 -   Análisis exploratorio de datos
 
-## [MODULO 3 : Visualización](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo3)
+## MODULO 3 : Visualización
 
-### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS8TWKuOJNFLi3-L375DC2zu)
+### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS8TWKuOJNFLi3-L375DC2zu)  / :orange_book: [Todo el material](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo3)
 
 En colaboración con R-Ladies Concepción
 
@@ -172,9 +172,9 @@ En colaboración con R-Ladies Concepción
 
 -   Visualización de datos (parte 2)
 
-## [MODULO 4: Modelos y estadística inferencial](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo4)
+## MODULO 4: Modelos y estadística inferencial
 
-### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS9CMRapX6u0qvp7SvXrPw3h)
+### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS9CMRapX6u0qvp7SvXrPw3h) / :orange_book: [Todo el material](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo4)
 
 En colaboración con Data UC
 
@@ -188,17 +188,17 @@ En colaboración con Data UC
 
 -   Modelos de regresión
 
-## [MODULO 5: Gestión de procesos](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo5)
+## MODULO 5: Gestión de procesos
 
-### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS9irAVhobUQROyDEUbu6_G8)
+### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS9irAVhobUQROyDEUbu6_G8) / :orange_book: [Todo el material](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo5)
 
 -   Conceptos generales de los procesos
 
 -   Modelamiento BPMN
 
-## [MODULO 6: Comunicación y replicabilidad](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo6)
+## MODULO 6: Comunicación y replicabilidad
 
-### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS_RMENAcQdlXgXkO61DFOTQ)
+### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS_RMENAcQdlXgXkO61DFOTQ) / :orange_book: [T](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo5)[odo el material](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo6)
 
 En colaboración con Patricio Araneda.
 
@@ -212,9 +212,9 @@ En colaboración con Patricio Araneda.
 
 -   Reportes replicables
 
-## [Curso GIT](https://github.com/opensaludlab/ciencia_datos/tree/main/curso_git) (control de versiones + GitHub)
+## Curso GIT (control de versiones + GitHub)
 
-### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS-PhIwzPtn0NgonvH9dAYSQ)
+### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS-PhIwzPtn0NgonvH9dAYSQ) / :orange_book: [Todo el material](https://github.com/opensaludlab/ciencia_datos/tree/main/curso_git)
 
 ## :hugs: Agradecimientos
 
