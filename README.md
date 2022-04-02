@@ -214,7 +214,9 @@ En colaboración con Patricio Araneda.
 
 ## Curso GIT (control de versiones + GitHub)
 
-### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS-PhIwzPtn0NgonvH9dAYSQ) / :orange_book: [Todo el material](https://github.com/opensaludlab/ciencia_datos/tree/main/curso_git)
+### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS-PhIwzPtn0NgonvH9dAYSQ) / :orange_book: [Todo el material](https://github.com/opensaludlab/ciencia_datos/tree/main/curso_git)  
+
+##   
 
 ## :hugs: Agradecimientos
 
