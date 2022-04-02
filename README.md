@@ -132,58 +132,89 @@ Acá puedes acceder a las clases, documentación y scripts. Haz clic en cada mó
 
 Nota: A lo largo del Bootcamp se agregarán más contenidos, talleres y temas. Varios de ellos son sugeridos por la comunidad online de Discord.
 
-#### :point_right:[Antes de partir, revisa esta información](https://github.com/opensaludlab/ciencia_datos/tree/main/inicio)
+#### [Antes de partir, revisa esta información](https://github.com/opensaludlab/ciencia_datos/tree/main/inicio)  
 
 ## [MODULO 1: Nivelación y fundamentos](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo1)
 
+### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS-lf6e9Pejehcgif-xK7qg_)
+
 -   Aspectos generales curso
+
 -   Introducción a R y RStudio
+
 -   Estructura de datos y operadores
+
 -   Importación de datos
+
 -   Análisis prefactibilidad y valor público
 
 ## [MODULO 2: Data wrangling y análisis exploratorio de datos](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo2)
 
-(En colaboración con R-Ladies Concepción)
+### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS8TilR2kI1PD-5EQxX6eYst)
+
+En colaboración con R-Ladies Concepción
 
 -   Definición de problemáticas y objetivos
+
 -   Transformación de datos
+
 -   Manipulación y limpieza de datos
+
 -   Análisis exploratorio de datos
 
 ## [MODULO 3 : Visualización](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo3)
 
-(En colaboración con R-Ladies Concepción)
+### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS8TWKuOJNFLi3-L375DC2zu)
+
+En colaboración con R-Ladies Concepción
 
 -   Visualización de datos (parte 1)
+
 -   Visualización de datos (parte 2)
 
 ## [MODULO 4: Modelos y estadística inferencial](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo4)
 
-(En colaboración con Data UC)
+### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS9CMRapX6u0qvp7SvXrPw3h)
+
+En colaboración con Data UC
 
 -   Gestión ética de datos
--   Modelos estadísticos 1
--   Modelos estadísticos 2
+
+-   Modelos estadísticos
+
 -   Introducción al Machine Learning
+
 -   Modelos de clasificación
+
 -   Modelos de regresión
 
 ## [MODULO 5: Gestión de procesos](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo5)
 
+### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS9irAVhobUQROyDEUbu6_G8)
+
 -   Conceptos generales de los procesos
--   Modelamiento BPMN
+
 -   Modelamiento BPMN
 
 ## [MODULO 6: Comunicación y replicabilidad](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo6)
 
+### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS_RMENAcQdlXgXkO61DFOTQ)
+
+En colaboración con Patricio Araneda.
+
 -   RMarkdown (parte 1)
+
 -   RMarkdown (parte 2)
+
 -   Shiny (parte 1)
+
 -   Shiny (parte 2)
+
 -   Reportes replicables
 
-## [Curso GIT](https://github.com/opensaludlab/ciencia_datos/tree/main/curso_git) (control de versiones)
+## [Curso GIT](https://github.com/opensaludlab/ciencia_datos/tree/main/curso_git) (control de versiones + GitHub)
+
+### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS-PhIwzPtn0NgonvH9dAYSQ)
 
 ## :hugs: Agradecimientos
 
@@ -198,6 +229,8 @@ La comunidad de [R-Ladies Concepción (Chile)](https://twitter.com/RLadiesConce)
 También agradecemos enormemente a [Patricio Araneda](https://www.linkedin.com/in/patricioaraneda/).
 
 Y por supuesto, a los **más de 100 inscritos en el curso** en su primera versión, a la comunidad de OpenSalud LAB y a todos los que, con su apoyo, difusión y energía, ayudaron a que este proyecto fuese posible.
+
+##   
 
 ## :question: Dudas
 
