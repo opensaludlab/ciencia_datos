@@ -58,12 +58,12 @@ tenis_tree <- rpart(formula = jugar_tenis ~ .,
       data = tenis,
       method = "class",
       control = rpart.control(
-        cp = 0.001,
+        cp = 0.0001,
         minbucket = 2
         )
       )
 
-rpart.plot(x = tenis_tree, yesno = 2, type = 5, extra = 106, fallen.leaves = TRUE)
+rpart.plot(x = tenis_tree, yesno = 2, type = 5, extra = 106, fallen.leaves = FALSE)
 fancyRpartPlot(tenis_tree)
 asRules(tenis_tree)
 
@@ -74,7 +74,7 @@ salud_tree <- rpart(formula = SEXO ~ .,
                data = salud, 
                method = "class",
                control = rpart.control(
-                 cp = 0.001,
+                 cp = 0.0000001,
                  minbucket = 40
                  )
                )
@@ -110,6 +110,7 @@ plot_correlation(heart_dummy)
 # Maximal Information-Based Nonparametric Exploration (MINE) https://cran.r-project.org/web/packages/minerva/minerva.pdf
 library(minerva)
 heart_mic <- mine(heart_dummy)[[1]]
+heart_mic$MIC
 
 heart_mic2 <- data.frame(heart_mic) %>% rownames_to_column("variable")
 heart_mic2 %>% select(variable, target_yes) %>% arrange(-target_yes)
@@ -155,7 +156,6 @@ plot(varImp(class1))
 plot(class1)
 rpart.plot(class1$finalModel, yesno = 2, type = 5, extra = 106, fallen.leaves = TRUE)
 asRules(class1$finalModel)
-
 
 
 # Cómo controlar el CP (complexity parameter)?

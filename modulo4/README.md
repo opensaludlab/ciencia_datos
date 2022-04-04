@@ -19,7 +19,7 @@ Un *must have* en todo proyecto de ciencia de datos.
 
 ### :tv: [ [Video](https://youtu.be/l26N9oI4bTw) ]
 
-### :computer: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/Sesion_1.pdf) ]
+### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/Sesion_1.pdf) ]
 
 ### Lectura recomendada
 
@@ -67,9 +67,114 @@ En esta sesión comenzamos a revisar los fundamentos estadísticos de los proyec
 
 ### :tv: [ [Video](https://youtu.be/hweNchcsnlg) ]
 
-### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/Sesion_2.pdf) ]
+### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/Sesion_2.pdf) ]
+
+### :computer:[ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/script1.R) ]
 
 ### Lectura recomendada
 
 En la carpeta Books puedes encontrar varios libros muy recomendados. Si bien son libros relativamente para principiantes, es importante que ya manejes programación y tengas conocimientos en estadísticas. Por ello, es recomendable que los tengas como lectura de consulta.  
 De los libros, [te recomiendo leas este](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/Books/Statistics%20Cartoon%20Guide.pdf), en especial si no tienes mucha formación estadística. Es un libro entretenido y que explica varios conceptos básicos de estadísticas y probabilidades.
+
+------------------------------------------------------------------------
+
+# :three: **Estadística inferencial (parte 2)**
+
+En esta sesión ccontinuamo revisando los fundamentos estadísticos de los proyectos de ciencia de datos. En colaboración con Facultad de Matemáticas Pontificia Universidad Católica de Chile y [Data UC](https://twitter.com/datauc_chile).
+
+### :tv: [ [Video](https://youtu.be/99iOUxwM3JY) ]
+
+### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/Sesion_2.pdf) ]
+
+### :computer:[ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/script2.R) ]
+
+------------------------------------------------------------------------
+
+# :three: **Estadística inferencial (parte 2)**
+
+En esta sesión ccontinuamo revisando los fundamentos estadísticos de los proyectos de ciencia de datos. En colaboración con Facultad de Matemáticas Pontificia Universidad Católica de Chile y [Data UC](https://twitter.com/datauc_chile).
+
+### :tv: [ [Video](https://youtu.be/99iOUxwM3JY) ]
+
+### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/Sesion_3.pdf) ]
+
+### :computer:[ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/script2.R) ]
+
+Revisa la sección [`Books`](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo4/Books) para tener acceso a libros de lectura recomendada y de ayuda. Son libros largos, pero te serán de utilidad para una gran cantidad de oportunidades.
+
+------------------------------------------------------------------------
+
+# :four: Introducción al machine learning
+
+En esta sesión comenzaremos a hablar sobre el machine learning (ML). Que suena lejano e intimidante, pero cuando lo entiendes, te das cuenta de que es algo bastante común y no tan difícil de implementarlo. De todas formas el estudio de esta temática es muy amplio y cada día se van desarrollando nuevas técnicas, modelos y aplicaciones.
+
+Durante estas sesiones realizaremos una introducción al LM y revisaremos 2 de los aspectos más comunes: modelos de clasificación y regresión.
+
+### :tv: [ [Video](https://youtu.be/LKYvdgdRHjo) ]
+
+### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/Sesion_4.pdf) ]
+
+### :computer:[ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/arboles.R) ]
+
+En la presentación te recomendamos revisar los links y enlaces a bibliografía mostrados.
+
+------------------------------------------------------------------------
+
+# Charla
+
+## [Modelos de supervivencia en pacientes con cáncer de mama](https://youtu.be/keMbTbXUGCI)
+
+En esta charla, el estadístico Manuel Rain nos habla sobre distintos modelos matemáticos para analizar la supervivencia de pacientes con cáncer de mama, usando R.
+
+Te recomendamos complementar la charla con documentación sobre modelos de superviviencia:
+
+-   [Time-to-event data and survival](https://argoshare.is.ed.ac.uk/healthyr_book/chap10-h1.html)
+
+-   [Survey analysis](https://epirhandbook.com/en/survey-analysis.html)
+
+------------------------------------------------------------------------
+
+# :five: Machine learning: modelos de clasificación
+
+En esta sesión estaremos revisando los modelos de machine learning de aprendizaje supervisado, en particular, los modelos de clasificación.  
+Revisamos los modelos de árboles de decisión, random forest y modelos GBM (gradient boosting machine) y usamos un resampleo con cross-validation para evaluarlos.
+
+### :tv: [ [Video](https://youtu.be/4T3myLAynXc) ]
+
+### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/Sesion_5.pdf) ]
+
+### :computer:[ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/arboles.R) ]
+
+### Lectura recomendada
+
+En la presentación te recomendamos revisar los links y enlaces a bibliografía.
+
+Además, puedes ver los siguientes enlaces complementarios:
+
+-   [Documentación oficial librería `caret`](https://topepo.github.io/caret/)
+
+-   Libro [Machine Learning with R, the tidyverse, and mlr](https://www.manning.com/books/machine-learning-with-r-the-tidyverse-and-mlr#toc)
+
+-   [Documentación sobre `rpart`](http://www.milbo.org/rpart-plot/prp.pdf) (árboles de decisión)
+
+-   [Documentación librería `minerva`](https://cran.r-project.org/web/packages/minerva/minerva.pdf) (para ver evaluar modelos usando MIC)
+
+-   [Árboles de decisión y Random Forest](https://bookdown.org/content/2031/)
+
+Durante las sesiones usamos, principalmente, la librería `caret`, pero en R existe una serie de otras libererías destinadas al ML denominada [tidymodels](https://www.tidymodels.org/start/). Es similar en la lógica al `tidyverse`, pues es un conjunto de librerías que tienen un flujo de trabajo en común. Durante el útlimo tiempo ha estado madurando bastante y te recomendamos darle una mirada. Este es el [libro oficial](https://www.tmwr.org/) de documentación de `tidymodels`.
+
+------------------------------------------------------------------------
+
+# :six: Machine learning: modelos de regresión
+
+En esta sesión revisamos algunos modelos de regresión para machine learning y aprendizaje supervisado.
+
+### :tv: [ [Video](https://youtu.be/1LpR-kd7q0c) ]
+
+### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/Sesion_6.pdf) ]
+
+### :computer:[ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/regresion.R) ]
+
+### Lectura recomendada
+
+Te recomiendamos leer la [documentación oficial de la librería ](https://topepo.github.io/caret/index.html)`caret.`
