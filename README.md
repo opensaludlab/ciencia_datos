@@ -132,7 +132,7 @@ Acá puedes acceder a las clases, documentación y scripts. Haz clic en cada mó
 
 Nota: A lo largo del Bootcamp se agregarán más contenidos, talleres y temas. Varios de ellos son sugeridos por la comunidad online de Discord.
 
-#### [Antes de partir, revisa esta información](https://github.com/opensaludlab/ciencia_datos/tree/main/inicio)  
+#### [Antes de partir, revisa esta información](https://github.com/opensaludlab/ciencia_datos/tree/main/inicio)
 
 ## MODULO 1: Nivelación y fundamentos
 
@@ -164,7 +164,7 @@ En colaboración con R-Ladies Concepción
 
 ## MODULO 3 : Visualización
 
-### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS8TWKuOJNFLi3-L375DC2zu)  / :orange_book: [Todo el material](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo3)
+### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS8TWKuOJNFLi3-L375DC2zu) / :orange_book: [Todo el material](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo3)
 
 En colaboración con R-Ladies Concepción
 
@@ -172,7 +172,7 @@ En colaboración con R-Ladies Concepción
 
 -   Visualización de datos (parte 2)
 
-## MODULO 4: Modelos y estadística inferencial
+## MODULO 4: Modelos estadísticos y Machine learning
 
 ### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS9CMRapX6u0qvp7SvXrPw3h) / :orange_book: [Todo el material](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo4)
 
@@ -214,9 +214,9 @@ En colaboración con Patricio Araneda.
 
 ## Curso GIT (control de versiones + GitHub)
 
-### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS-PhIwzPtn0NgonvH9dAYSQ) / :orange_book: [Todo el material](https://github.com/opensaludlab/ciencia_datos/tree/main/curso_git)  
+### :white_check_mark: [Playlist](https://youtube.com/playlist?list=PLsv7dA-wqwS-PhIwzPtn0NgonvH9dAYSQ) / :orange_book: [Todo el material](https://github.com/opensaludlab/ciencia_datos/tree/main/curso_git)
 
-##   
+## 
 
 ## :hugs: Agradecimientos
 
@@ -232,7 +232,7 @@ También agradecemos enormemente a [Patricio Araneda](https://www.linkedin.com/i
 
 Y por supuesto, a los **más de 100 inscritos en el curso** en su primera versión, a la comunidad de OpenSalud LAB y a todos los que, con su apoyo, difusión y energía, ayudaron a que este proyecto fuese posible.
 
-##   
+## 
 
 ## :question: Dudas
 
