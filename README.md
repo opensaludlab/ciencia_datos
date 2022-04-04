@@ -168,9 +168,9 @@ En colaboración con R-Ladies Concepción
 
 En colaboración con R-Ladies Concepción
 
--   Visualización de datos (parte 1)
+-   Visualización de datos con `ggplot2`
 
--   Visualización de datos (parte 2)
+-   Visualización de datos con otras librerías
 
 ## MODULO 4: Modelos estadísticos y Machine learning
 
@@ -194,6 +194,8 @@ En colaboración con Data UC
 
 -   Conceptos generales de los procesos
 
+-   Mejora de procesos
+
 -   Modelamiento BPMN
 
 ## MODULO 6: Comunicación y replicabilidad
@@ -202,13 +204,11 @@ En colaboración con Data UC
 
 En colaboración con Patricio Araneda.
 
--   RMarkdown (parte 1)
+-   R Markdown
 
--   RMarkdown (parte 2)
+-   Shiny
 
--   Shiny (parte 1)
-
--   Shiny (parte 2)
+-   FlexDashboard
 
 -   Reportes replicables
 
