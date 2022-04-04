@@ -1,14 +1,8 @@
 # MÓDULO 4
 
-Antes de inciar este módulo, si es que no tienes mucho acercamiento a temas de estadísticas o no estás muy familiarizado/a con eso, te recomendamos que realices este curso previamente. Es gratis.
+Antes de inciar este módulo, si es que no tienes mucho acercamiento a temas de estadísticas o no estás muy familiarizado/a con eso, te recomendamos que realices este curso previamente. Es gratis.<https://www.coursera.org/learn/estadistica-aplicada-negocios>
 
-<https://www.coursera.org/learn/estadistica-aplicada-negocios>
-
-Para acceder a todas las clases sobre estadística inferencial y modelos de machine learning, tienes que haber visto el módulo 1 y módulo 2, pues es relevante que ya tengas conocimientos sobre programación basada en objetos, tipos de datos, sepas importar, manipular y transformar datos de forma relativamente fluída, así como usar las librerías del `tidyverse`.
-
-Para asegurarnos de ello, tendrás acceso al resto de las clases de este módulo si realizas la certificación gratuita de IBM Cognitive Class mencionada [al final del módulo 2](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo2#white_check_mark-certificado).
-
-[Regístrate en el Discord](https://github.com/opensaludlab/ciencia_datos#point_right-ingresa-ac%C3%A1-para-unirte-a-la-comunidad-online-del-bootcamp-y-comienza-este-viaje-ahora) de nuestro Bootcamp y comenta en el canal del curso dedicado a este tema.
+:smiley: [Regístrate en el Discord](https://github.com/opensaludlab/ciencia_datos#point_right-ingresa-ac%C3%A1-para-unirte-a-la-comunidad-online-del-bootcamp-y-comienza-este-viaje-ahora) de nuestro Bootcamp y comenta en el canal del curso dedicado a este tema.
 
 ------------------------------------------------------------------------
 
@@ -165,4 +159,20 @@ En esta sesión revisamos algunos modelos de regresión para machine learning y 
 
 ### Lectura recomendada
 
-Te recomiendamos leer la [documentación oficial de la librería ](https://topepo.github.io/caret/index.html)`caret.`
+Te recomiendamos leer la [documentación oficial de la librería](https://topepo.github.io/caret/index.html)`caret.`
+
+------------------------------------------------------------------------
+
+# Curso complementario ML
+
+El machine learning es una área muy extensa de estudio. Acá solo revisamos algunos puntos para darte el impulso a que sigas aprendiendo,
+
+En este ptro repositorio podrán encontrar un curso de Microsoft sobre ML. Es introductorio, pero es bastante interesante. Incluye los códigos en Python y en R en varios de ellos.
+
+[microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all (github.com)](https://github.com/microsoft/ML-For-Beginners/)
+
+------------------------------------------------------------------------
+
+### :new: Pronto realizaremos talleres en vivo sobre ML
+
+[Regístrate en el Discord](https://github.com/opensaludlab/ciencia_datos#point_right-ingresa-ac%C3%A1-para-unirte-a-la-comunidad-online-del-bootcamp-y-comienza-este-viaje-ahora) de nuestro Bootcamp para mantenerte al tanto de todas las novedades.
