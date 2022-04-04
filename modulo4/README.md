@@ -84,18 +84,6 @@ En esta sesión ccontinuamo revisando los fundamentos estadísticos de los proye
 
 ### :tv: [ [Video](https://youtu.be/99iOUxwM3JY) ]
 
-### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/Sesion_2.pdf) ]
-
-### :computer:[ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/script2.R) ]
-
-------------------------------------------------------------------------
-
-# :three: **Estadística inferencial (parte 2)**
-
-En esta sesión ccontinuamo revisando los fundamentos estadísticos de los proyectos de ciencia de datos. En colaboración con Facultad de Matemáticas Pontificia Universidad Católica de Chile y [Data UC](https://twitter.com/datauc_chile).
-
-### :tv: [ [Video](https://youtu.be/99iOUxwM3JY) ]
-
 ### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/Sesion_3.pdf) ]
 
 ### :computer:[ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/script2.R) ]
