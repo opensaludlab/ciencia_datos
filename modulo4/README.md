@@ -169,11 +169,13 @@ En esta sesión revisamos algunos modelos de regresión para machine learning y 
 
 El machine learning es una área muy extensa de estudio y siempre está avanzando. Acá solo revisamos algunos puntos para darte una guía y el impulso a que sigas aprendiendo. Te aconsejamos que sigas adelante. No quizás en estos momentos, pero tenlos en mente para más adelante.
 
-1.  En este repositorio podrán encontrar un curso de Microsoft sobre ML. Es introductorio, pero es bastante interesante. Incluye los códigos en Python y en R en varios de ellos.   
+1.  En este repositorio podrán encontrar un curso de Microsoft sobre ML. Es introductorio, pero es bastante interesante. Incluye los códigos en Python y en R en varios de ellos. En inglés.  
     [microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all (github.com)](https://github.com/microsoft/ML-For-Beginners/)
 
-2.  Web con curso interactivo con el uso de ML con `tidymodels`   
-    [Supervised machine learning case studies in R! · A free interactive course (supervised-ml-course.netlify.app)](https://supervised-ml-course.netlify.app/)
+2.  Web con breve curso interactivo con el uso de ML sobre `tidymodels` de Julia Silge, Data Scientist de RStudio y creadora de la librería. En inglés.[Supervised machine learning case studies in R! · A free interactive course (supervised-ml-course.netlify.app)](https://supervised-ml-course.netlify.app/)
+
+3.  Curso super didáctico, apoyado por el Govierno de Finlandia, sobre inteligencia artificial, sin código. Se basa en explicar de forma simple distintos conceptos de ML y la importancia de comprender sus alcances y riesgos. En español.  
+    [Una introducción a la inteligencia artificial, en línea y gratis, para no expertos (elementsofai.com)](https://www.elementsofai.com/es)
 
 ------------------------------------------------------------------------
 
