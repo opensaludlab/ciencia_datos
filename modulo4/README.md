@@ -159,7 +159,9 @@ En esta sesión revisamos algunos modelos de regresión para machine learning y 
 
 ### Lectura recomendada
 
-Te recomiendamos leer la [documentación oficial de la librería](https://topepo.github.io/caret/index.html)`caret.`
+-   Te recomiendamos leer la [documentación oficial de la librería](https://topepo.github.io/caret/index.html)`caret` .
+
+-   Puedes revisar estos [101 algoritmos de ML](https://online.datasciencedojo.com/blogs/machine-learning-algorithms) con una breve explicación y tutoriales de cómo implementarlos, tanto en R como en Python.
 
 ------------------------------------------------------------------------
 
