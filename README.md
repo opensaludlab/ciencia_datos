@@ -128,11 +128,19 @@ El Bootcamp no incluye certificado de finalización, pero de todas formas te ayu
 
 ![](images/Parrilla%20Bootcamp%20DS%20OSL-01.png)
 
-Acá puedes acceder a las clases, documentación y scripts. Haz clic en cada módulo para entrar a las clases.
+Haz clic en [ :orange_book: **Todo el material** ] para acceder a todas las clases, documentación, bibliografía complementaria y scripts.
 
-Nota: A lo largo del Bootcamp se agregarán más contenidos, talleres y temas. Varios de ellos son sugeridos por la comunidad online de Discord.
+Az clic en [ :white_check_mark: **Playlist** ] para ver los videos de las clases grabadas en una lista de reproducción de YouTube.
 
-#### [Antes de partir, revisa esta información](https://github.com/opensaludlab/ciencia_datos/tree/main/inicio)
+Nota: A lo largo del Bootcamp se agregarán más contenidos, talleres y temas. Varios de ellos son sugeridos por la comunidad online de Discord. Por lo que te recomendamos estar revisando constantemente este repositorio.
+
+#   
+
+## :wave: Antes de partir...
+
+## [Revisa esta información](https://github.com/opensaludlab/ciencia_datos/tree/main/inicio)
+
+------------------------------------------------------------------------
 
 ## MODULO 1: Nivelación y fundamentos
 
