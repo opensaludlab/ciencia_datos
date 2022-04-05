@@ -163,13 +163,15 @@ Te recomiendamos leer la [documentación oficial de la librería](https://topepo
 
 ------------------------------------------------------------------------
 
-# Curso complementario ML
+# Cursos complementarios ML
 
-El machine learning es una área muy extensa de estudio. Acá solo revisamos algunos puntos para darte el impulso a que sigas aprendiendo,
+El machine learning es una área muy extensa de estudio y siempre está avanzando. Acá solo revisamos algunos puntos para darte una guía y el impulso a que sigas aprendiendo. Te aconsejamos que sigas adelante. No quizás en estos momentos, pero tenlos en mente para más adelante.
 
-En este ptro repositorio podrán encontrar un curso de Microsoft sobre ML. Es introductorio, pero es bastante interesante. Incluye los códigos en Python y en R en varios de ellos.
+1.  En este repositorio podrán encontrar un curso de Microsoft sobre ML. Es introductorio, pero es bastante interesante. Incluye los códigos en Python y en R en varios de ellos.   
+    [microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all (github.com)](https://github.com/microsoft/ML-For-Beginners/)
 
-[microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all (github.com)](https://github.com/microsoft/ML-For-Beginners/)
+2.  Web con curso interactivo con el uso de ML con `tidymodels`   
+    [Supervised machine learning case studies in R! · A free interactive course (supervised-ml-course.netlify.app)](https://supervised-ml-course.netlify.app/)
 
 ------------------------------------------------------------------------
 
