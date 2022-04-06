@@ -110,7 +110,7 @@ Para complementar lo visto en la sesión, te recomiendamos mucho que leas el [Ca
 
 ------------------------------------------------------------------------
 
-:yellow_square: Revisa la [carpera `Docs`](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo2/Docs), en la cual se irán dejando documentos, papers y presentaciones complementarias interesantes para este módulo. Revísalo con frecuencia.
+:yellow_square: Revisa la [carpeta `Docs`](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo2/Docs), en la cual se irán dejando documentos, papers y presentaciones complementarias interesantes para este módulo. Revísalo con frecuencia.
 
 ------------------------------------------------------------------------
 

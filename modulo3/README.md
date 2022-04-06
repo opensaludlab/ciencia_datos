@@ -64,11 +64,11 @@ También te recomendamos [ver este video](https://youtu.be/jiuDr4aYgkY) de la NH
 
 ### :raised_hand_with_fingers_splayed: [ [Taller](https://youtu.be/DTAO4LD-njM) ]
 
-### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo3/ggplot2_workshop.R) ] 
+### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo3/ggplot2_workshop.R) ]
 
 ------------------------------------------------------------------------
 
-:yellow_square: Revisa la [carpera `Docs`](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo3/Docs), en la cual se irán dejando documentos, papers y presentaciones complementarias interesantes para este módulo. Revísalo con frecuencia.
+:yellow_square: Revisa la [carpeta `Docs`](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo3/Docs), en la cual se irán dejando documentos, papers y presentaciones complementarias interesantes para este módulo. Revísalo con frecuencia.
 
 ------------------------------------------------------------------------
 
