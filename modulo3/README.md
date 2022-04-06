@@ -22,12 +22,11 @@ Y por último, [en esta página](https://www.r-graph-gallery.com/index.html) se 
 
 ------------------------------------------------------------------------
 
-# Charla 
+# Charla
 
 ### [Hacia una análisis automatizado del texto clínico chileno](https://youtu.be/3N9MuFry2qs)
 
-En esta charla abordamos diversos aspectos sobre cómo la inteligencia artificial y el NPL (*natural processing language*) apoyan el análisis de textos clínicos.
-Expone Jocelyn Dunstan, Doctora en Matemática Aplicada Universidad de Cambridge, Académica de la Facultad de Medicina Universidad de Chile y Científica en el Centro de Modelamiento Matemático.  
+En esta charla abordamos diversos aspectos sobre cómo la inteligencia artificial y el NPL (*natural processing language*) apoyan el análisis de textos clínicos. Expone Jocelyn Dunstan, Doctora en Matemática Aplicada Universidad de Cambridge, Académica de la Facultad de Medicina Universidad de Chile y Científica en el Centro de Modelamiento Matemático.
 
 Conoce más sobre Jocelyn Dustan [en su web personal.](https://sites.google.com/view/jdunstan/home)
 
@@ -65,16 +64,18 @@ También te recomendamos [ver este video](https://youtu.be/jiuDr4aYgkY) de la NH
 
 ### :raised_hand_with_fingers_splayed: [ [Taller](https://youtu.be/DTAO4LD-njM) ]
 
-### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo3/ggplot2_workshop.R)]
+### :computer: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo3/ggplot2_workshop.R) ] 
 
-Uso de librería `ggplot2`
+------------------------------------------------------------------------
+
+:yellow_square: Revisa la [carpera `Docs`](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo3/Docs), en la cual se irán dejando documentos, papers y presentaciones complementarias interesantes para este módulo. Revísalo con frecuencia.
 
 ------------------------------------------------------------------------
 
 # :white_check_mark: Certificado
 
-Si llegaste hasta acá y realizaste los módulos 1, 2 y 3 siguiendo todos los consejos y practicaste mucho, estás más que capacitada/o para realizar el curso de **IBM Cognitive Class de visualización con R** sin mayores problemas.  
+Si llegaste hasta acá y realizaste los módulos 1, 2 y 3 siguiendo todos los consejos y practicaste mucho, estás más que capacitada/o para realizar el curso de **IBM Cognitive Class de visualización con R** sin mayores problemas.
 
-👉 [**Ir al curso**](https://cognitiveclass.ai/courses/data-visualization-with-r) **y obtener el certificado.**
+:point_right: [**Ir al curso**](https://cognitiveclass.ai/courses/data-visualization-with-r) **y obtener el certificado.**
 
 ### 

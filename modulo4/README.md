@@ -165,6 +165,10 @@ En esta sesión revisamos algunos modelos de regresión para machine learning y 
 
 ------------------------------------------------------------------------
 
+:yellow_square: Revisa la [carpera `Docs`](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo4/Docs), en la cual se irán dejando documentos, papers y presentaciones complementarias interesantes para este módulo. Revísalo con frecuencia.
+
+------------------------------------------------------------------------
+
 # Cursos complementarios ML
 
 El machine learning es una área muy extensa de estudio y siempre está avanzando. Acá solo revisamos algunos puntos para darte una guía y el impulso a que sigas aprendiendo. Te aconsejamos que sigas adelante. No quizás en estos momentos, pero tenlos en mente para más adelante.
