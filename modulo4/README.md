@@ -116,7 +116,7 @@ Te recomendamos complementar la charla con documentación sobre modelos de super
 
 ------------------------------------------------------------------------
 
-# :five: Semana 17: Machine learning: modelos de clasificación
+# :five: Semana 17: Machine learning - modelos de clasificación
 
 En esta sesión estaremos revisando los modelos de machine learning de aprendizaje supervisado, en particular, los modelos de clasificación.  
 Revisamos los modelos de árboles de decisión, random forest y modelos GBM (gradient boosting machine) y usamos un resampleo con cross-validation para evaluarlos.
@@ -147,7 +147,7 @@ Durante las sesiones usamos, principalmente, la librería `caret`, pero en R exi
 
 ------------------------------------------------------------------------
 
-# :six: Semana 18: Machine learning: modelos de regresión
+# :six: Semana 18: Machine learning - modelos de regresión
 
 En esta sesión revisamos algunos modelos de regresión para machine learning y aprendizaje supervisado.
 
@@ -169,9 +169,9 @@ En esta sesión revisamos algunos modelos de regresión para machine learning y 
 
 ------------------------------------------------------------------------
 
-# Cursos complementarios ML
+# :gift: Cursos complementarios ML
 
-El machine learning es una área muy extensa de estudio y siempre está avanzando. Acá solo revisamos algunos puntos para darte una guía y el impulso a que sigas aprendiendo. Te aconsejamos que sigas adelante. No quizás en estos momentos, pero tenlos en mente para más adelante.
+El machine learning es una área muy extensa de estudio y siempre está avanzando. Acá solo revisamos algunos puntos para darte una guía y el impulso a que sigas aprendiendo. Te aconsejamos que sigas adelante. No quizás en estos momentos para que sigas con el próximos módulo del curso, pero tenlos en mente para más adelante.
 
 1.  En este repositorio podrán encontrar un curso de Microsoft sobre ML. Es introductorio, pero es bastante interesante. Incluye los códigos en Python y en R en varios de ellos. En inglés.  
     [microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all (github.com)](https://github.com/microsoft/ML-For-Beginners/)
