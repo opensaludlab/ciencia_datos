@@ -6,7 +6,7 @@ Antes de inciar este módulo, si es que no tienes mucho acercamiento a temas de 
 
 ------------------------------------------------------------------------
 
-# :one: Gestión ética de datos
+# :one: Semana 13: Gestión ética de datos
 
 En esta sesión abordamos unos de los temas más relevantes del curso: la gestión responsable y ética de datos.  
 Un *must have* en todo proyecto de ciencia de datos.
@@ -55,7 +55,7 @@ Esto es interesante. Este es un algoritmo que permite evaluar el nivel de sesgos
 
 ------------------------------------------------------------------------
 
-# :two: **Estadística inferencial (parte 1)**
+# :two: Semana 14: **Estadística inferencial (parte 1)**
 
 En esta sesión comenzamos a revisar los fundamentos estadísticos de los proyectos de ciencia de datos. En colaboración con Facultad de Matemáticas Pontificia Universidad Católica de Chile y [Data UC](https://twitter.com/datauc_chile).
 
@@ -72,7 +72,7 @@ De los libros, [te recomiendo leas este](https://github.com/opensaludlab/ciencia
 
 ------------------------------------------------------------------------
 
-# :three: **Estadística inferencial (parte 2)**
+# :three: Semana 15: **Estadística inferencial (parte 2)**
 
 En esta sesión ccontinuamo revisando los fundamentos estadísticos de los proyectos de ciencia de datos. En colaboración con Facultad de Matemáticas Pontificia Universidad Católica de Chile y [Data UC](https://twitter.com/datauc_chile).
 
@@ -86,7 +86,7 @@ Revisa la sección [`Books`](https://github.com/opensaludlab/ciencia_datos/tree/
 
 ------------------------------------------------------------------------
 
-# :four: Introducción al machine learning
+# :four: Semana 16: Introducción al machine learning
 
 En esta sesión comenzaremos a hablar sobre el machine learning (ML). Que suena lejano e intimidante, pero cuando lo entiendes, te das cuenta de que es algo bastante común y no tan difícil de implementarlo. De todas formas el estudio de esta temática es muy amplio y cada día se van desarrollando nuevas técnicas, modelos y aplicaciones.
 
@@ -116,7 +116,7 @@ Te recomendamos complementar la charla con documentación sobre modelos de super
 
 ------------------------------------------------------------------------
 
-# :five: Machine learning: modelos de clasificación
+# :five: Semana 17: Machine learning: modelos de clasificación
 
 En esta sesión estaremos revisando los modelos de machine learning de aprendizaje supervisado, en particular, los modelos de clasificación.  
 Revisamos los modelos de árboles de decisión, random forest y modelos GBM (gradient boosting machine) y usamos un resampleo con cross-validation para evaluarlos.
@@ -147,7 +147,7 @@ Durante las sesiones usamos, principalmente, la librería `caret`, pero en R exi
 
 ------------------------------------------------------------------------
 
-# :six: Machine learning: modelos de regresión
+# :six: Semana 18: Machine learning: modelos de regresión
 
 En esta sesión revisamos algunos modelos de regresión para machine learning y aprendizaje supervisado.
 

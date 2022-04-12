@@ -1,6 +1,6 @@
 # Módulo 5
 
-# :one: Gestión de procesos: generalidades
+# :one: Semana 19: Gestión de procesos: generalidades
 
 En esta sesión revisamos algunos aspectos generales de la gestión de procesos, algunas definiciones y alcances.
 
@@ -10,7 +10,7 @@ En esta sesión revisamos algunos aspectos generales de la gestión de procesos,
 
 ------------------------------------------------------------------------
 
-# :two: Modelamiento BPMN pt1
+# :two: Semana 20: Modelamiento BPMN pt1
 
 En esta sesión seguimos revisando aspectos de la gestión de procesos. En esta oportunidad abordamos el modelamiento BPMN.
 
@@ -28,7 +28,7 @@ En esta sesión seguimos revisando aspectos de la gestión de procesos. En esta 
 
 ------------------------------------------------------------------------
 
-# :three: Modelamiento BPMN pt2
+# :three: Semana 21: Modelamiento BPMN pt2
 
 En esta sesión continuamos revisando aspectos de la gestión de procesos y del modelamiento BPMN.  
 Además, estuvimos conversando sobre la mejora de procesos y algunos conceptos de LEAN.

@@ -1,6 +1,6 @@
 # MÓDULO 3
 
-# :one: **Visualización de datos (parte 1)**
+# :one: Semana 10: **Visualización de datos (parte 1)**
 
 En esta sesión estaremos revisando la librería `ggplot2` y cómo usar para visualizar los datos, en especial para agregar más elementos para el análisis exploratorio (EDA).
 
@@ -32,7 +32,7 @@ Conoce más sobre Jocelyn Dustan [en su web personal.](https://sites.google.com/
 
 ------------------------------------------------------------------------
 
-# :two: **Visualización de datos (parte 2)**
+# :two: Semana 11: **Visualización de datos (parte 2)**
 
 En esta sesión seguimos revisando cómo usar la visualización para sacar información de los datos. En particular, veremos la librería `highcharter,` que nos permite realizar gráficos de alta calidad y agregarle interactividad.
 
@@ -50,7 +50,7 @@ Personalizar las distintas partes de los gráficos realizado con ggplot2 es uno 
 
 ------------------------------------------------------------------------
 
-# :three: Visualización de datos (parte 3)
+# :three: Semana 12: Visualización de datos (parte 3)
 
 Thomas Lin Pedersen, además del libro digital que mencionamosm, tiene un **par de videos en Youtube** (con cerca de 2 horas cada uno) en donde habla sobre la librería `ggplot2`, cómo entender la lógica que usa (de capas) y explica con varios ejemplos.
 

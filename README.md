@@ -2,8 +2,6 @@
 
 Versión 2
 
-<http://datascience.opensaludlab.org>
-
  
 
 # :point_right: [Ingresa acá](https://discord.gg/KuUEvFweVu) para unirte a la comunidad online del Bootcamp y comienza este viaje ahora!!
@@ -112,7 +110,7 @@ Esperamos que con este segundo enfoque los participantes sean capaces de:
 
  
 
-## :spiral_notepad:Certificado
+## :spiral_notepad:Certificados
 
 Tener un certificado no certifica nada muchas veces. Las empresas más valoradas no los solicitan y es mucho más relevante tener un portafolio interesante y documentar adecuadamente tus proyectos.
 

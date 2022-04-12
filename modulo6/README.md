@@ -1,6 +1,6 @@
 # Módulo 6
 
-# :one: Reportes con FlexDashboard
+# :one: Semana 22: Reportes con FlexDashboard
 
 En esta nueva sesión, junto a [Patricio Araneda](https://www.linkedin.com/in/patricioaraneda/), partimos el módulo de comunicación. Esta vez veremos cómo usar la librería `flexdashboard` para generar reportes y dashboard profesionales.
 
@@ -19,7 +19,7 @@ Además, podrás encontrar varios [ejemplos](https://flexdashboard-pkg.netlify.a
 
 ------------------------------------------------------------------------
 
-# :two: Uso de Shiny pt1
+# :two: Semana 23: Uso de Shiny pt1
 
 En esta sesión, junto a Patricio Araneda, comenzamos a revisar el uso de la librería `Shiny`.  
 Esta librería permite generar reportes web interactivos de muy interesante posibilidades como la interactividad e ingreso de datos por parte de los usuarios.
@@ -32,7 +32,7 @@ Acá puedes revisar la [documentación oficial](https://shiny.rstudio.com/) de l
 
 ------------------------------------------------------------------------
 
-# :three: Uso de Shiny pt2
+# :three: Semana 24: Uso de Shiny pt2
 
 En esta sesión, nuevamente junto a Patricio Araneda, seguimos revisando el uso de la librería `Shiny`.  
 Esta librería permite generar reportes web interactivos de muy interesante posibilidades como la interactividad e ingreso de datos por parte de los usuarios.
@@ -48,7 +48,7 @@ Esta librería permite generar reportes web interactivos de muy interesante posi
 
 ------------------------------------------------------------------------
 
-# :four: R Markdown
+# :four: Semana 25: R Markdown
 
 En esta nueva sesión, junto a [Patricio Araneda](https://www.linkedin.com/in/patricioaraneda/), partimos el módulo de comunicación. Esta vez veremos cómo usar la librería `flexdashboard` para generar reportes y dashboard profesionales.
 

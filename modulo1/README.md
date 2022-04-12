@@ -3,12 +3,11 @@
 ## Hola a todos y todas!! :wave:
 
 **Bienvenidos a la primera sesión de nuestro programa de formación en Ciencia de Datos!**
-  
-Te recomiendamos ver los videos al menos 2 ó 3 veces, pausarlo e ir lentamente estudiando los temas tratados. Además, baja el código (script), ejecútalo y analízalo con calma. Revisa la lectura complementaria en la medida que avanzas en el código.  
-  
+
+Te recomiendamos ver los videos al menos 2 ó 3 veces, pausarlo e ir lentamente estudiando los temas tratados. Además, baja el código (script), ejecútalo y analízalo con calma. Revisa la lectura complementaria en la medida que avanzas en el código.
+
 No te estreses. Ya habrá tiempo para profundizar en todo a lo largo del curso :blush:
 
-  
 Vamos!!
 
 # Charla inicial
@@ -17,7 +16,7 @@ Vamos!!
 
 ------------------------------------------------------------------------
 
-# :one: **Aspectos generales del curso**
+# :one: Semana 1: **Aspectos generales del curso**
 
 En esta sesión abordamos los aspectos generales del programa, los objetivos y la motivación de lanzarnos con este proyecto. Además, revisamos el calendario, las temáticas a tratar, la metodología y los distintos tipos de actividades.
 
@@ -29,7 +28,7 @@ En esta sesión abordamos los aspectos generales del programa, los objetivos y l
 
 ------------------------------------------------------------------------
 
-# :two: **Introducción a R y RStudio**
+# :two: Semana 2: **Introducción a R y RStudio**
 
 En esta sesión conversamos de la historia de R, sus ventajas y desventajas. Además, revisamos varias de las funcionalidades que tiene RStudio y de la importancia de las librerías (*packages*).  
 Revisamos, también, algunas recomendaciones y buenas prácticas al escribir código.
@@ -70,7 +69,7 @@ Estos son algunos de los tips mencionados en el taller:
 
 ------------------------------------------------------------------------
 
-# :three: **Estructura de datos y operadores**
+# :three: Semana 3: **Estructura de datos y operadores**
 
 En esta sesión conversamos sobre los tipos de datos en que se puede trabaja en R y las estructuras de los mismos. Hablamos, también, de la importancia de comprender qué tipos de datos se tienen y de como coercionarlos de forma de que se adapten a lo que uno necesita. Revisamos el tidy data y su relevancia en el código.
 
@@ -96,7 +95,7 @@ Puedes leer los siguientes capítulos del libro *R para Principiantes* para comp
 
 ------------------------------------------------------------------------
 
-# :four: **Importación de datos**
+# :four: Semana 4: **Importación de datos**
 
 En esta sesión hablamos sobre cómo importar distintos tipos de datos a nuestro ambiente de RStudio, que es una de las tareas más importantes a la hora de analizar datos.
 
@@ -114,7 +113,7 @@ En esta sesión hablamos sobre cómo importar distintos tipos de datos a nuestro
 
 ------------------------------------------------------------------------
 
-# :five: **Análisis de prefactibilidad y valor público**
+# :five: Semana 5: **Análisis de prefactibilidad y valor público**
 
 En esta sesión revisamos los aspectos más destacadas a la hora de analizar la factibilidad de llevar a cabo un proyecto de ciencia de datos.
 
@@ -138,6 +137,4 @@ Además, revisa los links complementarios de la presentación.
 
 ### [¿Cómo usar la Ciencia de Datos para mejorar los servicios en las instituciones públicas de salud?](https://youtu.be/gzb_bprZtu8)
 
-Charla realizada para el Laboratorio de Gobierno de Chile.
-Red de innovadores públicos y su ciclo de charlas de aprendizaje.
-<https://innovadorespublicos.cl/>
+Charla realizada para el Laboratorio de Gobierno de Chile. Red de innovadores públicos y su ciclo de charlas de aprendizaje. <https://innovadorespublicos.cl/>

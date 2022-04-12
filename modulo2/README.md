@@ -1,6 +1,6 @@
 # MÓDULO 2
 
-# :one: **Definición de problemas y objetivos**
+# :one: Semana 6: **Definición de problemas y objetivos**
 
 En la primera sesión del módulo 2 seguimos conversando sobre la importancia de definir el problema a resolver. Además, abordamos el modelo de marco lógico (MML) para ayudar a esta definición, de los objetivos y sus actividades.
 
@@ -30,7 +30,7 @@ Complementariamente a los documentos anteriores, te dejamos un par que nos parec
 
 ------------------------------------------------------------------------
 
-# :two: **Transformación de datos**
+# :two: Semana 7: **Transformación de datos**
 
 En esta sesión estuvimos revisando la importancia de transformar datos y cómo usar la librería `dplyr` (del megapaquete `Tidyverse`) para ello.
 
@@ -74,7 +74,7 @@ Puedes ver todo el contenido de la conferencia en [su repositorio de GitHub.](ht
 
 ------------------------------------------------------------------------
 
-# :three: **Manipulación de datos**
+# :three: Semana 8: **Manipulación de datos**
 
 En esta sesión estuvimos revisando la librería \`tidyr\`, que es parte del megapaquete `Tidyverse`. Esta librería nos permite manipular y ajustar los datos a formatos que nos facilitan su revisión y posterior análisis.
 
@@ -94,7 +94,7 @@ Nota: La funciones `gather` y `spread` tienen otras homólogas en `tidyr` que se
 
 ------------------------------------------------------------------------
 
-# :four: **Análisis exploratorio de datos**
+# :four: Semana 9: **Análisis exploratorio de datos**
 
 En esta sesión estuvimos revisando el análisis exploratorio de datos o EDA por sus siglas en ingles (*Exploratory Data Analysis*), que es una de las etapas más relevantes al inicio de los proyectos de datos para comprender de qué van éstos y empezar a "hacerle" preguntas a los datos. Más adelante profundizaremos en ello.
 
