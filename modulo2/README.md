@@ -114,11 +114,15 @@ Para complementar lo visto en la sesión, te recomiendamos mucho que leas el [Ca
 
 ------------------------------------------------------------------------
 
-# **Charla**
+# **Charlas**
 
 ### [¿Cómo resolver un problema usando programación?](https://youtu.be/eDpibmA2TeI)
 
 En esta charla está invitada Valentina Fernández. Ella es nutricionista y nos habla sobre su experiencia de usar programación para resolver un problema en su unidad en el hospital donde trabaja y que era evitar muchas acciones manuales y muchas horas de trabajo para generar algunos informes, por lo cual diseñó un script que le permite automatizar esas tareas de limpieza y recolección de datos.
+
+### [¿Cómo integrar toda una red asistencial de urgencias?](https://youtu.be/upgv84Ghoq8)
+
+En esta charla, Alejandra Moreno (Enfermera y parte del SAMU Servicio de salud Quillota y Valparaiso. Chile) nos contará sobre un proyecto público que facilitó la coordinación entre la red asistencial de urgencia prehospitalaria y la atención primaria de salud usando la tecnología como habilitante. Pero, principalmente, comprendiendo bien la problemática y cómo solucionarla.
 
 ------------------------------------------------------------------------
 
