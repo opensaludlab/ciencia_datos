@@ -141,7 +141,7 @@ Todos cometemos malas prácticas a la hora de programar. Lo importante es estar 
 
 ### :tv: [ [Video](https://youtu.be/lFhieJlIJTc) ]
 
-### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/taller_code_smells.R) ]
+### :closed_book: [ [Script](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/taller_code_smells.R) ]
 
 Links:
 
