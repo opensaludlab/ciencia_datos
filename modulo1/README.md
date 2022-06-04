@@ -133,6 +133,18 @@ Además, revisa los links complementarios de la presentación.
 
 ------------------------------------------------------------------------
 
+# Taller
+
+### No programes así!! Hablemos de los code smells
+
+Todos cometemos malas prácticas a la hora de programar. Lo importante es estar atento/a a ellos y evitar que se queden ahí, generando malos olores en tu código.
+
+### :tv: [ [Video](https://youtu.be/lFhieJlIJTc) ]
+
+### :closed_book: [ Slides ]
+
+------------------------------------------------------------------------
+
 # Charla
 
 ### [¿Cómo usar la Ciencia de Datos para mejorar los servicios en las instituciones públicas de salud?](https://youtu.be/gzb_bprZtu8)
