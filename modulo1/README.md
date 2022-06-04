@@ -141,7 +141,13 @@ Todos cometemos malas prácticas a la hora de programar. Lo importante es estar 
 
 ### :tv: [ [Video](https://youtu.be/lFhieJlIJTc) ]
 
-### :closed_book: [ Slides ]
+### :closed_book: [ [Slides](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo1/taller_code_smells.R) ]
+
+Links:
+
+1.  [Guías de estilo de `Tidyverse`](https://style.tidyverse.org/index.html).
+
+2.  [Addin RStudio](https://styler.r-lib.org/) para estilar automáticamente el código.
 
 ------------------------------------------------------------------------
 
