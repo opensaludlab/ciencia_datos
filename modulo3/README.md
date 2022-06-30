@@ -76,6 +76,6 @@ También te recomendamos [ver este video](https://youtu.be/jiuDr4aYgkY) de la NH
 
 Si llegaste hasta acá y realizaste los módulos 1, 2 y 3 siguiendo todos los consejos y practicaste mucho, estás más que capacitada/o para realizar el curso de **IBM Cognitive Class de visualización con R** sin mayores problemas.
 
-:point_right: [**Ir al curso**](https://cognitiveclass.ai/courses/data-visualization-with-r) **y obtener el certificado.**
+:point_right: [**Ir al curso**](https://cognitiveclass.ai/courses/course-v1:CognitiveClass+DV0151EN+v1) **y obtener el certificado.**
 
 ### 
