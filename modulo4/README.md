@@ -187,3 +187,11 @@ El machine learning es una área muy extensa de estudio y siempre está avanzand
 ### :new: Pronto realizaremos talleres en vivo sobre ML
 
 [Regístrate en el Discord](https://github.com/opensaludlab/ciencia_datos#point_right-ingresa-ac%C3%A1-para-unirte-a-la-comunidad-online-del-bootcamp-y-comienza-este-viaje-ahora) de nuestro Bootcamp para mantenerte al tanto de todas las novedades.
+
+------------------------------------------------------------------------
+
+# :white_check_mark: Certificado
+
+Si llegaste hasta acá y realizaste los módulos 1, 2, 3 y 4 siguiendo todos los consejos, talleres y practicaste mucho, estás más que capacitada/o para realizar el curso de **IBM Cognitive Class de Machine learning con R** sin mayores problemas.
+
+:point_right: [**Ir al curso**](https://cognitiveclass.ai/courses/machine-learning-r) **y obtener el certificado.**
