@@ -17,6 +17,8 @@ Versión 2
 :white_check_mark: Formato 100% online  
 :white_check_mark: Nuevo material casi todas las semanas
 
+[![](images/primeros%20pasos.png)](https://youtu.be/eP5gVdCtlxc)
+
 ### Índice
 
 1.  [Bienvenida](https://github.com/opensaludlab/ciencia_datos#bienvenida)
