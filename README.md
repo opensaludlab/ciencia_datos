@@ -17,7 +17,11 @@ Versión 2
 :white_check_mark: Formato 100% online  
 :white_check_mark: Nuevo material casi todas las semanas
 
+Revisa un resumen de lo que verás a lo largo del curso:
+
 [![](images/primeros%20pasos.png)](https://youtu.be/eP5gVdCtlxc)
+
+###   
 
 ### Índice
 
