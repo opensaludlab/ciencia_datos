@@ -17,13 +17,17 @@ Versión 2
 :white_check_mark: Formato 100% online  
 :white_check_mark: Nuevo material casi todas las semanas
 
-Revisa un resumen de lo que verás a lo largo del curso:
+ 
+
+Revisa un resumen (video) de lo que verás a lo largo del curso:
+
+*(Haz clic en la imagen)*
 
 [![](images/primeros%20pasos.png)](https://youtu.be/eP5gVdCtlxc)
 
-###   
+ 
 
-### Índice
+## Índice
 
 1.  [Bienvenida](https://github.com/opensaludlab/ciencia_datos#bienvenida)
 2.  [Objetivos](https://github.com/opensaludlab/ciencia_datos#objetivos)
