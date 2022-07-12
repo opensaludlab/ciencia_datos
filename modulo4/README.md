@@ -86,17 +86,17 @@ Revisa la sección [`Books`](https://github.com/opensaludlab/ciencia_datos/tree/
 
 ------------------------------------------------------------------------
 
-### Documentación recomendada
+### :point_right: Documentación muy recomendada
 
 La estadística es un ámbito clave para poder comprender el mundo que nos rodea, poder tomar decisiones con cierta certeza y, eventualmente, predecir el futuro respecto de un fenómeno particular.
 
 Te recomendamos los siguientes recursos para que puedas profundizar más sobre éstos temas:
 
--   [Libro: "Pensamiento estadístico para el siglo 21" (Poldrack 2021)](https://statsthinking21.github.io/statsthinking21-core-spanish-site/index.html) [Traducción en español del [original](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Statistical_Thinking_for_the_21st_Century_(Poldrack))]
-
 -   [Repo Curso Pensamiento Estadístico](https://github.com/dccuchile/CC6104) (Universidad de Chile - Departamento de Ciencias de la Computación)
 
 -   [Playlist completa YouTube](https://youtube.com/playlist?list=PLppKo85eGXiXpvRVYM5ZJEHWWofjzuiXw) con las clases del curso U. de Chile (en español)
+
+-   [Libro: "Pensamiento estadístico para el siglo 21" (Poldrack 2021)](https://statsthinking21.github.io/statsthinking21-core-spanish-site/index.html) [Traducción en español del [original](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Statistical_Thinking_for_the_21st_Century_(Poldrack))]
 
 ------------------------------------------------------------------------
 
