@@ -86,6 +86,20 @@ Revisa la sección [`Books`](https://github.com/opensaludlab/ciencia_datos/tree/
 
 ------------------------------------------------------------------------
 
+### Documentación recomendada
+
+La estadística es un ámbito clave para poder comprender el mundo que nos rodea, poder tomar decisiones con cierta certeza y, eventualmente, predecir el futuro respecto de un fenómeno particular.
+
+Te recomendamos los siguientes recursos para que puedas profundizar más sobre éstos temas:
+
+-   [Libro: "Pensamiento estadístico para el siglo 21" (Poldrack 2021)](https://statsthinking21.github.io/statsthinking21-core-spanish-site/index.html) [Traducción en español del [original](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Statistical_Thinking_for_the_21st_Century_(Poldrack))]
+
+-   [Repo Curso Pensamiento Estadístico](https://github.com/dccuchile/CC6104) (Universidad de Chile - Facultad de Matemáticas e Ingeniería)
+
+-   [Playlist completa YouTube](https://youtube.com/playlist?list=PLppKo85eGXiXpvRVYM5ZJEHWWofjzuiXw) con las clases del curso U. de Chile (en español)
+
+------------------------------------------------------------------------
+
 # :four: Semana 16: Introducción al machine learning
 
 En esta sesión comenzaremos a hablar sobre el machine learning (ML). Que suena lejano e intimidante, pero cuando lo entiendes, te das cuenta de que es algo bastante común y no tan difícil de implementarlo. De todas formas el estudio de esta temática es muy amplio y cada día se van desarrollando nuevas técnicas, modelos y aplicaciones.
@@ -163,9 +177,11 @@ En esta sesión revisamos algunos modelos de regresión para machine learning y 
 
 -   Puedes revisar estos [101 algoritmos de ML](https://online.datasciencedojo.com/blogs/machine-learning-algorithms) con una breve explicación y tutoriales de cómo implementarlos, tanto en R como en Python.
 
+-   Libro ["Modern Statistics with R"](https://modernstatisticswithr.com/) (From wrangling and exploring data to inference and predictive modelling).
+
 ------------------------------------------------------------------------
 
-:yellow_square: Revisa la [carpeta `Docs`](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo4/Docs), en la cual se irán dejando documentos, papers y presentaciones complementarias interesantes para este módulo. Revísalo con frecuencia.
+:yellow_square: Revisa la [carpeta `Docs`](https://github.com/opensaludlab/ciencia_datos/tree/main/modulo4/Docs), en la cual se irán dejando documentos, papers y presentaciones complementarias interesantes para este módulo.
 
 ------------------------------------------------------------------------
 
