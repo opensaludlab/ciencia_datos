@@ -98,7 +98,9 @@ Te recomendamos los siguientes recursos para que puedas profundizar más sobre �
 
 -   Libro: ["Pensamiento estadístico para el siglo 21"](https://statsthinking21.github.io/statsthinking21-core-spanish-site/index.html) (Poldrack 2021) [Traducción en español del [original](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Statistical_Thinking_for_the_21st_Century_(Poldrack))]
 
--   Libro ["Métodos cuantitativos"](https://bookdown.org/dietrichson/metodos-cuantitativos/) (Aleksander Dietrichson, PhD. 2019)
+-   Libro ["Métodos cuantitativos"](https://bookdown.org/dietrichson/metodos-cuantitativos/) (Aleksander Dietrichson, PhD. 2019
+
+-   [Web con explicaciones y muchos ejemplos](https://mgimond.github.io/Stats-in-R/index.html) de aplicación con R de estadísticos más comunes.
 
 ------------------------------------------------------------------------
 
