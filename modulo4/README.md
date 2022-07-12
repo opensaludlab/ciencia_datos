@@ -100,11 +100,13 @@ En especial, dale una mirada al curso, que si bien tiene materias avanzadas (com
 
 -   Libro: ["Pensamiento estadístico para el siglo 21"](https://statsthinking21.github.io/statsthinking21-core-spanish-site/index.html) (Poldrack 2021) [Traducción en español del [original](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Statistical_Thinking_for_the_21st_Century_(Poldrack))]
 
-Ademas, te dejamos estos otros recursos que te servirán como consulta posterior:
+Además, te dejamos estos otros recursos que te servirán como consulta posterior. Te recomendamos tenerlos a mano.
 
 -   Libro ["Métodos cuantitativos"](https://bookdown.org/dietrichson/metodos-cuantitativos/) (Aleksander Dietrichson, PhD. 2019
 
 -   [Web con explicaciones y muchos ejemplos](https://mgimond.github.io/Stats-in-R/index.html) de aplicación con R de estadísticos más comunes.
+
+-   Libro ["Learning Statistics with R - A tutorial for Psychology Students and other Beginners"](https://stats.libretexts.org/Bookshelves/Applied_Statistics/Book%3A_Learning_Statistics_with_R_-_A_tutorial_for_Psychology_Students_and_other_Beginners_(Navarro))
 
 ------------------------------------------------------------------------
 
