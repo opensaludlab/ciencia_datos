@@ -96,7 +96,9 @@ Te recomendamos los siguientes recursos para que puedas profundizar más sobre �
 
 -   [Playlist completa YouTube](https://youtube.com/playlist?list=PLppKo85eGXiXpvRVYM5ZJEHWWofjzuiXw) con las clases del curso U. de Chile (en español)
 
--   [Libro: "Pensamiento estadístico para el siglo 21" (Poldrack 2021)](https://statsthinking21.github.io/statsthinking21-core-spanish-site/index.html) [Traducción en español del [original](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Statistical_Thinking_for_the_21st_Century_(Poldrack))]
+-   Libro: ["Pensamiento estadístico para el siglo 21"](https://statsthinking21.github.io/statsthinking21-core-spanish-site/index.html) (Poldrack 2021) [Traducción en español del [original](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Statistical_Thinking_for_the_21st_Century_(Poldrack))]
+
+-   Libro ["Métodos cuantitativos"](https://bookdown.org/dietrichson/metodos-cuantitativos/) (Aleksander Dietrichson, PhD. 2019)
 
 ------------------------------------------------------------------------
 
