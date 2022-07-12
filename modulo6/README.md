@@ -12,8 +12,7 @@ En esta nueva sesión, junto a [Patricio Araneda](https://www.linkedin.com/in/pa
 
 ### Lectura recomendada
 
-[Acá puedes revisar la documentación](https://pkgs.rstudio.com/flexdashboard/) oficial de la librería `flexdahboard`.\
-Además, podrás encontrar varios [ejemplos](https://flexdashboard-pkg.netlify.app/articles/examples.html) de reportes de realizar usando esta librería. Míralos!! Hay varios super interesantes.
+[Acá puedes revisar la documentación](https://pkgs.rstudio.com/flexdashboard/) oficial de la librería `flexdahboard`. Además, podrás encontrar varios [ejemplos](https://flexdashboard-pkg.netlify.app/articles/examples.html) de reportes de realizar usando esta librería. Míralos!! Hay varios super interesantes.
 
 [Acá puedes revisar](https://rpubs.com/paraneda/) tanto el ejemplo visto en clases como otros de Patricio Araneda.
 
@@ -21,8 +20,7 @@ Además, podrás encontrar varios [ejemplos](https://flexdashboard-pkg.netlify.a
 
 # :two: Semana 23: Uso de Shiny pt1
 
-En esta sesión, junto a Patricio Araneda, comenzamos a revisar el uso de la librería `Shiny`.\
-Esta librería permite generar reportes web interactivos de muy interesante posibilidades como la interactividad e ingreso de datos por parte de los usuarios.
+En esta sesión, junto a Patricio Araneda, comenzamos a revisar el uso de la librería `Shiny`. Esta librería permite generar reportes web interactivos de muy interesante posibilidades como la interactividad e ingreso de datos por parte de los usuarios.
 
 ### :tv: [ [Video](https://youtu.be/VAakuuodTPU) ]
 
@@ -34,15 +32,13 @@ Acá puedes revisar la [documentación oficial](https://shiny.rstudio.com/) de l
 
 # :three: Semana 24: Uso de Shiny pt2
 
-En esta sesión, nuevamente junto a Patricio Araneda, seguimos revisando el uso de la librería `Shiny`.\
-Esta librería permite generar reportes web interactivos de muy interesante posibilidades como la interactividad e ingreso de datos por parte de los usuarios.
+En esta sesión, nuevamente junto a Patricio Araneda, seguimos revisando el uso de la librería `Shiny`. Esta librería permite generar reportes web interactivos de muy interesante posibilidades como la interactividad e ingreso de datos por parte de los usuarios.
 
 ### :tv: [ [Video](https://youtu.be/WyhTI0LIblo) ]
 
 ### Lectura recomendada
 
--   Acá puedes revisar la documentación oficial de la librería `Shiny`.\
-    [En este repositorio](https://github.com/paranedagarcia/shinyapp/blob/master/app.R) puedes ver el script usado en clase
+-   Acá puedes revisar la documentación oficial de la librería `Shiny`. [En este repositorio](https://github.com/paranedagarcia/shinyapp/blob/master/app.R) puedes ver el script usado en clase
 
 -   [En este video](https://youtu.be/sFNR9MBojVE) puede ver más sobre el uso de `shiny`
 
@@ -50,8 +46,7 @@ Esta librería permite generar reportes web interactivos de muy interesante posi
 
 # :four: Semana 25: R Markdown
 
-En esta sesión conversaremos sobre un indispensable en el mundo de la programación.\
-Debes conocer el lenguaje Markdown, pues es ampliamente usado en diversos lugares y cada vez más.
+En esta sesión conversaremos sobre un indispensable en el mundo de la programación. Debes conocer el lenguaje Markdown, pues es ampliamente usado en diversos lugares y cada vez más.
 
 ### :tv: [ [Video](https://youtu.be/tmKFndOL5A4) ]
 
@@ -72,3 +67,13 @@ Debes conocer el lenguaje Markdown, pues es ampliamente usado en diversos lugare
 -   [Sintaxis de Markdown](https://www.markdownguide.org/basic-syntax/)
 
 -   [Extras](https://aprender-uib.github.io/AprendeR2/extras-de-r-markdown.html) sobre markdown
+
+------------------------------------------------------------------------
+
+# Charla
+
+### [Mi experiencia automatizando procesos dentro de un hospital](https://youtu.be/sSAGAXGniho)
+
+En este taller, Alejandro Villegas (Data Scientist, Business Intelligence y Magister en Gestión Estratégica en Salud) nos hablará de su experiencia automatizando procesos en un hospital público de Santiago (Chile). Conversamos de la importancia de realizar estas acciones y cómo la programación y los modelos de visualización pueden ser de grana ayuda. Además, podremos conocer cómo lo hizo y su experiencia implementado este tipo de proyectos (R + Tableau).
+
+El reposotorio mostrado en la charla lo puedes [ver en este link](https://github.com/alevllgs/Ciencia_de_Datos_Salud).
