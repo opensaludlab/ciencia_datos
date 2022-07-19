@@ -46,17 +46,21 @@ No te asustes!! Revisa este video si tienes dudas si programar es para ti.
 
 [![Alt text](https://img.youtube.com/vi/imNaCay0E2w/0.jpg)](https://www.youtube.com/watch?v=imNaCay0E2w)
 
-## Algunos consejos
+## :bulb: Algunos consejos
 
 Estos consejos te los mencionanos al inicio para que le saques el máximo provecho al curso y las sesiones.
 
 1.  Ve los videos 2 ó 3 veces. No te quedes solo con la primera vista. Revísalos lentamente, pausalos y anda practicando en la medida que te sientas cómoda o cómodo.
 2.  Practica mucho!! Revisa los scripts, vuelve a hacerlos varias veces, hazle pequeños cambios e investiga un poco más. La práctica es lo principal.
-3.  El bootcamp está pensado para que puedas realizar 1 sesión por semana. Es posible que le tengas que dedicar, al menos, unas 5 a 6 horas a la semana. Planifícate!
-4.  Toma apuntes y notas.
+3.  El bootcamp está pensado para que puedas realizar 1 sesión por semana. Es posible que le tengas que dedicar, al menos, unas 5 a 7 horas a la semana. Planifícate! Y reserva un espacio para ello.
+4.  Toma apuntes y notas. Te dejamos este [template de Notion](https://www.notion.so/03b2fe8ab1ac4387b49af455ce908ce5?v=6e87141a722e41138c3161aa9a606438) para que lo uses como base.
 5.  Una de las mejoras formas de aprender es enseñar. No es necesario que sea a otra persona, puede ser a ti mismo o a algún familiar o amigo. Intenta explicar las cosas que vayas aprendiendo con tus propias palabras. ¿Conoces la técnica del patito de goma?.
-6.  Más allá de saber "escribir código" o programar, lo relevante es entender lo que haces, cómo y cuándo usar determinadas funciones. Al final, lo que se necesita es resolver un problema. Para todo lo demás, está Google.
-7.  Es muy probable que te bloquees y sientas que no avanzas, en especial al principio. No pasa nada!! A todos nos ha pasado. Es natural que ocurra eso. Toma aire, descansa, deja pasar unos días quizás y retoma las sesiones y vuelve a practicar y estudiar.
-8.  Recuerda que siempre tendrás a la comunidad para pedir ayuda.
-9.  Para que las sesiones sean más provechosas, quizás te sea útil usar 2 monitores: uno para ver el video o la documentación y otro para escribir el código.
+6.  Más allá de saber "escribir código" o programar, lo relevante es entender lo que haces, cómo y cuándo usar determinadas funciones. Al final, lo que se necesita es resolver un problema. Para todo lo demás, está Google (en serio).
+7.  Es muy probable que te bloquees y sientas que no avanzas, en especial al principio. No pasa nada!! A todos nos ha pasado. Es natural que ocurra eso. Toma aire, descansa, deja pasar unos días quizás y retoma las sesiones y vuelve a practicar y estudiar, pero hazlo de forma ordenada.
+8.  Recuerda que siempre tendrás a la comunidad de Discord para pedir ayuda.
+9.  Para que las sesiones sean más provechosas, quizás te sea útil usar 2 monitores: uno para ver el video o la documentación y otro para escribir el código. Pero eso es opcional.
 10. No te veas todos los videos de una vez ni te leas todo de inmediato. Calma!! Dedícale tiempo. Posiblemente es mejor dedicar 1 hora full, descansar unos 15 minutos y luego seguir full otra hora más. ¿Conoces la técnica pomodoro?
+
+Y recuerda...
+
+Cada sesión y clase tiene una sección de documentación adicional o complementaria. Esta documentación está curada y seleccionada para que fortalezcas los puntos claves de la clase en cuestión. Pero no te vuelvas loco/a!!! Algunas sesiones tienen bastante documentación complementaria y, a veces, excede lo que necesitas para seguir avanzando. Hay mucha que está ahí para que la tengas como material extra para profundizar más adelante o en algún momento puntual. No te leas todo ni pretendas aprenderte todo. Eso es imposible. Es mejor ir lento y pausado, pero comprendiendo bien lo que haces a que ir a lo bestia. Trata de ir consolidando los aprendizajes de a poco y según ello, seguir construyendo tu ruta de estudio.
