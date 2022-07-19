@@ -86,13 +86,13 @@ Porque queremos democratizar el acceso al conocimiento avanzado y nos gustaría 
 
 ## :unicorn: ¿A quién está dirigido?
 
-El Bootcamp está dirigido a todas las personas interesadas en introducirse en el área de la Ciencia de Datos y que quieren comenzar a aplicarla dentro de instituciones públicas de salud.
+El Bootcamp está dirigido a todas las personas interesadas en introducirse en el área de la Ciencia de Datos y que quieren comenzar a aplicarla dentro de instituciones de salud o de forma particular como freelance.
 
 ## :date: Cronograma
 
 La idea es realizar 1 sesión a la semana, con un tiempo de dedicación de unas 5 a 7 horas aprox. Esto implica ver los videos de clases, realizar los talleres y ver al bibliografía mencionada en cada clase.
 
-`Cada sesión y clase tiene una sección de documentación adicional o complementaria. Esta documentación está curada y seleccionada para que fortalezcas los puntos claves de la clase en cuestión. Pero no te vuelvas loco/a!!! Algunas sesiones tienen bastante documentación complementaria y, a veces, excede lo que necesitas para seguir avanzando. Hay mucha que está ahí para que la tengas como material extra para profundizar más adelante o en algún momento puntual. No te leas todo ni pretendas aprenderte todo. Eso es imposible. Es mejor ir lento y pausado, pero comprendiendo bien lo que haces a que ir a lo bestia. Trata de ir consolidando los aprendizajes de a poco y según ello, seguir construyendo tu ruta de estudio.`
+Cada sesión y clase tiene una sección de documentación adicional o complementaria. Esta documentación está curada y seleccionada para que fortalezcas los puntos claves de la clase en cuestión. Pero no te vuelvas loco/a!!! Algunas sesiones tienen bastante documentación complementaria y, a veces, excede lo que necesitas para seguir avanzando. Hay mucha que está ahí para que la tengas como material extra para profundizar más adelante o en algún momento puntual. No te leas todo ni pretendas aprenderte todo. Eso es imposible. Es mejor ir lento y pausado, pero comprendiendo bien lo que haces a que ir a lo bestia. Trata de ir consolidando los aprendizajes de a poco y según ello, seguir construyendo tu ruta de estudio.
 
 Eso, al menos, pues si quieres desarrollar de mejor forma tus habilidades, es altamente relevante que busques más recursos y practiques mucho. Es posible que necesites más tiempo al principio.
 
