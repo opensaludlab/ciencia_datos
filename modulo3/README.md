@@ -48,6 +48,8 @@ El script usado también puedes revisarlo en el [siguiente proyecto de RStudio C
 
 Personalizar las distintas partes de los gráficos realizado con ggplot2 es uno de los temas más fascinates, pero no siempre es tan fácil. Para ayudarte en eso, [acá puedes ver un configurador](https://ggplot2tor.com/theme/) que te entrega los códigos para ir personalizando las partes de los temas. Revisa las otras secciones de esa web, puedes ver todas las funciones de las `aesthetics` y las `scales`.
 
+Revisa [este repositorio](https://github.com/erikgahner/awesome-ggplot2) que contiene una gran selección de extensiones para la librería ggplot2, aumentando sus funcionalidades con muchas cosas interesantes y de gran utilidad.
+
 ------------------------------------------------------------------------
 
 # :three: Semana 12: Visualización de datos (parte 3)

@@ -8,7 +8,7 @@ Antes de inciar este módulo, si es que no tienes mucho acercamiento a temas de 
 
 # :one: Semana 13: Gestión ética de datos
 
-En esta sesión abordamos unos de los temas más relevantes del curso: la gestión responsable y ética de datos.  
+En esta sesión abordamos unos de los temas más relevantes del curso: la gestión responsable y ética de datos.\
 Un *must have* en todo proyecto de ciencia de datos.
 
 ### :tv: [ [Video](https://youtu.be/l26N9oI4bTw) ]
@@ -23,7 +23,7 @@ Siempre es necesario conocer el marco normativo, acá te dejo la [Ley 19.628](ht
 
 Acá puede revisar la [política chilena sobre inteligencia artificial.](https://minciencia.gob.cl/areas-de-trabajo/inteligencia-artificial/politica-nacional-de-inteligencia-artificial/)
 
-Para complementar lo visto en la sesión puedes revisar los links que están en la presentación.  
+Para complementar lo visto en la sesión puedes revisar los links que están en la presentación.\
 Algunos relevantes son:
 
 -   [Data fallacies](https://www.geckoboard.com/best-practice/statistical-fallacies/)
@@ -31,6 +31,8 @@ Algunos relevantes son:
 -   [Texto completo RGDP](https://rgpd.es/) (en español)
 
 -   [Estudio del uso intensivo de datos en políticas públicas](https://modernizacion.hacienda.cl/documento-single?documento=gc_4), Programa de modernización del Ministerio de Hacienda. Chile
+
+-   [Guía para formulación ética de proyectos de ciencia de datos](https://digital.gob.cl/transformacion-digital/estandares-y-guias/guia-formulacion-etica-de-proyectos-de-ciencia-de-datos/).
 
 Además, ve estos videos que son muy recomendables. Varias de las cosas que hablamos también están tratados en esos videos.
 
@@ -50,7 +52,7 @@ Sobre la anonimización de datos les dejamos algunos recursos interesantes:
 
 Bonus:
 
-Esto es interesante. Este es un algoritmo que permite evaluar el nivel de sesgos que puede tener un dataset. Es de código abierto y se puede usar instalándolo vía Python o bien, en su versión web.  
+Esto es interesante. Este es un algoritmo que permite evaluar el nivel de sesgos que puede tener un dataset. Es de código abierto y se puede usar instalándolo vía Python o bien, en su versión web.\
 [Aequitas - Bias and Fairness Audit Toolkit](http://aequitas.dssg.io/)
 
 ------------------------------------------------------------------------
@@ -67,7 +69,7 @@ En esta sesión comenzamos a revisar los fundamentos estadísticos de los proyec
 
 ### Lectura recomendada
 
-En la carpeta Books puedes encontrar varios libros muy recomendados. Si bien son libros relativamente para principiantes, es importante que ya manejes programación y tengas conocimientos en estadísticas. Por ello, es recomendable que los tengas como lectura de consulta.  
+En la carpeta Books puedes encontrar varios libros muy recomendados. Si bien son libros relativamente para principiantes, es importante que ya manejes programación y tengas conocimientos en estadísticas. Por ello, es recomendable que los tengas como lectura de consulta.\
 De los libros, [te recomiendo leas este](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo4/Books/Statistics%20Cartoon%20Guide.pdf), en especial si no tienes mucha formación estadística. Es un libro entretenido y que explica varios conceptos básicos de estadísticas y probabilidades.
 
 ------------------------------------------------------------------------
@@ -144,7 +146,7 @@ Te recomendamos complementar la charla con documentación sobre modelos de super
 
 # :five: Semana 17: Machine learning - modelos de clasificación
 
-En esta sesión estaremos revisando los modelos de machine learning de aprendizaje supervisado, en particular, los modelos de clasificación.  
+En esta sesión estaremos revisando los modelos de machine learning de aprendizaje supervisado, en particular, los modelos de clasificación.\
 Revisamos los modelos de árboles de decisión, random forest y modelos GBM (gradient boosting machine) y usamos un resampleo con cross-validation para evaluarlos.
 
 ### :tv: [ [Video](https://youtu.be/4T3myLAynXc) ]
@@ -201,13 +203,13 @@ En esta sesión revisamos algunos modelos de regresión para machine learning y 
 
 El machine learning es una área muy extensa de estudio y siempre está avanzando. Acá solo revisamos algunos puntos para darte una guía y el impulso a que sigas aprendiendo. Te aconsejamos que sigas adelante. No quizás en estos momentos para que sigas con el próximos módulo del curso, pero tenlos en mente para más adelante.
 
-1.  En este repositorio podrán encontrar un curso de Microsoft sobre ML. Es introductorio, pero es bastante interesante. Incluye los códigos en Python y en R en varios de ellos. En inglés.  
+1.  En este repositorio podrán encontrar un curso de Microsoft sobre ML. Es introductorio, pero es bastante interesante. Incluye los códigos en Python y en R en varios de ellos. En inglés.\
     [microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all (github.com)](https://github.com/microsoft/ML-For-Beginners/)
 
-2.  Web con breve curso interactivo con el uso de ML sobre `tidymodels` de Julia Silge, Data Scientist de RStudio y creadora de la librería. En inglés.  
+2.  Web con breve curso interactivo con el uso de ML sobre `tidymodels` de Julia Silge, Data Scientist de RStudio y creadora de la librería. En inglés.\
     [Supervised machine learning case studies in R! · A free interactive course (supervised-ml-course.netlify.app)](https://supervised-ml-course.netlify.app/)
 
-3.  Curso super didáctico, apoyado por el Govierno de Finlandia, sobre inteligencia artificial, sin código. Se basa en explicar de forma simple distintos conceptos de ML y la importancia de comprender sus alcances y riesgos. En español.  
+3.  Curso super didáctico, apoyado por el Govierno de Finlandia, sobre inteligencia artificial, sin código. Se basa en explicar de forma simple distintos conceptos de ML y la importancia de comprender sus alcances y riesgos. En español.\
     [Una introducción a la inteligencia artificial, en línea y gratis, para no expertos (elementsofai.com)](https://www.elementsofai.com/es)
 
 ------------------------------------------------------------------------
