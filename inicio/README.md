@@ -28,6 +28,8 @@ Estos elementos son de increíble relevancia y utilidad, pues no solo porque pue
 
 Nota: En algunas sesiones pregrabadas se menciona a la plataforma Twist como el lugar donde van a quedar las actividades, foros y documetación. Esa plataforma la usamos en la versión anterior, pero la reemplazamos por Discord. Así que cada vez que se haga mención a Twist, piensa en Discord.
 
+------------------------------------------------------------------------
+
 ## Lenguaje R
 
 Este curso aborda el lenguaje de programación R.
@@ -40,11 +42,15 @@ Para ello, necesitarán instalar las siguientes cosas:
 
 Durante las primeras sesiones revisaremos cómo usarlos.
 
+------------------------------------------------------------------------
+
 ## ¿Eres principiante en todo ésto de la ciencia de datos?
 
 No te asustes!! Revisa este video si tienes dudas si programar es para ti.
 
-[![Alt text](https://img.youtube.com/vi/imNaCay0E2w/0.jpg)](https://www.youtube.com/watch?v=imNaCay0E2w)
+[![Video inicial](https://img.youtube.com/vi/imNaCay0E2w/0.jpg)](https://www.youtube.com/watch?v=imNaCay0E2w)
+
+------------------------------------------------------------------------
 
 ## :bulb: Algunos consejos
 
@@ -64,3 +70,17 @@ Estos consejos te los mencionanos al inicio para que le saques el máximo provec
 Y recuerda...
 
 Cada sesión y clase tiene una sección de documentación adicional o complementaria. Esta documentación está curada y seleccionada para que fortalezcas los puntos claves de la clase en cuestión. Pero no te vuelvas loco/a!!! Algunas sesiones tienen bastante documentación complementaria y, a veces, excede lo que necesitas para seguir avanzando. Hay mucha que está ahí para que la tengas como material extra para profundizar más adelante o en algún momento puntual. No te leas todo ni pretendas aprenderte todo. Eso es imposible. Es mejor ir lento y pausado, pero comprendiendo bien lo que haces a que ir a lo bestia. Trata de ir consolidando los aprendizajes de a poco y según ello, seguir construyendo tu ruta de estudio.
+
+------------------------------------------------------------------------
+
+## ➡️ Revisa estos mini talleres antes de empezar el curso
+
+Estos mini talleres están pensados para que adquieras competencias básicas sobre algunas plataformas que usamos en el curso. Pero, además, te serán de gran utilidad en el mundo de la programación. Ya verás!!
+
+Te serán de gran ayuda.
+
+[![Cómo usar Discord](images/aprendendo%20discord.jpg)](https://youtu.be/JKgiCwY9Xb0)
+
+Nota: en las sesiones grabadas del curso se usaba otra plataforma. En la nueva versión, usamos Discord para la comunidad. Así que cuando mencionamos a Twist en los videos, aplica casi lo mismo para Discord.\
+
+[![Cómo usar GitHub](images/aprendiendo%20github.jpg)](https://youtu.be/RxvWH7fI9Y8)
