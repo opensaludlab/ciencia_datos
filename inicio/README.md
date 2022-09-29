@@ -79,8 +79,8 @@ Estos mini talleres están pensados para que adquieras competencias básicas sob
 
 Te serán de gran ayuda.
 
-[![](images/aprendendo%20discord.jpg){width="480"}](https://youtu.be/JKgiCwY9Xb0)
+[![](https://i3.ytimg.com/vi/JKgiCwY9Xb0/maxresdefault.jpg)](https://youtu.be/RxvWH7fI9Y8)
 
 Nota: en las sesiones grabadas del curso se usaba otra plataforma. En la nueva versión, usamos Discord para la comunidad. Así que cuando mencionamos a Twist en los videos, aplica casi lo mismo para Discord.\
 
-[![](images/aprendiendo%20github.jpg){width="480"}](https://youtu.be/RxvWH7fI9Y8)
+[![](https://i3.ytimg.com/vi/RxvWH7fI9Y8/maxresdefault.jpg)](https://youtu.be/RxvWH7fI9Y8)
