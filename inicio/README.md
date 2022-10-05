@@ -75,12 +75,18 @@ Cada sesión y clase tiene una sección de documentación adicional o complement
 
 ## ➡️ Revisa estos mini talleres antes de empezar el curso
 
-Estos mini talleres están pensados para que adquieras competencias básicas sobre algunas plataformas que usamos en el curso. Pero, además, te serán de gran utilidad en el mundo de la programación. Ya verás!!
+Estos mini talleres están pensados para que adquieras competencias básicas sobre algunas plataformas que usamos en el curso. Pero, además, te serán de gran utilidad en el mundo de la programación.
+
+Ya verás!!
 
 Te serán de gran ayuda.
 
-[![](https://i3.ytimg.com/vi/JKgiCwY9Xb0/maxresdefault.jpg)](https://youtu.be/RxvWH7fI9Y8)
+Revisa los talleres:
 
-Nota: en las sesiones grabadas del curso se usaba otra plataforma. En la nueva versión, usamos Discord para la comunidad. Así que cuando mencionamos a Twist en los videos, aplica casi lo mismo para Discord.\
+1.  [Aprende a usar Discord](https://youtu.be/RxvWH7fI9Y8)
 
-[![](https://i3.ytimg.com/vi/RxvWH7fI9Y8/maxresdefault.jpg)](https://youtu.be/RxvWH7fI9Y8)
+2.  [Aprende a usar GitHub](https://youtu.be/RxvWH7fI9Y8)
+
+3.  [Aprende a usar Notion](https://youtu.be/ZhMch_Hg7dk)
+
+Nota: en las sesiones grabadas del curso se usaba otra plataforma para las preguntas y foros. En la nueva versión, usamos Discord para la comunidad. Así que cuando mencionamos a Twist en los videos, aplica casi lo mismo para Discord. Tenlo en mente.

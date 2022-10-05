@@ -8,14 +8,14 @@ Versión 2
 
  
 
-**Accede de forma libre y gratuita a:**  
-:white_check_mark: +80 horas de clases pregrabadas  
-:white_check_mark: +200 horas de recursos  
-:white_check_mark: Documentación seleccionada  
-:white_check_mark: Talleres en vivo  
-:white_check_mark: Tutorías 1-1 y grupales  
-:white_check_mark: Formato 100% online  
-:white_check_mark: Nuevo material casi todas las semanas
+**Accede de forma libre y gratuita a:**\
+:white_check_mark: +100 horas de clases pregrabadas\
+:white_check_mark: +200 horas de recursos y material complementario\
+:white_check_mark: Documentación seleccionada\
+:white_check_mark: Talleres en vivo\
+:white_check_mark: Tutorías\
+:white_check_mark: Formato 100% online\
+:white_check_mark: Nuevo material constantemente
 
  
 
@@ -74,8 +74,8 @@ Pero debes saber algo desde ya!! Esto de la Ciencia de Datos (y la programación
 
 ### Novedades de esta versión
 
-En esta nueva versión del Bootcamp tendremos disponible una [comunidad online](https://discord.gg/mpJadAbxYN) (en Discord) para que puedas acceder a otros materiales, hacer consultas, resolver tus dudas y compartir con el resto de los miembros. Y por qué no, ayudar a otros.  
-Tendremos, también, nuevos talleres y sesiones en vivo para ir reforzando cada módulo.  
+En esta nueva versión del Bootcamp tendremos disponible una [comunidad online](https://discord.gg/mpJadAbxYN) (en Discord) para que puedas acceder a otros materiales, hacer consultas, resolver tus dudas y compartir con el resto de los miembros. Y por qué no, ayudar a otros.\
+Tendremos, también, nuevos talleres y sesiones en vivo para ir reforzando cada módulo.\
 Además, se agregarán otros temas que vimos relevantes en la versión anterior como webscraping, control de versiones con GIT, series de tiempo y profundizar más en el manejo del paquete `Tidyverse` que permite transformar, manipular y limpiar datos.
 
 Esto hace que el Bootcamp sea un curso, principalmente, autoadminstrado, en donde se mezclan actividades sincrónicas (sesiones en vivo) con asincrónicas (videos grabados, comunidad online, documentación, prácticas y lecturas) para profundizar en ciertos temas, resolver dudas o realizar talleres.
