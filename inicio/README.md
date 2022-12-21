@@ -83,7 +83,7 @@ Te serán de gran ayuda.
 
 Revisa los talleres:
 
-1.  [Aprende a usar Discord](https://youtu.be/RxvWH7fI9Y8)
+1.  [Aprende a usar Discord](https://youtu.be/JKgiCwY9Xb0)
 
 2.  [Aprende a usar GitHub](https://youtu.be/RxvWH7fI9Y8)
 
