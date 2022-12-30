@@ -76,6 +76,18 @@ También te recomendamos [ver este video](https://youtu.be/jiuDr4aYgkY) de la NH
 
 ------------------------------------------------------------------------
 
+## Material complementario
+
+La visualización de datos es un campo muy extenso y que aporta mucho valor a los análisis, entendimiento y comunicación. Es aconsejable profundizar en esta área.
+
+Independiente de que continues con los siguientes módulos, te aconsejamos que sigas estudiando sobre visualización.
+
+Para ello, te dejamos los siguientes recursos:
+
+1.  [Data visualization with R](https://rkabacoff.github.io/datavis/)
+2.  [Fundamentals of data visualization](https://clauswilke.com/dataviz/)
+3.  [Workshop on "Graphic Design with ggplot2"](https://www.cedricscherer.com/2022/08/09/2-day-workshop-on-graphic-design-with-ggplot2-at-rstudioconf-2022/) (muy recomendable!)
+
 # :white_check_mark: Certificado
 
 Si llegaste hasta acá y realizaste los módulos 1, 2 y 3 siguiendo todos los consejos y practicaste mucho, estás más que capacitada/o para realizar el curso de **IBM Cognitive Class de visualización con R** sin mayores problemas.
