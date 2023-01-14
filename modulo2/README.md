@@ -106,7 +106,9 @@ En esta sesión estuvimos revisando el análisis exploratorio de datos o EDA por
 
 ### Lectura recomendada
 
-Para complementar lo visto en la sesión, te recomiendamos mucho que leas el [Capítulo 7 del libro R para Ciencia de Datos](https://r4ds-en-espaniol.netlify.app/an%C3%A1lisis-exploratorio-de-datos-eda.html). Te darás cuenta de que varios de los scripts revisados están allí.
+-   Para complementar lo visto en la sesión, te recomiendamos mucho que leas el [Capítulo 7 del libro R para Ciencia de Datos](https://r4ds-en-espaniol.netlify.app/an%C3%A1lisis-exploratorio-de-datos-eda.html). Te darás cuenta de que varios de los scripts revisados están allí.
+
+-   Libro [Análisis secundario de datos en salud](https://github.com/opensaludlab/ciencia_datos/blob/main/modulo2/Docs/Uso_secundario_de_datos_en_salud-MIT.pdf) del MIT. Es un libro muy interesante y de fácil lectura.
 
 ------------------------------------------------------------------------
 
