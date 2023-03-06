@@ -1,6 +1,10 @@
 # MÓDULO 4
 
-Antes de inciar este módulo, si es que no tienes mucho acercamiento a temas de estadísticas o no estás muy familiarizado/a con eso, te recomendamos que realices este curso previamente. Es gratis.<https://www.coursera.org/learn/estadistica-aplicada-negocios>
+Antes de inciar este módulo, si es que no tienes mucho acercamiento a temas de estadísticas o no estás muy familiarizado/a con eso, te recomendamos que realices este curso previamente. Es gratis y se basa en el uso de Excel para los ejemplos. \
+<https://www.coursera.org/learn/estadistica-aplicada-negocios>
+
+Este libro contiene diversos métodos para la **infererencia estadística**. Está en inglés, pero es de fácil lectura. Además, es bien concreto en el uso de los métodos y sus aplicaciones en R. Te recomendamos que lo tengas de consulta frecuente y que lo uses para complementar lo que veremos en este módulo.
+[Practical Statistics in Medicine with R (bougioukas-medstats-r.netlify.app)](https://bougioukas-medstats-r.netlify.app/)
 
 :smiley: [Regístrate en el Discord](https://github.com/opensaludlab/ciencia_datos#point_right-ingresa-ac%C3%A1-para-unirte-a-la-comunidad-online-del-bootcamp-y-comienza-este-viaje-ahora) de nuestro Bootcamp y comenta en el canal del curso dedicado a este tema.
 
